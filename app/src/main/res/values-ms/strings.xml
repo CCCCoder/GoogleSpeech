@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Carian Suara</string>
+    <string name="settings">Tetapan</string>
+    <string name="settings_button">Tetapan</string>
+    <string name="english_voice_ime_name">Papan kekunci Android</string>
+    <string name="initializing">Memulakan</string>
+    <string name="listening">Sebutkan sekarang</string>
+    <string name="working">Berjalan</string>
+    <string name="wait">Tunggu</string>
+    <string name="try_again">Cuba lagi</string>
+    <string name="no_match">Tiada padanan ditemui</string>
+    <string name="network_error">Masalah sambungan</string>
+    <string name="server_error">Masalah pelayan</string>
+    <string name="audio_error">Masalah audio</string>
+    <string name="recognizer_busy_error">Pengecam pertuturan sibuk</string>
+    <string name="speech_timeout">Tiada pertuturan didengari</string>
+    <string name="error">Masalah tidak diketahui</string>
+    <string name="audio_file_access">Akses Audio Dirakamkan</string>
+    <string name="audio_file_access_desc">Boleh mengakses sebutan audio yang dirakamkan bagi nota untuk diri sendiri dan untuk analisis audio kasar</string>
+    <string name="shortcut_access">Pintasan Carian Suara</string>
+    <string name="shortcut_access_desc">Boleh mengakses pintasan yang dibuat untuk carian suara</string>
+    <string name="personalization_header">Pengecaman diperibadikan</string>
+    <string name="personalization_settings_message">Mempertingkatkan ketepatan pengecaman pertuturan</string>
+    <string name="manage_personalization">Papan pemuka Google Akaun</string>
+    <string name="manage_personalization_message">Uruskan data terkumpul anda</string>
+    <string name="personalization_popup_first_time_header">Adakah anda mahu menghidupkan pengecaman yang diperibadikan pada peranti ini?</string>
+    <string name="personalization_popup_message">Untuk mempertingkatkan mutu pengecaman pertuturan, Google akan mengaitkan rakaman anda dengan Akaun Google anda seperti dalam START_LINKDasar Privasi Mudah AlihEND_LINK.</string>
+    <string name="personalization_more_info">Maklumat Lanjut</string>
+    <string name="personalization_popup_disable_message">Jika anda melumpuhkan ciri ini, anda tidak lagi akan menyesuaikan pengecaman untuk suara anda dan tiada rakaman dari peranti ini akan dikaitkan dengan Akaun Google anda pada masa hadapan.NEW_LINE NEW_LINEPergi ke START_LINKPapan pemuka GoogleEND_LINK untuk menguruskan data anda.</string>
+    <string name="button_yes">Ya</string>
+    <string name="button_no">Tidak</string>
+    <string name="connection_retying">Mencuba semula...</string>
+    <string name="help">Bantuan</string>
+    <string name="help_hint">Sentuh <b>Bantuan</b> untuk mengetahui apa yang anda boleh sebutkan</string>
+    <string name="help_header">Cuba sebutkan...</string>
+    <string name="voice_actions">Tindakan Suara</string>
+    <string name="did_you_mean">Adakah maksud anda...</string>
+    <string name="did_you_say">Adakah anda menyebut...</string>
+    <string name="or_try_search">atau cuba mana-mana carian Google melalui suara</string>
+    <string name="dial">Dail</string>
+    <string name="go">Pergi</string>
+    <string name="tryagain">Sebutkan sekali lagi</string>
+    <string name="speak_now">Sebutkan sekarang</string>
+    <string name="search_hint">Carian Google</string>
+    <string name="voice_search_product_name">Carian Google</string>
+    <string name="contact_dialing_product_name">Dailan kenalan</string>
+    <string name="speechservice_error">Pengecaman pertuturan tidak tersedia</string>
+    <string name="searching">Mencari...</string>
+    <string name="setting_alarm">Menetapkan penggera...</string>
+    <string name="messaging_label">Pesanan</string>
+    <string name="sending_sms">Menghantar…</string>
+    <string name="error_sending_sms">Mesej tidak dapat dihantar.</string>
+    <string name="sms_sent">Mesej dihantar.</string>
+    <string name="no_suggestions">Tiada cadangan</string>
+    <string name="add_number">Tambah nombor</string>
+    <string name="voiceSearchPreferences">Tetapan pengecaman suara Google</string>
+    <string name="prefTitle_language">Bahasa</string>
+    <string name="prefDialogTitle_language">Bahasa</string>
+    <string name="prefDefault_language">lalai</string>
+    <string name="prefDefaultTitlePrefix_language">Lalai - %s</string>
+    <string name="prefTitle_safeSearch">SafeSearch</string>
+    <string name="prefSummary_safeSearchOff">Matikan — Jangan menapis hasil carian saya</string>
+    <string name="prefSummary_safeSearchModerate">Sederhana - Menapis imej eksplisit sahaja</string>
+    <string name="prefSummary_safeSearchStrict">Ketat — Menapis kedua-dua teks eksplisit dan imej eksplisit</string>
+    <string name="prefSummary_safeSearchSuffix">Diguna pakai hanya untuk carian Google melalui suara</string>
+    <string name="prefDialogTitle_safeSearch">SafeSearch</string>
+    <string name="prefTitle_profanityFilter">Halang perkataan menjelikkan</string>
+    <string name="prefSummary_profanityFilter">Sembunyikan hasil carian suara menjelikkan yang dikenal pasti</string>
+    <string name="warningDialogTitle">Carian suara</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"Carian suara tidak disokong untuk bahasa peranti anda pada masa ini.
+
+Sebaliknya, bahasa yang akan digunakan adalah: %s.
+
+Untuk menukar ke bahasa carian suara yang lain, lawati Tetapan."</string>
+    <string name="warningDialogMessageLocaleChanged">"Bahasa carian suara anda telah ditukar ke: %s.
+
+Untuk menukar ke bahasa carian suara yang lain, lawati Tetapan."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"Bahasa carian suara anda telah ditukar ke: %s.
+
+Untuk menukar ke bahasa carian suara yang lain, lawati Tetapan."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Carian suara sekarang menyokong bahasa lalai yang lain untuk peranti anda: %s.
+
+Untuk menukar ke bahasa ini atau bahasa carian suara yang lain, lawati Tetapan."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Carian suara sekarang menyokong bahasa peranti anda: %s.
+
+Untuk menukar ke bahasa carian suara yang lain, lawati Tetapan."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Carian suara sekarang menyokong bahasa peranti anda: %s.
+
+Untuk menukar ke bahasa ini atau bahasa carian suara yang lain, lawati Tetapan."</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Batal</string>
+    <string name="appNameVoiceLog">Log Suara</string>
+    <string name="textPathToOutput">Laluan ke fail output:</string>
+    <string name="textStopButton">Berhenti</string>
+    <string name="textRecordButton">Rakam</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">Sejarah Carian Suara</string>
+    <string name="search_label">Label Carian Suara</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Padam</string>
+    <string name="message_too_long">Mesej terlalu panjang.</string>
+    <string name="send_email_submit">Hantar</string>
+    <string name="send_sms_submit">Hantar</string>
+    <string name="set_alarm_submit">Tetapkan</string>
+    <string name="note_to_self_submit">Hantar</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">dari:</string>
+    <string name="menu_item_settings_title">Tetapan</string>
+    <string name="help_watch_video">tonton video</string>
+    <string name="help_watch_video_capitalized">Tonton video</string>
+    <string name="help_title_action">Gunakan <annotation action="true">Tindakan Suara</annotation> untuk mencari, mengawal dan berkomunikasi.</string>
+    <string name="help_hint_format">“%s”</string>
+    <string name="show_hints_on_search_title">Tunjukkan pembayang</string>
+    <string name="show_hints_on_search">Tunjukkan pembayang pada kotak carian</string>
+    <string name="unsupported_action_dialog_title_format">“%s...”</string>
+    <string name="unsupported_action_dialog_message_default">Peranti anda tidak menyokong tindakan suara ini pada masa ini.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"Untuk menggunakan ciri ini, muat turun Peta Google terkini dari Android Market.
+
+Atau, anda  mungkin berada dalam kawasan yang tidak disokong untuk tindakan ini."</string>
+    <string name="unsupported_action_dialog_message_send_email">Untuk menggunakan ciri ini, muat turun Gmail terkini dari Android Market.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">Untuk menggunakan ciri ini, muat turun aplikasi jam yang menyokong tindakan ini dari Android Market.</string>
+    <string name="unsupported_action_dialog_message_listen_to">Untuk menggunakan ciri ini, muat turun aplikasi muzik yang menyokong tindakan in dari Android Market.</string>
+    <string name="market_button">Pergi ke Market</string>
+    <string name="website_button">Pergi ke laman web</string>
+    <string name="apps_button">Pergi ke apl</string>
+    <string name="first_time_use_dialog_message_listen_to">"Anda boleh menggunakan ciri ini dengan banyak aplikasi yang berbeza.
+
+Lawati laman web di bawah untuk mendapatkan senarai untuk banyak lagi pilihan atau tekan OK untuk meneruskan."</string>
+    <string name="contacts_slot_placeholder">Sentuh untuk menambah kenalan</string>
+    <string name="text_slot_placeholder">Sentuh untuk menambah teks</string>
+    <string name="time_slot_placeholder">Sentuh untuk menetapkan masa</string>
+    <string name="required_field_missing">Medan yang diperlukan tiada</string>
+    <string name="no_video_available">Tiada video tersedia.</string>
+    <string name="permission_label_set_alarm">tetapkan penggera dalam jam loceng</string>
+    <string name="permission_description_set_alarm">Benarkan aplikasi ini untuk menetapkan penggera dalam aplikasi jam loceng yang dipasangkan. Beberapa aplikasi jam loceng mungkin tidak melaksanakan ciri ini.</string>
+    <string name="help_search_title">carian web</string>
+</resources>

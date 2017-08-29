@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:paddingLeft="1.0px" android:paddingTop="12.0px" android:paddingRight="1.0px" android:paddingBottom="9.0px" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:id="@id/correction_content" android:layout_width="fill_parent" android:layout_height="fill_parent" android:minWidth="160.0dip">
+            <com.google.android.voicesearch.actioneditor.ColumnListView android:orientation="vertical" android:id="@id/correction_list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:listSelector="@drawable/vs_popup_item" android:divider="@null" android:dividerHeight="0.0dip" android:isScrollContainer="false" />
+            <LinearLayout android:orientation="horizontal" android:id="@id/correction_buttons" android:background="@drawable/popup_buttons_bg" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_weight="1.0">
+                <ImageButton android:id="@id/correction_edit_button" android:background="@drawable/btn_popup_left" android:padding="4.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/vs_keyboard_small_blue" android:layout_weight="1.0" />
+                <ImageButton android:id="@id/correction_delete_button" android:background="@drawable/btn_popup_center" android:padding="4.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/vs_delete_small_blue" android:layout_weight="1.0" />
+                <ImageButton android:id="@id/correction_mic_button" android:background="@drawable/btn_popup_right" android:padding="4.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/vs_mic_small_blue" android:layout_weight="1.0" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</merge>

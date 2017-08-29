@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/recording_popup" android:paddingLeft="1.0px" android:paddingTop="14.0px" android:paddingRight="1.0px" android:paddingBottom="9.0px" android:layout_width="@dimen/recording_popup_size" android:layout_height="@dimen/recording_popup_size"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="16.0sp" android:textColor="@color/black" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/recording_popup_text" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_alignParentTop="true" />
+    <com.google.android.voicesearch.actioneditor.SoundIndicator android:id="@id/recording_popup_indicator" android:background="@drawable/vs_popup_mic_base" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/vs_popup_mic_full" android:layout_centerInParent="true" />
+    <com.google.android.voicesearch.ui.ProgressSpinner android:id="@id/recording_popup_progress" android:visibility="gone" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_marginTop="10.0dip" android:tint="#ff2f4a8a" android:layout_centerInParent="true" />
+    <ImageView android:id="@id/recording_popup_image" android:visibility="gone" android:layout_width="60.0dip" android:layout_height="60.0dip" android:layout_marginTop="10.0dip" android:src="@drawable/vs_popup_warning" android:layout_centerInParent="true" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/recording_buttons" android:background="@drawable/popup_buttons_bg" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_alignParentBottom="true">
+        <Button android:textColor="@color/black" android:id="@id/recording_popup_cancel" android:background="@drawable/btn_popup_full" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/cancel" />
+    </LinearLayout>
+</RelativeLayout>

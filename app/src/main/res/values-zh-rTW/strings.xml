@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">語音搜尋</string>
+    <string name="settings">設定</string>
+    <string name="settings_button">設定</string>
+    <string name="english_voice_ime_name">Android 鍵盤</string>
+    <string name="initializing">啟動中</string>
+    <string name="listening">請說話</string>
+    <string name="working">辨識中</string>
+    <string name="wait">等候</string>
+    <string name="try_again">重試</string>
+    <string name="no_match">未找到相符的項目</string>
+    <string name="network_error">連線問題</string>
+    <string name="server_error">伺服器問題</string>
+    <string name="audio_error">音訊問題</string>
+    <string name="recognizer_busy_error">語音辨識系統忙碌中</string>
+    <string name="speech_timeout">沒有聽到任何聲音</string>
+    <string name="error">未知的錯誤</string>
+    <string name="audio_file_access">預先錄製的語音存取權限</string>
+    <string name="audio_file_access_desc">可使用預先錄製的語音提醒自己，並可進行原始語音分析</string>
+    <string name="shortcut_access">語音搜尋捷徑</string>
+    <string name="shortcut_access_desc">允許使用語音搜尋捷徑</string>
+    <string name="personalization_header">個人化辨識</string>
+    <string name="personalization_settings_message">提升語音辨識功能的精確度</string>
+    <string name="manage_personalization">Google 帳戶資訊主頁</string>
+    <string name="manage_personalization_message">管理您所收集的資料</string>
+    <string name="personalization_popup_first_time_header">您要在這個裝置上啟用個人化辨識功能嗎？</string>
+    <string name="personalization_popup_message">為了提升語音辨識功能的品質，Google 會依據《START_LINK行動服務隱私權政策END_LINK》，為您的錄音和「Google 帳戶」建立關聯。</string>
+    <string name="personalization_more_info">更多資訊</string>
+    <string name="personalization_popup_disable_message">如果您停用這項功能，今後我們將不再針對您的語音進行個人辨識，並且會取消這部裝置的錄音與您「Google 帳戶」之間的關聯。NEW_LINE NEW_LINE前往 START_LINKGoogle 資訊主頁END_LINK管理您的資料。</string>
+    <string name="button_yes">是</string>
+    <string name="button_no">否</string>
+    <string name="connection_retying">重試中...</string>
+    <string name="help">說明</string>
+    <string name="help_hint">輕觸 [說明] 以瞭解您可以說哪些內容</string>
+    <string name="help_header">試著說...</string>
+    <string name="voice_actions">語音操作</string>
+    <string name="did_you_mean">您是不是要查...</string>
+    <string name="did_you_say">您的意思是...</string>
+    <string name="or_try_search">或嘗試任何「Google 語音搜尋」</string>
+    <string name="dial">撥號</string>
+    <string name="go">立即前往</string>
+    <string name="tryagain">重試</string>
+    <string name="speak_now">請說話</string>
+    <string name="search_hint">Google 搜尋</string>
+    <string name="voice_search_product_name">Google 搜尋</string>
+    <string name="contact_dialing_product_name">聯絡人撥號</string>
+    <string name="speechservice_error">無法使用語音辨識功能</string>
+    <string name="searching">搜尋中...</string>
+    <string name="setting_alarm">正在設定鬧鐘...</string>
+    <string name="messaging_label">短訊</string>
+    <string name="sending_sms">傳送中...</string>
+    <string name="error_sending_sms">無法傳送訊息。</string>
+    <string name="sms_sent">訊息已傳送。</string>
+    <string name="no_suggestions">沒有建議</string>
+    <string name="add_number">新增電話號碼</string>
+    <string name="voiceSearchPreferences">Google 語音辨識服務設定</string>
+    <string name="prefTitle_language">語言</string>
+    <string name="prefDialogTitle_language">語言</string>
+    <string name="prefDefault_language">預設</string>
+    <string name="prefDefaultTitlePrefix_language">預設 - %s</string>
+    <string name="prefTitle_safeSearch">安全搜尋</string>
+    <string name="prefSummary_safeSearchOff">關閉 — 不要過濾搜尋結果</string>
+    <string name="prefSummary_safeSearchModerate">中安全性 — 只過濾限制級的圖片</string>
+    <string name="prefSummary_safeSearchStrict">高安全性 — 過濾限制級的文字及圖片</string>
+    <string name="prefSummary_safeSearchSuffix">僅適用於 Google 語音搜尋</string>
+    <string name="prefDialogTitle_safeSearch">安全搜尋</string>
+    <string name="prefTitle_profanityFilter">封鎖令人反感的言語</string>
+    <string name="prefSummary_profanityFilter">隱藏已辨識為令人反感言語的結果</string>
+    <string name="warningDialogTitle">語音搜尋</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"語音搜尋功能目前不支援您使用的裝置語言。
+
+系統將改用：%s。
+
+如要切換至其他語音搜尋語言，請前往 [設定]。"</string>
+    <string name="warningDialogMessageLocaleChanged">"您的語音搜尋語言已變更為%s。
+
+如要切換至其他語音搜尋語言，請前往 [設定]。"</string>
+    <string name="warningDialogMessageNewBackoffDefault">"您的語音搜尋語言已變更為%s。
+
+如要切換至其他語音搜尋語言，請前往 [設定]。"</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"語音搜尋功能已可支援您裝置上的其他預設語言：%s。
+
+如要切換至上述語言或其他語音搜尋語言，請前往 [設定]。"</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"語音搜尋功能已可支援您裝置使用的語言：%s。
+
+如要切換至其他語音搜尋語言，請前往 [設定]。"</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"語音搜尋功能已可支援您的裝置所使用的語言：%s。
+
+如要切換至上述語言或其他語音搜尋語言，請前往 [設定]。"</string>
+    <string name="ok">確定</string>
+    <string name="cancel">取消</string>
+    <string name="appNameVoiceLog">語音記錄</string>
+    <string name="textPathToOutput">輸出檔案的路徑：</string>
+    <string name="textStopButton">停止</string>
+    <string name="textRecordButton">記錄</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">語音搜尋記錄</string>
+    <string name="search_label">語音搜尋標籤</string>
+    <string name="edit">編輯</string>
+    <string name="delete">刪除</string>
+    <string name="message_too_long">訊息過長。</string>
+    <string name="send_email_submit">傳送</string>
+    <string name="send_sms_submit">傳送</string>
+    <string name="set_alarm_submit">設定</string>
+    <string name="note_to_self_submit">傳送</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s： "</string>
+    <string name="from_account">寄件者：</string>
+    <string name="menu_item_settings_title">設定</string>
+    <string name="help_watch_video">觀看影片</string>
+    <string name="help_watch_video_capitalized">觀看影片</string>
+    <string name="help_title_action">使用<annotation action="true">語音操作</annotation>來進行搜尋、控制及通訊。</string>
+    <string name="help_hint_format">「%s」</string>
+    <string name="show_hints_on_search_title">顯示提示</string>
+    <string name="show_hints_on_search">在搜尋框內顯示提示</string>
+    <string name="unsupported_action_dialog_title_format">「%s...」</string>
+    <string name="unsupported_action_dialog_message_default">您的裝置目前不支援這項語音操作。</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"如要使用這項功能，請從 Android Market 下載最新的「Google 地圖」。
+
+或是您所在的地區不支援執行這項操作。"</string>
+    <string name="unsupported_action_dialog_message_send_email">如要使用這項功能，請從 Android Market 下載最新的 Gmail。</string>
+    <string name="unsupported_action_dialog_message_set_alarm">如要使用這項功能，請從 Android Market 下載支援這項操作的時鐘應用程式。</string>
+    <string name="unsupported_action_dialog_message_listen_to">如要使用這項功能，請從 Android Market 下載支援這項操作的音樂應用程式。</string>
+    <string name="market_button">前往 Market</string>
+    <string name="website_button">前往網站</string>
+    <string name="apps_button">前往應用程式</string>
+    <string name="first_time_use_dialog_message_listen_to">"這項功能可以支援許多不同的應用程式。
+
+請瀏覽以下網站，瞭解自己還有哪些選擇，或按一下 [確定] 繼續。"</string>
+    <string name="contacts_slot_placeholder">輕觸一下即可新增聯絡人</string>
+    <string name="text_slot_placeholder">輕觸一下即可新增文字</string>
+    <string name="time_slot_placeholder">輕觸一下即可設定時間</string>
+    <string name="required_field_missing">必填欄位未填寫</string>
+    <string name="no_video_available">沒有可觀看的視訊。</string>
+    <string name="permission_label_set_alarm">在鬧鐘應用程式中設定鬧鐘</string>
+    <string name="permission_description_set_alarm">允許應用程式在安裝的鬧鐘應用程式中設定鬧鐘，某些鬧鐘應用程式可能無法執行這項功能。</string>
+    <string name="help_search_title">網頁搜尋</string>
+    
+    <string name="install_google_voice">請安裝穀歌語音輸入</string>
+    <string name="install_xunfei_voice">请安装訊飛語音輸入</string>
+    <string name="unknow_voice_type">未知的語音輸入類型，請在設定中的語音輸入中選擇穀歌語音輸入或者訊飛輸入</string>
+    <string name="browser_not_install">瀏覽器未安裝</string>
+</resources>

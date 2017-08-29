@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Stemmesøgning</string>
+    <string name="settings">Indstillinger</string>
+    <string name="settings_button">Indstillinger</string>
+    <string name="english_voice_ime_name">Android-tastatur</string>
+    <string name="initializing">Starter</string>
+    <string name="listening">Tal nu</string>
+    <string name="working">Arbejder</string>
+    <string name="wait">Vent</string>
+    <string name="try_again">Prøv igen</string>
+    <string name="no_match">Ingen matches</string>
+    <string name="network_error">Forbindelsesproblem</string>
+    <string name="server_error">Serverproblem</string>
+    <string name="audio_error">Lydproblem</string>
+    <string name="recognizer_busy_error">Stemmegenkendelse er optaget</string>
+    <string name="speech_timeout">Der blev ikke hørt nogen stemme</string>
+    <string name="error">Ukendt problem</string>
+    <string name="audio_file_access">Adgang til lydoptagelser</string>
+    <string name="audio_file_access_desc">Har adgang til optaget lyd med egne noter samt analyse af lyd i raw-format</string>
+    <string name="shortcut_access">Genveje til stemmesøgning</string>
+    <string name="shortcut_access_desc">Adgang til genveje til stemmesøgning</string>
+    <string name="personalization_header">Personlig genkendelse</string>
+    <string name="personalization_settings_message">Gør stemmegenkendelse mere nøjagtig</string>
+    <string name="manage_personalization">Betjeningspanel, Google-konto</string>
+    <string name="manage_personalization_message">Administrer dine samlede data</string>
+    <string name="personalization_popup_first_time_header">Vil du aktivere personlig genkendelse på denne enhed?</string>
+    <string name="personalization_popup_message">Google forbedrer kvaliteten af stemmegenkendelsen ved at knytte dine optagelser til din Google-konto i henhold til START_LINKPolitik til beskyttelse af personlige oplysninger for MobilEND_LINK.</string>
+    <string name="personalization_more_info">Yderligere oplysninger</string>
+    <string name="personalization_popup_disable_message">Hvis du deaktiverer denne funktion, vil vi ikke længere tilpasse genkendelsen af din stemme, og optagelser fra denne enhed knyttes ikke til din Google-konto fremover.NEW_LINE NEW_LINEGå til START_LINKGoogle DashboardEND_LINK for at administrere dine data.</string>
+    <string name="button_yes">Ja</string>
+    <string name="button_no">Nej</string>
+    <string name="connection_retying">Prøver igen...</string>
+    <string name="help">Hjælp</string>
+    <string name="help_hint">Tryk på <b>Hjælp</b> for at få at vide, hvad du kan sige</string>
+    <string name="help_header">Prøv at sige...</string>
+    <string name="voice_actions">Talehandlinger</string>
+    <string name="did_you_mean">Mente du...</string>
+    <string name="did_you_say">Sagde du...</string>
+    <string name="or_try_search">eller prøv Googles stemmesøgning</string>
+    <string name="dial">Ring til</string>
+    <string name="go">Start</string>
+    <string name="tryagain">Tal igen</string>
+    <string name="speak_now">Tal nu</string>
+    <string name="search_hint">Google-søgning</string>
+    <string name="voice_search_product_name">Google-søgning</string>
+    <string name="contact_dialing_product_name">Opkald til kontakt</string>
+    <string name="speechservice_error">Stemmegenkendelse er ikke tilgængelig</string>
+    <string name="searching">Søger...</string>
+    <string name="setting_alarm">Angiver alarm...</string>
+    <string name="messaging_label">Beskeder</string>
+    <string name="sending_sms">Sender...</string>
+    <string name="error_sending_sms">Beskeden blev ikke sendt.</string>
+    <string name="sms_sent">Beskeden er sendt.</string>
+    <string name="no_suggestions">Ingen forslag</string>
+    <string name="add_number">Tilføj nummer</string>
+    <string name="voiceSearchPreferences">Indstillinger for Google stemmegenkendelse</string>
+    <string name="prefTitle_language">Sprog</string>
+    <string name="prefDialogTitle_language">Sprog</string>
+    <string name="prefDefault_language">Standard</string>
+    <string name="prefDefaultTitlePrefix_language">Standard – %s</string>
+    <string name="prefTitle_safeSearch">Beskyttet søgning</string>
+    <string name="prefSummary_safeSearchOff">Fra – Filtrer ikke mine søgeresultater</string>
+    <string name="prefSummary_safeSearchModerate">Moderat – Filtrer kun eksplicitte billeder</string>
+    <string name="prefSummary_safeSearchStrict">Strengt – Filtrer både eksplicit tekst og eksplicitte billeder</string>
+    <string name="prefSummary_safeSearchSuffix">Gælder kun for Google stemmesøgning</string>
+    <string name="prefDialogTitle_safeSearch">Beskyttet søgning</string>
+    <string name="prefTitle_profanityFilter">Bloker krænkende ord</string>
+    <string name="prefSummary_profanityFilter">Skjul genkendte krænkende stemmeresultater</string>
+    <string name="warningDialogTitle">Stemmesøgning</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"Stemmesøgning understøttes i øjeblikket ikke for din enheds sprog.
+
+Sproget, der anvendes i stedet, er: %s.
+
+Besøg Indstillinger for at skifte til et andet stemmesøgningssprog."</string>
+    <string name="warningDialogMessageLocaleChanged">"Dit stemmesøgningssprog er blevet ændret til: %s.
+
+Besøg Indstillinger for at skifte til et andet stemmesøgningssprog."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"Dit stemmesøgningssprog er blevet ændret til: %s.
+
+Besøg Indstillinger for at skifte til et andet stemmesøgningssprog."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Stemmesøgning understøtter nu et andet standardsprog for din enhed: %s.
+
+Besøg Indstillinger for at skifte til dette eller et andet stemmesøgningssprog."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Stemmesøgning understøtter nu din enheds sprog: %s.
+
+Besøg Indstillinger for at skifte til et andet stemmesøgningssprog."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Stemmesøgning understøtter nu din enheds sprog: %s.
+
+Besøg Indstillinger for at skifte til dette eller et andet stemmesøgningssprog."</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuller</string>
+    <string name="appNameVoiceLog">Stemmeregistrering</string>
+    <string name="textPathToOutput">Sti til outputfil:</string>
+    <string name="textStopButton">Stop</string>
+    <string name="textRecordButton">Optag</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">Oversigt for stemmesøgning</string>
+    <string name="search_label">VoiceSearch-etiket</string>
+    <string name="edit">Rediger</string>
+    <string name="delete">Slet</string>
+    <string name="message_too_long">Beskeden er for lang.</string>
+    <string name="send_email_submit">Send</string>
+    <string name="send_sms_submit">Send</string>
+    <string name="set_alarm_submit">Angiv</string>
+    <string name="note_to_self_submit">Send</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">fra:</string>
+    <string name="menu_item_settings_title">Indstillinger</string>
+    <string name="help_watch_video">se en video</string>
+    <string name="help_watch_video_capitalized">Se en video</string>
+    <string name="help_title_action">Brug <annotation action="true">talehandlinger</annotation> til at søge, håndtere og kommunikere.</string>
+    <string name="help_hint_format">“%s”</string>
+    <string name="show_hints_on_search_title">Vis tip</string>
+    <string name="show_hints_on_search">Vis tip til søgefelt</string>
+    <string name="unsupported_action_dialog_title_format">\"%s...\"</string>
+    <string name="unsupported_action_dialog_message_default">Din enhed understøtter ikke denne talehandling i øjeblikket.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"Download det seneste Google Maps fra Android Market for at bruge denne funktion.
+
+Du kan også befinde dig et sted, der ikke understøttes."</string>
+    <string name="unsupported_action_dialog_message_send_email">Download det seneste Gmail fra Android Market for at bruge denne funktion.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">Download det seneste alarmprogram, der understøtter denne handling, fra Android Marked for at bruge denne funktion.</string>
+    <string name="unsupported_action_dialog_message_listen_to">Download det seneste musikprogram, der understøtter denne handling, fra Android Market for at bruge denne funktion.</string>
+    <string name="market_button">Gå til Market</string>
+    <string name="website_button">Gå til websted</string>
+    <string name="apps_button">Gå til programmer</string>
+    <string name="first_time_use_dialog_message_listen_to">"Du kan bruge denne funktion med mange forskellige programmer.
+
+Besøg webstedet nedenfor for at få en liste over flere valgmuligheder, eller tryk på OK for at fortsætte."</string>
+    <string name="contacts_slot_placeholder">Tryk for at tilføje en kontaktperson</string>
+    <string name="text_slot_placeholder">Tryk for at tilføje tekst</string>
+    <string name="time_slot_placeholder">Tryk for at angive et tidspunkt</string>
+    <string name="required_field_missing">Obligatorisk felt mangler</string>
+    <string name="no_video_available">Ingen tilgængelige videoer.</string>
+    <string name="permission_label_set_alarm">indstil alarm i alarm</string>
+    <string name="permission_description_set_alarm">Giver programmet tilladelse til at indstille en alarm i et installeret alarmprogram. Visse alarmprogrammer implementerer muligvis ikke denne funktion.</string>
+    <string name="help_search_title">websøgning</string>
+</resources>

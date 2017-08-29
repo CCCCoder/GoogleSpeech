@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Pesquisa por voz</string>
+    <string name="settings">Configurações</string>
+    <string name="settings_button">Configurações</string>
+    <string name="english_voice_ime_name">Teclado Android</string>
+    <string name="initializing">Iniciando</string>
+    <string name="listening">Fale agora</string>
+    <string name="working">Trabalhando</string>
+    <string name="wait">Aguardar</string>
+    <string name="try_again">Repetir</string>
+    <string name="no_match">Sem resultados</string>
+    <string name="network_error">Problema na conexão</string>
+    <string name="server_error">Problema com o servidor</string>
+    <string name="audio_error">Problema com o áudio</string>
+    <string name="recognizer_busy_error">Reconhecedor de voz ocupado</string>
+    <string name="speech_timeout">Nenhuma fala ouvida</string>
+    <string name="error">Problema desconhecido</string>
+    <string name="audio_file_access">Acesso às gravações de áudio</string>
+    <string name="audio_file_access_desc">Pode acessar as gravações de áudio para anotações próprias e para análise do áudio bruto</string>
+    <string name="shortcut_access">Atalhos da pesquisa por voz</string>
+    <string name="shortcut_access_desc">Pode acessar os atalhos criados para pesquisas por voz</string>
+    <string name="personalization_header">Reconhecimento personalizado</string>
+    <string name="personalization_settings_message">Melhorar a precisão do reconhecimento de voz</string>
+    <string name="manage_personalization">Painel da Conta do Google</string>
+    <string name="manage_personalization_message">Gerenciar seus dados coletados</string>
+    <string name="personalization_popup_first_time_header">Gostaria de ativar o reconhecimento personalizado neste aparelho?</string>
+    <string name="personalization_popup_message">Para aprimorar a qualidade do reconhecimento de voz, o Google associará suas gravações à sua Conta do Google de acordo com a START_LINKPolítica de Privacidade para celularEND_LINK.</string>
+    <string name="personalization_more_info">Mais informações</string>
+    <string name="personalization_popup_disable_message">Se você desativar esse recurso, não poderemos mais adaptar o reconhecimento da sua voz, e nenhuma gravação futura desse aparelho será associada à sua Conta do Google.NEW_LINE NEW_LINEVá para o START_LINKPainel de controle do GoogleEND_LINK para gerenciar seus dados.</string>
+    <string name="button_yes">Sim</string>
+    <string name="button_no">Não</string>
+    <string name="connection_retying">Tentando novamente...</string>
+    <string name="help">Ajuda</string>
+    <string name="help_hint">Toque em <b>Ajuda</b> para saber o que você pode dizer</string>
+    <string name="help_header">Tente dizer...</string>
+    <string name="voice_actions">Ações de voz</string>
+    <string name="did_you_mean">Você quis dizer...</string>
+    <string name="did_you_say">Você disse...</string>
+    <string name="or_try_search">ou tente qualquer Pesquisa do Google por voz</string>
+    <string name="dial">Discar</string>
+    <string name="go">Ir</string>
+    <string name="tryagain">Fale de novo</string>
+    <string name="speak_now">Fale agora</string>
+    <string name="search_hint">Pesquisa do Google</string>
+    <string name="voice_search_product_name">Pesquisa do Google</string>
+    <string name="contact_dialing_product_name">Discagem para o contato</string>
+    <string name="speechservice_error">O reconhecimento de voz não está disponível</string>
+    <string name="searching">Pesquisando...</string>
+    <string name="setting_alarm">Definindo alarme...</string>
+    <string name="messaging_label">Mensagens</string>
+    <string name="sending_sms">Enviando...</string>
+    <string name="error_sending_sms">Não foi possível enviar a mensagem.</string>
+    <string name="sms_sent">Mensagem enviada.</string>
+    <string name="no_suggestions">Sem sugestões</string>
+    <string name="add_number">Adicionar número</string>
+    <string name="voiceSearchPreferences">Configurações de reconhecimento de voz do Google</string>
+    <string name="prefTitle_language">Idioma</string>
+    <string name="prefDialogTitle_language">Idioma</string>
+    <string name="prefDefault_language">padrão</string>
+    <string name="prefDefaultTitlePrefix_language">Padrão - %s</string>
+    <string name="prefTitle_safeSearch">SafeSearch</string>
+    <string name="prefSummary_safeSearchOff">Desativado: Não filtrar os resultados da minha pesquisa</string>
+    <string name="prefSummary_safeSearchModerate">Moderado: Filtrar apenas imagens explícitas</string>
+    <string name="prefSummary_safeSearchStrict">Restrito: Filtrar texto e imagens explícitos</string>
+    <string name="prefSummary_safeSearchSuffix">Aplica-se somente à pesquisa por voz</string>
+    <string name="prefDialogTitle_safeSearch">SafeSearch</string>
+    <string name="prefTitle_profanityFilter">Bloq. palavras ofensivas</string>
+    <string name="prefSummary_profanityFilter">Ocultar resultados de fala reconhecidamente ofensivos</string>
+    <string name="warningDialogTitle">Pesquisa por voz</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"No momento, a pesquisa por voz não é suportada para o idioma do seu aparelho.
+
+O idioma que será usado no lugar é: %s.
+
+Para alternar para um idioma de pesquisa por voz diferente, visite as Configurações."</string>
+    <string name="warningDialogMessageLocaleChanged">"O idioma da sua pesquisa por voz foi alterado para: %s.
+
+Para alternar para um idioma de pesquisa por voz diferente, visite as Configurações."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"O idioma da sua pesquisa por voz foi alterado para: %s.
+
+Para alternar para um idioma de pesquisa por voz diferente, visite as Configurações."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Agora a pesquisa por voz suporta um idioma padrão diferente para o seu aparelho: %s.
+
+Para alternar para este ou outro idioma de pesquisa por voz, visite as Configurações."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Agora a pesquisa por voz suporta o idioma do seu aparelho: %s.
+
+Para alternar para um idioma de pesquisa por voz diferente, visite as Configurações."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Agora a pesquisa por voz suporta o idioma do seu aparelho: %s.
+
+Para alternar para este ou outro idioma de pesquisa por voz, visite as Configurações."</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="appNameVoiceLog">Voice Log</string>
+    <string name="textPathToOutput">Caminho para o arquivo de saída:</string>
+    <string name="textStopButton">Parar</string>
+    <string name="textRecordButton">Gravar</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">Histórico de pesquisa por voz</string>
+    <string name="search_label">Marcador da Pesquisa de voz do Google</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Excluir</string>
+    <string name="message_too_long">Mensagem muito longa</string>
+    <string name="send_email_submit">Enviar</string>
+    <string name="send_sms_submit">Enviar</string>
+    <string name="set_alarm_submit">Definir</string>
+    <string name="note_to_self_submit">Enviar</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">de:</string>
+    <string name="menu_item_settings_title">Configurações</string>
+    <string name="help_watch_video">assista a um vídeo</string>
+    <string name="help_watch_video_capitalized">Assista a um vídeo</string>
+    <string name="help_title_action">Use as <annotation action="true">Ações de voz</annotation> para pesquisar, controlar e se comunicar.</string>
+    <string name="help_hint_format">“%s”</string>
+    <string name="show_hints_on_search_title">Mostrar dicas</string>
+    <string name="show_hints_on_search">Mostrar dicas na caixa de pesquisa</string>
+    <string name="unsupported_action_dialog_title_format">“%s...”</string>
+    <string name="unsupported_action_dialog_message_default">Seu dispositivo não oferece suporte atualmente para essa ação de voz.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"Para usar esse recurso, faça download da versão mais recente do Google Maps no Android Market.
+
+Você talvez esteja em uma região sem suporte para essa ação."</string>
+    <string name="unsupported_action_dialog_message_send_email">Para usar esse recurso, faça download do Gmail mais recente no Android Market.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">Para usar esse recurso, faça download de um aplicativo de relógio que ofereça suporte para essa ação no Android Market.</string>
+    <string name="unsupported_action_dialog_message_listen_to">Para usar esse recurso, faça download de um aplicativo de música que ofereça suporte para essa ação no Android Market.</string>
+    <string name="market_button">Ir para Market</string>
+    <string name="website_button">Ir ao site</string>
+    <string name="apps_button">Ir para aplicativos</string>
+    <string name="first_time_use_dialog_message_listen_to">"Você pode usar esse recurso com vários aplicativos diferentes.
+
+Visite o site abaixo para obter uma lista de outras opções ou pressione OK para continuar."</string>
+    <string name="contacts_slot_placeholder">Toque para adicionar um contato</string>
+    <string name="text_slot_placeholder">Toque para adicionar texto</string>
+    <string name="time_slot_placeholder">Toque para definir uma hora</string>
+    <string name="required_field_missing">Campo obrigatório ausente</string>
+    <string name="no_video_available">Nenhum vídeo disponível.</string>
+    <string name="permission_label_set_alarm">definir alarme no despertador</string>
+    <string name="permission_description_set_alarm">Permite que o aplicativo defina um alarme no aplicativo de despertador instalado. Não é possível implementar esse recurso em alguns aplicativos de despertador.</string>
+    <string name="help_search_title">pesquisa na web</string>
+</resources>

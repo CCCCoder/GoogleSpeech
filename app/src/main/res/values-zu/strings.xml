@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Ukucinga Ngezwi</string>
+    <string name="settings">Amasethingi</string>
+    <string name="settings_button">Amasethingi</string>
+    <string name="english_voice_ime_name">Ikhibhodi ye-Android</string>
+    <string name="initializing">Iyaqalisa</string>
+    <string name="listening">Khuluma manje</string>
+    <string name="working">Iyasebenza</string>
+    <string name="wait">Linda</string>
+    <string name="try_again">Zama futhi</string>
+    <string name="no_match">Akukho ukufana okutholakele</string>
+    <string name="network_error">Inkinga yokuxhumano</string>
+    <string name="server_error">Inkinga yeseva</string>
+    <string name="audio_error">Inkinga yomsindo</string>
+    <string name="recognizer_busy_error">Isikhumbuli sezwi simatasa</string>
+    <string name="speech_timeout">Alikho izwi elizwakele</string>
+    <string name="error">Inkinga engaziwa</string>
+    <string name="audio_file_access">Ukungena Emsindweni Orekhodiwe</string>
+    <string name="audio_file_access_desc">Ungathola amazwi omsindo arekhodiwe amanothi akho, nokuhlaziya umsindo ongahluziwe</string>
+    <string name="shortcut_access">Izinqamuleli Zokucinga Izwi</string>
+    <string name="shortcut_access_desc">Ayikwazi ukuthola izinqamuleli ezenzizwe zokucinga izwi</string>
+    <string name="personalization_header">Isikhumbuli somuntu siqu</string>
+    <string name="manage_personalization">Ideshbhodi ye-Akhawunti ye-Google</string>
+    <string name="manage_personalization_message">Lawula idatha yakho eqoqiwe</string>
+    <string name="personalization_popup_first_time_header">Ingabe ungathanda ukuvula ukuqaphela komuntu siqu kuledivaysi?</string>
+    <string name="personalization_popup_message">Ukuthuthukisa ikhwalithi yesikhumbuli sezwi, i-Google izohlobanisa okurekhodiwe kwakho ne-Akhawunti ye-Google nge START_LINKMobile Privacy PolicyEND_LINK.</string>
+    <string name="personalization_more_info">Okunye Ukwaziswa</string>
+    <string name="personalization_popup_disable_message">Uma uvala lesici, ngeke sisalungisa isikhumbuli sezwi lakho, futhi akukho ukurekhoda kwesikhathi esizayo kuledivaysi okuzohlobana ne-Akhawunti yakho ye-Google.NEW_LINE NEW_LINEGo to the START_LINKGoogle dashboardEND_LINK ukulawula idatha yakho.</string>
+    <string name="button_yes">Yebo</string>
+    <string name="button_no">Cha</string>
+    <string name="connection_retying">Iyazama futhi...</string>
+    <string name="help">Usizo</string>
+    <string name="help_hint">Thinta <b>Usizo</b> ukufunda ukuthi ungathini</string>
+    <string name="help_header">Zama ukuthi...</string>
+    <string name="voice_actions">Izenzo Zezwi</string>
+    <string name="did_you_mean">Kade usho...</string>
+    <string name="did_you_say">Ingabe uthe...</string>
+    <string name="or_try_search">noma zama noma yikuphi ukucinga nge-Google kwezwi</string>
+    <string name="dial">Dayela</string>
+    <string name="go">Iya</string>
+    <string name="tryagain">Khuluma futhi</string>
+    <string name="speak_now">Khuluma manje</string>
+    <string name="search_hint">Ukucinga nge-Google</string>
+    <string name="voice_search_product_name">Ukucinga nge-Google</string>
+    <string name="contact_dialing_product_name">Ukudayela kwabathintwayo</string>
+    <string name="speechservice_error">Isikhumbuli sezwi asitholakali</string>
+    <string name="searching">Iyacinga...</string>
+    <string name="setting_alarm">Ihlela i-alamu...</string>
+    <string name="messaging_label">Ukubhala umyalezo</string>
+    <string name="sending_sms">Iyathumela...</string>
+    <string name="error_sending_sms">Umyalezo awukwazanga ukuthunyelwa.</string>
+    <string name="sms_sent">Umyalezo uthunyelwe.</string>
+    <string name="no_suggestions">Akukho okusikiselwayo</string>
+    <string name="add_number">Faka inombolo</string>
+    <string name="voiceSearchPreferences">Amasethingi esikhumbuli sezwi e-Google</string>
+    <string name="prefTitle_language">Ulimi</string>
+    <string name="prefDialogTitle_language">Ulimi</string>
+    <string name="prefDefault_language">okumisiwe</string>
+    <string name="prefDefaultTitlePrefix_language">Okumisiwe - %s</string>
+    <string name="prefTitle_safeSearch">Ukucinga Okuphephile</string>
+    <string name="prefSummary_safeSearchOff">Valiwe — Ungahluzi imiphumela yami yokucinga</string>
+    <string name="prefSummary_safeSearchModerate">Okulingene —Imifanekiso ecacile yokuhlunga kuphela</string>
+    <string name="prefSummary_safeSearchStrict">Imithetho eqinile — Hlunga kokubili umbhalo ocacile nemifanekiso ecacile</string>
+    <string name="prefSummary_safeSearchSuffix">Isebenza kuphela ekucingeni kwe-Google ngezwi</string>
+    <string name="prefDialogTitle_safeSearch">Ukucinga Okuphephile</string>
+    <string name="prefTitle_profanityFilter">Vimba amagama anenhlamba</string>
+    <string name="prefSummary_profanityFilter">Fihla imiphumela yezwi etholiwe enenhlamba.</string>
+    <string name="warningDialogTitle">Ukucinga ngezwi</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"Ukucinga ngezwi okwamanje akusekelwa ulimi lwedivaysi yakho.
+
+Ulimi oluzosebenziswa isi: %s.
+
+Ukushintshela olimini lokucinga ngezwi olwehlukile, vakashela Amasethingi."</string>
+    <string name="warningDialogMessageLocaleChanged">"Ulimi lokucinga lwezwi lwakho lushintshelwe ku: %s.
+
+Ukushintshela olimini lokucinga ngezwi olwehlukile, vakashela Amasethingi."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"Ulimi lokucinga lezwi lakho lishintshelwe ku: %s.
+
+Ukuze ushintshele olimini lokucinga ngezwi olwehlukile, vakashela Amasethingi."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Manje ukucinga ngezwi kusekela ulimi olumisiwe olwehlukile lwedivaysi yakho: %s.
+
+Ukushintshela kulokhu noma olunye ulimi lokucinga ngezwi, vakashela Amasethingi."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Manje ukucinga ngezwi sekusekela ulimi lwamadivaysi akho: %s.
+
+Ukushintshela elimini olwehlukile lokucinga ngezwi, vakashela Amasethingi."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Manje ukucinga ngezwi kusekela ulimi lwedivaysi yakho: %s.
+
+Ukushintshela kulokhu noma kolunye ulimi lokucinga ngezwi, vakashela Amasethingi."</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Khansela</string>
+    <string name="appNameVoiceLog">Isigcinamininingwane Sezwi</string>
+    <string name="textPathToOutput">Indlela yokukhipha ifayela :</string>
+    <string name="textStopButton">Ima</string>
+    <string name="textRecordButton">Rekhoda</string>
+    <string name="serviceLabel">i-Google</string>
+    <string name="shortcuts_searchable_description">Umlando Wokucinga Izwi</string>
+    <string name="search_label">Ilebula Yokucinga Izwi</string>
+    <string name="edit">Hlela kahle</string>
+    <string name="delete">Susa</string>
+    <string name="message_too_long">Umyalezo mude kakhulu.</string>
+    <string name="send_email_submit">Thumela</string>
+    <string name="send_sms_submit">Thumela</string>
+    <string name="set_alarm_submit">Hlela</string>
+    <string name="note_to_self_submit">Thumela</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">kusuka:</string>
+    <string name="menu_item_settings_title">Amasethingi</string>
+    <string name="help_watch_video">buka ividiyo</string>
+    <string name="help_watch_video_capitalized">Buka ividiyo</string>
+    <string name="help_title_action">Sebenzisa <annotation action="true">Izenzo Zezwi</annotation> ukuze ucinge, ulawule,futhi uxoxisane.</string>
+    <string name="help_hint_format">“%s”</string>
+    <string name="show_hints_on_search_title">Bonisa izihlawumbisela</string>
+    <string name="show_hints_on_search">Bonisa ukuhlawumbisela ebhokisini lokucinga</string>
+    <string name="unsupported_action_dialog_title_format">“%s...”</string>
+    <string name="unsupported_action_dialog_message_default">Okwamanje idivaysi yakho ayisekeli lesenzo sezwi.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"Ukuze usebenzise lesici, landa Amamephu esimanje e-Google kwi-Android Market.
+
+Noma, kungenzeka usesifundeni esingasekelwe salesenzo."</string>
+    <string name="unsupported_action_dialog_message_send_email">Ukuze usebenzise lesici, landa i-Gmail yesimanje kwi-Android Market.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">Ukuze usebenzise lesici, landa uhlelo lwewashi olusekela lesenzo kwi-Android Market.</string>
+    <string name="unsupported_action_dialog_message_listen_to">Ukuze usebenzisi lesici, landa uhlelo lomculo olusekela lesenzo kwi-Android Market.</string>
+    <string name="market_button">Iya Emakethe</string>
+    <string name="website_button">Iya kuwebhusayithi</string>
+    <string name="apps_button">Iya ezinhlelweni</string>
+    <string name="first_time_use_dialog_message_listen_to">"Ungasebenzisa lesi sici nezinhlelo eziningi ezehlukene.
+
+Vakashela iwebhusayithi engenzansi ukuthola uhlu lwezinye izinketho, noma cindezela u-OK ukuqhubeka."</string>
+    <string name="contacts_slot_placeholder">Thinta ukuze ufake othintwayo</string>
+    <string name="text_slot_placeholder">Thinta ukuze ufake umbhalo</string>
+    <string name="time_slot_placeholder">Thinta ukuhlela isikhathi</string>
+    <string name="required_field_missing">Inkundla edingekayo ayinalutho</string>
+    <string name="no_video_available">Ayikho ividiyo etholakalayo.</string>
+    <string name="permission_label_set_alarm">hlela i-alamu ewashini le-alamu</string>
+    <string name="permission_description_set_alarm">Ivumela uhlelo ukuba luhlele i-alamu ehlelweni lwewashi olufakiwe. Ezinye izinhlelo zewashi le-alamu kungenzeka zingabi nalesi sici.</string>
+    <string name="help_search_title">ukucinga ngewebhu</string>
+</resources>

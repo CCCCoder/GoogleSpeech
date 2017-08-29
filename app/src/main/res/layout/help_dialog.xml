@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="top" android:orientation="vertical" android:id="@id/help_dialog" android:background="@drawable/vs_dialog_white" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/help_dialog_marginTop"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/help_content" android:background="@drawable/vs_editordialog_bubble" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="6.0dip" android:layout_marginTop="6.0dip" android:layout_marginRight="6.0dip">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageButton android:id="@id/help_left_arrow" android:background="@drawable/btn_top_left" android:layout_width="40.0dip" android:layout_height="fill_parent" android:src="@drawable/ic_left_arrow" />
+            <TextView android:textSize="22.0dip" android:textColor="@color/black" android:gravity="center" android:layout_gravity="center" android:id="@id/help_header" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="6.0dip" android:text="@string/help_header" android:singleLine="true" android:layout_weight="1.0" />
+            <ImageButton android:id="@id/help_right_arrow" android:background="@drawable/btn_top_right" android:layout_width="40.0dip" android:layout_height="fill_parent" android:src="@drawable/ic_right_arrow" />
+        </LinearLayout>
+        <ImageView android:layout_width="fill_parent" android:layout_height="1.0px" android:src="#ffbfbfbf" />
+        <LinearLayout android:orientation="vertical" android:id="@id/help_action_area" android:layout_width="fill_parent" android:layout_height="@dimen/help_action_area_height">
+            <TextSwitcher android:gravity="center" android:layout_gravity="center" android:id="@id/help_action_description" android:layout_width="fill_parent" android:layout_height="wrap_content" android:inAnimation="@anim/in_right" android:outAnimation="@anim/out_left" android:layout_weight="1.0">
+                <TextView android:textSize="19.0dip" android:gravity="center" android:layout_gravity="center" android:id="@id/help_dummy_text1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:lines="3" android:lineSpacingExtra="2.0dip" />
+                <TextView android:textSize="19.0dip" android:gravity="center" android:layout_gravity="center" android:id="@id/help_dummy_text2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:lines="3" android:lineSpacingExtra="2.0dip" />
+            </TextSwitcher>
+            <Button android:textSize="19.0dip" android:textColor="@color/black" android:gravity="center" android:layout_gravity="center" android:id="@id/help_video_link" android:background="@drawable/btn_video_link" android:paddingRight="16.0dip" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:text="@string/help_watch_video_capitalized" android:drawableLeft="@drawable/play_button" android:drawablePadding="14.0dip" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/help_content_for_portrait" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:layout_width="fill_parent" android:layout_height="36.0px" android:src="@drawable/help_bg" android:scaleType="fitXY" />
+            <FrameLayout android:id="@id/help_gallery_container" android:background="#ffefefef" android:layoutAnimation="@anim/layout_row_slide_left" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <Gallery android:id="@id/help_actions_gallery" android:padding="3.0dip" android:addStatesFromChildren="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:spacing="6.0dip" android:unselectedAlpha="0.6" />
+            </FrameLayout>
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:id="@id/help_show_hints_checkbox_layout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <CheckBox android:gravity="center" android:id="@id/help_show_hints_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:layout_marginBottom="6.0dip" />
+            <TextView android:textSize="14.0dip" android:gravity="center" android:layout_gravity="center" android:id="@id/help_show_hints_checkbox_text" android:paddingTop="5.0dip" android:paddingBottom="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:text="@string/show_hints_on_search" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+        <Button android:textSize="20.0sp" android:textColor="@color/white" android:layout_gravity="center_horizontal" android:id="@id/help_speak_again_button" android:background="@drawable/btn_left" android:paddingRight="5.0dip" android:focusable="true" android:layout_width="0.0dip" android:layout_height="54.0dip" android:layout_marginLeft="0.0dip" android:text="@string/speak_now" android:singleLine="true" android:drawableRight="@drawable/vs_mic_small_white" android:layout_weight="0.5" />
+        <Button android:textSize="20.0sp" android:textColor="@color/white" android:layout_gravity="center_horizontal" android:id="@id/help_cancel_button" android:background="@drawable/btn_right" android:focusable="true" android:layout_width="0.0dip" android:layout_height="54.0dip" android:layout_marginRight="0.0dip" android:text="@string/cancel" android:singleLine="true" android:layout_weight="0.5" />
+    </LinearLayout>
+</LinearLayout>

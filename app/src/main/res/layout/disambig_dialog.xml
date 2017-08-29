@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="top" android:orientation="vertical" android:id="@id/disambig_dialog" android:background="@drawable/vs_dialog_white" android:paddingTop="2.0dip" android:paddingBottom="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/help_dialog_marginTop"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+        <TextView android:textSize="20.0dip" android:textColor="@android:color/white" android:gravity="left|center" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:text="@string/did_you_mean" android:layout_weight="1.0" />
+        <ImageButton android:id="@id/disambig_mic_button" android:background="@drawable/btn_square" android:layout_width="45.0dip" android:layout_height="40.0dip" android:layout_marginTop="2.0dip" android:layout_marginRight="5.0dip" android:src="@drawable/ic_mic_dialog" android:layout_alignParentTop="true" />
+    </LinearLayout>
+    <ListView android:id="@id/disambig_list" android:background="@drawable/vs_dialog_bubble" android:layout_width="fill_parent" android:layout_height="@dimen/bubble_height" />
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+        <Button android:textSize="20.0sp" android:textColor="@color/white" android:layout_gravity="center_horizontal" android:id="@id/disambig_help_button" android:background="@drawable/btn_left" android:focusable="true" android:layout_width="0.0dip" android:layout_height="54.0dip" android:layout_marginLeft="0.0dip" android:text="@string/help" android:singleLine="true" android:layout_weight="0.5" />
+        <Button android:textSize="20.0sp" android:textColor="@color/white" android:layout_gravity="center_horizontal" android:id="@id/disambig_cancel_button" android:background="@drawable/btn_right" android:focusable="true" android:layout_width="0.0dip" android:layout_height="54.0dip" android:layout_marginRight="0.0dip" android:text="@string/cancel" android:singleLine="true" android:layout_weight="0.5" />
+    </LinearLayout>
+</LinearLayout>

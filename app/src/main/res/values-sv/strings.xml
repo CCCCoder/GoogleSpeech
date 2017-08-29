@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Röstsökning</string>
+    <string name="settings">Inställningar</string>
+    <string name="settings_button">Inställningar</string>
+    <string name="english_voice_ime_name">Android-tangentbordet</string>
+    <string name="initializing">Startar</string>
+    <string name="listening">Tala nu</string>
+    <string name="working">Fungerar</string>
+    <string name="wait">Vänta</string>
+    <string name="try_again">Försök igen</string>
+    <string name="no_match">Inga träffar hittades</string>
+    <string name="network_error">Anslutningsproblem</string>
+    <string name="server_error">Serverfel</string>
+    <string name="audio_error">Ljudproblem</string>
+    <string name="recognizer_busy_error">Röstidentifikationen är upptagen</string>
+    <string name="speech_timeout">Hörde inget tal</string>
+    <string name="error">Okänt problem</string>
+    <string name="audio_file_access">Åtkomst till inspelat ljud</string>
+    <string name="audio_file_access_desc">Får åtkomst till inspelade ljudspår för egna anteckningar och för ljudanalys av RAW</string>
+    <string name="shortcut_access">Genvägar för Röstsökning</string>
+    <string name="shortcut_access_desc">Kan använda genvägar som skapats för röstsökning</string>
+    <string name="personalization_header">Personligt anpassad identifiering</string>
+    <string name="personalization_settings_message">Förbättra exaktheten för taligenkänning.</string>
+    <string name="manage_personalization">Översikt över Google-kontot</string>
+    <string name="manage_personalization_message">Hantera samlade data</string>
+    <string name="personalization_popup_first_time_header">Vill du aktivera personligt anpassad identifiering på enheten?</string>
+    <string name="personalization_popup_message">Google förbättrar kvaliteten på röstigenkänningen genom att associera dina inspelningar med ditt Google-konto enligt vår START_LINKsekretesspolicy för MobileEND_LINK.</string>
+    <string name="personalization_more_info">Mer information</string>
+    <string name="personalization_popup_disable_message">Om du inaktiverar den här funktionen kan vi inte längre anpassa röstigenkänningen efter din röst och inga framtida inspelningar från den här enheten kommer att associeras med ditt Google-konto.NEW_LINE NEW_LINEBesök START_LINKGoogle ÖversiktEND_LINK om du vill hantera dina data.</string>
+    <string name="button_yes">Ja</string>
+    <string name="button_no">Nej</string>
+    <string name="connection_retying">Försöker igen...</string>
+    <string name="help">Hjälp</string>
+    <string name="help_hint">Tryck på <b>Hjälp</b> om du vill veta vad du kan säga</string>
+    <string name="help_header">Pröva med att säga...</string>
+    <string name="voice_actions">Röståtgärder</string>
+    <string name="did_you_mean">Menade du ...</string>
+    <string name="did_you_say">Sa du ...</string>
+    <string name="or_try_search">eller testa att söka efter något på Google Search by voice</string>
+    <string name="dial">Ring</string>
+    <string name="go">Kör</string>
+    <string name="tryagain">Tala igen</string>
+    <string name="speak_now">Tala nu</string>
+    <string name="search_hint">Google-sökning</string>
+    <string name="voice_search_product_name">Google-sökning</string>
+    <string name="contact_dialing_product_name">Kontaktuppringning</string>
+    <string name="speechservice_error">Taligenkänning är inte tillgänglig</string>
+    <string name="searching">Söker ...</string>
+    <string name="setting_alarm">Ställer in alarm...</string>
+    <string name="messaging_label">Meddelanden</string>
+    <string name="sending_sms">Skickar...</string>
+    <string name="error_sending_sms">Det gick inte att skicka meddelandet.</string>
+    <string name="sms_sent">Meddelande har skickats.</string>
+    <string name="no_suggestions">Inga förslag</string>
+    <string name="add_number">Lägg till nummer</string>
+    <string name="voiceSearchPreferences">Inställningar för Googles röstigenkänning</string>
+    <string name="prefTitle_language">Språk</string>
+    <string name="prefDialogTitle_language">Språk</string>
+    <string name="prefDefault_language">standard</string>
+    <string name="prefDefaultTitlePrefix_language">Standardinställning – %s</string>
+    <string name="prefTitle_safeSearch">SafeSearch</string>
+    <string name="prefSummary_safeSearchOff">Av – Filtrera inte mina sökresultat</string>
+    <string name="prefSummary_safeSearchModerate">Medel – Filtrera endast bilder av sexuell natur</string>
+    <string name="prefSummary_safeSearchStrict">Strikt – Filtrera både text och bilder av sexuell natur</string>
+    <string name="prefSummary_safeSearchSuffix">Gäller bara Google search by voice</string>
+    <string name="prefDialogTitle_safeSearch">SafeSearch</string>
+    <string name="prefTitle_profanityFilter">Blockera stötande ord</string>
+    <string name="prefSummary_profanityFilter">Dölj identifierat stötande tal</string>
+    <string name="warningDialogTitle">Röstsökning</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"Röstsökning stöds för närvarande inte för enhetens språk.
+
+Språket som kommer att användas i stället är: %s.
+
+Öppna Inställningar om du vill växla till ett annat röstsökningsspråk."</string>
+    <string name="warningDialogMessageLocaleChanged">"Ditt röstsökningsspråk har ändrats till: %s.
+
+Öppna Inställningar om du vill växla till ett annat röstsökningsspråk."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"Ditt röstsökningsspråk har ändrats till: %s.
+
+Öppna Inställningar om du vill växla till ett annat röstsökningsspråk."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Röstsökningen stöder nu ett annat standardspråk för din enhet: %s.
+
+Öppna Inställningar om du vill växla till ett annat röstsökningsspråk."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Röstsökningen stöder nu språket för din enhet: %s.
+
+Öppna Inställningar om du vill växla till ett annat röstsökningsspråk."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Röstsökningen stöder nu språket för din enhet: %s.
+
+Öppna Inställningar om du vill växla till detta eller ett annat röstsökningsspråk."</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Avbryt</string>
+    <string name="appNameVoiceLog">Voice Log</string>
+    <string name="textPathToOutput">Sökväg till utdatafil:</string>
+    <string name="textStopButton">Stopp</string>
+    <string name="textRecordButton">Spela in</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">Röstsökningshistorik</string>
+    <string name="search_label">VoiceSearch-etikett</string>
+    <string name="edit">Redigera</string>
+    <string name="delete">Ta bort</string>
+    <string name="message_too_long">Meddelandet är för långt.</string>
+    <string name="send_email_submit">Skicka</string>
+    <string name="send_sms_submit">Skicka</string>
+    <string name="set_alarm_submit">Ställ in</string>
+    <string name="note_to_self_submit">Skicka</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">från:</string>
+    <string name="menu_item_settings_title">Inställningar</string>
+    <string name="help_watch_video">titta på ett videoklipp</string>
+    <string name="help_watch_video_capitalized">Titta på ett videoklipp</string>
+    <string name="help_title_action">Använd <annotation action="true">Röståtgärder</annotation> om du vill söka, styra eller kommunicera.</string>
+    <string name="help_hint_format">%s</string>
+    <string name="show_hints_on_search_title">Visa tips</string>
+    <string name="show_hints_on_search">Visa tips i sökrutan</string>
+    <string name="unsupported_action_dialog_title_format">”%s...”</string>
+    <string name="unsupported_action_dialog_message_default">Enheten har inget stöd för den här röståtgärden.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"Hämta den senaste versionen av Google Maps Android Market om du vill använda den här funktionen.
+
+Du kanske är i ett område som inte stöds av funktionen."</string>
+    <string name="unsupported_action_dialog_message_send_email">Hämta den senaste versionen av Gmail från Android Market om du vill använda den här funktionen.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">Hämta ett alarmprogram som stöder åtgärden från Android Market om du vill använda den här funktionen.</string>
+    <string name="unsupported_action_dialog_message_listen_to">Hämta ett musikprogram som stöder åtgärden från Android Market om du vill använda den här funktionen.</string>
+    <string name="market_button">Öppna Market</string>
+    <string name="website_button">Öppna webbplatsen</string>
+    <string name="apps_button">Öppna appar</string>
+    <string name="first_time_use_dialog_message_listen_to">"Den här funktionen kan användas med flera olika program.
+
+Besök webbplatsen om du vill ha en lista med alternativ eller klicka på OK om du vill fortsätta."</string>
+    <string name="contacts_slot_placeholder">Peka om du vill lägga till en kontakt</string>
+    <string name="text_slot_placeholder">Tryck här om vill skriva text</string>
+    <string name="time_slot_placeholder">Tryck här om du vill ange en tid</string>
+    <string name="required_field_missing">Obligatoriskt fält saknas</string>
+    <string name="no_video_available">Det finns ingen video.</string>
+    <string name="permission_label_set_alarm">ställa in alarm i alarmklocka</string>
+    <string name="permission_description_set_alarm">Tillåter att programmet ställer in ett alarm i ett installerat alarmprogram. Vissa alarmprogram har inte den här funktionen.</string>
+    <string name="help_search_title">webbsökning</string>
+</resources>

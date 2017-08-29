@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Spraakgestuurd zoeken</string>
+    <string name="settings">Instellingen</string>
+    <string name="settings_button">Instellingen</string>
+    <string name="english_voice_ime_name">Android-toetsenbord</string>
+    <string name="initializing">Opstarten</string>
+    <string name="listening">Nu spreken</string>
+    <string name="working">Wordt uitgevoerd</string>
+    <string name="wait">Wachten</string>
+    <string name="try_again">Opnieuw</string>
+    <string name="no_match">Geen resultaten gevonden</string>
+    <string name="network_error">Verbindingsprobleem</string>
+    <string name="server_error">Serverprobleem</string>
+    <string name="audio_error">Audioprobleem</string>
+    <string name="recognizer_busy_error">Spraakherkenning bezet</string>
+    <string name="speech_timeout">Geen spraak te horen</string>
+    <string name="error">Onbekend probleem</string>
+    <string name="audio_file_access">Toegang tot opgenomen audio</string>
+    <string name="audio_file_access_desc">Kan toegang krijgen tot de opgenomen uitspraken voor opmerkingen aan zichzelf en voor analyse van onbewerkte audio</string>
+    <string name="shortcut_access">Snelkoppelingen voor Spraakgestuurd zoeken</string>
+    <string name="shortcut_access_desc">Krijgt toegang tot de snelkoppelingen voor gesproken zoekopdrachten</string>
+    <string name="personalization_header">Gepersonaliseerde herkenning</string>
+    <string name="personalization_settings_message">Nauwkeurigheid van spraakherkenning verbeteren.</string>
+    <string name="manage_personalization">Google-accountdashboard</string>
+    <string name="manage_personalization_message">Uw verzamelde gegevens beheren</string>
+    <string name="personalization_popup_first_time_header">Wilt u gepersonaliseerde herkenning inschakelen op dit apparaat?</string>
+    <string name="personalization_popup_message">Om de kwaliteit van de spraakherkenning te verbeteren, koppelt Google uw opnamen aan uw Google-account, conform het START_LINKPrivacybeleid van Google MobileEND_LINK.</string>
+    <string name="personalization_more_info">Meer informatie</string>
+    <string name="personalization_popup_disable_message">Als u deze functie uitschakelt, kunnen we herkenning niet langer afstemmen op uw stem en worden toekomstige opnamen van dit apparaat niet gekoppeld aan uw Google-account.NEW_LINE NEW_LINEGa naar het START_LINKGoogle-dashboardEND_LINK om uw gegevens te beheren.</string>
+    <string name="button_yes">Ja</string>
+    <string name="button_no">Nee</string>
+    <string name="connection_retying">Opnieuw proberen...</string>
+    <string name="help">Help</string>
+    <string name="help_hint">Raak <b>Help</b> aan voor informatie over wat u kunt zeggen</string>
+    <string name="help_header">Spreek het volgende uit...</string>
+    <string name="voice_actions">Gesproken acties</string>
+    <string name="did_you_mean">Bedoelde u...</string>
+    <string name="did_you_say">Zei u...</string>
+    <string name="or_try_search">of probeer Google spraakgestuurd zoeken</string>
+    <string name="dial">Bellen</string>
+    <string name="go">Uitvoeren</string>
+    <string name="tryagain">Opnieuw spreken</string>
+    <string name="speak_now">Nu spreken</string>
+    <string name="search_hint">Google Zoeken</string>
+    <string name="voice_search_product_name">Google Zoeken</string>
+    <string name="contact_dialing_product_name">Contact bellen</string>
+    <string name="speechservice_error">Spraakherkenning is niet beschikbaar</string>
+    <string name="searching">Zoeken...</string>
+    <string name="setting_alarm">Alarm instellen...</string>
+    <string name="messaging_label">Berichten</string>
+    <string name="sending_sms">Verzenden...</string>
+    <string name="error_sending_sms">Bericht kan niet worden verzonden.</string>
+    <string name="sms_sent">Bericht verzonden.</string>
+    <string name="no_suggestions">Geen suggesties</string>
+    <string name="add_number">Nummer toevoegen</string>
+    <string name="voiceSearchPreferences">Instellingen voor Google-spraakherkenning</string>
+    <string name="prefTitle_language">Taal</string>
+    <string name="prefDialogTitle_language">Taal</string>
+    <string name="prefDefault_language">standaard</string>
+    <string name="prefDefaultTitlePrefix_language">Standaard - %s</string>
+    <string name="prefTitle_safeSearch">SafeSearch</string>
+    <string name="prefSummary_safeSearchOff">Uit: mijn zoekresultaten niet filteren</string>
+    <string name="prefSummary_safeSearchModerate">Gemiddeld: alleen expliciete afbeeldingen filteren</string>
+    <string name="prefSummary_safeSearchStrict">Streng: expliciete tekst en afbeeldingen filteren</string>
+    <string name="prefSummary_safeSearchSuffix">Is alleen van toepassing op Google Spraakgestuurd zoeken</string>
+    <string name="prefDialogTitle_safeSearch">SafeSearch</string>
+    <string name="prefTitle_profanityFilter">Aanstootgevende woorden blokkeren</string>
+    <string name="prefSummary_profanityFilter">Herkende aanstootgevende spraakresultaten verbergen</string>
+    <string name="warningDialogTitle">Spraakgestuurd zoeken</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"Spraakgestuurd zoeken biedt momenteel geen ondersteuning voor de taal van uw apparaat.
+
+De taal die in plaats daarvan wordt gebruikt, is: %s.
+
+Ga naar 'Instellingen' als u wilt overschakelen naar een andere taal voor Spraakgestuurd zoeken."</string>
+    <string name="warningDialogMessageLocaleChanged">"Uw taal voor Spraakgestuurd zoeken is gewijzigd in: %s.
+
+Ga naar 'Instellingen' als u wilt overschakelen naar een andere taal voor Spraakgestuurd zoeken."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"Uw taal voor Spraakgestuurd zoeken is gewijzigd in: %s.
+
+Ga naar 'Instellingen' als u wilt overschakelen naar een andere taal voor Spraakgestuurd zoeken."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Spraakgestuurd zoeken biedt nu ondersteuning voor een andere standaardtaal voor uw apparaat: %s.
+
+Ga naar 'Instellingen' als u wilt overschakelen naar deze taal of een andere taal voor Spraakgestuurd zoeken."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Spraakgestuurd zoeken biedt nu ondersteuning voor de taal van uw apparaat: %s.
+
+Ga naar 'Instellingen' als u wilt overschakelen naar een andere taal voor Spraakgestuurd zoeken."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Spraakgestuurd zoeken biedt nu ondersteuning voor de taal van uw apparaat: %s.
+
+Ga naar 'Instellingen' als u wilt overschakelen naar deze taal of een andere taal voor Spraakgestuurd zoeken."</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuleren</string>
+    <string name="appNameVoiceLog">Spraaklogboek</string>
+    <string name="textPathToOutput">Pad naar uitvoerbestand:</string>
+    <string name="textStopButton">Stoppen</string>
+    <string name="textRecordButton">Opnemen</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">Spraakgestuurd zoeken-geschiedenis</string>
+    <string name="search_label">Spraakgestuurd zoeken-label</string>
+    <string name="edit">Bewerken</string>
+    <string name="delete">Verwijderen</string>
+    <string name="message_too_long">Bericht te lang.</string>
+    <string name="send_email_submit">Verzenden</string>
+    <string name="send_sms_submit">Verzenden</string>
+    <string name="set_alarm_submit">Instellen</string>
+    <string name="note_to_self_submit">Verzenden</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">van:</string>
+    <string name="menu_item_settings_title">Instellingen</string>
+    <string name="help_watch_video">een video bekijken</string>
+    <string name="help_watch_video_capitalized">Een video bekijken</string>
+    <string name="help_title_action">Gebruik <annotation action="true">gesproken acties</annotation> om te zoeken, te bedienen en te communiceren.</string>
+    <string name="help_hint_format">"'%s'"</string>
+    <string name="show_hints_on_search_title">Tips weergeven</string>
+    <string name="show_hints_on_search">Tips weergeven bij zoekvak</string>
+    <string name="unsupported_action_dialog_title_format">\"%s...\"</string>
+    <string name="unsupported_action_dialog_message_default">Uw apparaat ondersteunt deze gesproken actie momenteel niet.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"Als u deze functie wilt gebruiken, downloadt u de nieuwste versie van Google Maps van Android Market.
+
+Het is ook mogelijk dat u zich bevindt in een regio waar deze actie niet wordt ondersteund."</string>
+    <string name="unsupported_action_dialog_message_send_email">Als u deze functie wilt gebruiken, downloadt u de nieuwste versie van Gmail van Android Market.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">Als u deze functie wilt gebruiken, downloadt u een kloktoepassing van Android Market die deze actie ondersteunt.</string>
+    <string name="unsupported_action_dialog_message_listen_to">Als u deze functie wilt gebruiken, downloadt u een muziektoepassing van Android Market die deze actie ondersteunt.</string>
+    <string name="market_button">Ga naar Market</string>
+    <string name="website_button">Ga naar website</string>
+    <string name="apps_button">Ga naar apps</string>
+    <string name="first_time_use_dialog_message_listen_to">"U kunt deze functie in verschillende toepassingen gebruiken.
+
+Raadpleeg de onderstaande website voor meer opties of raak 'OK' aan om door te gaan."</string>
+    <string name="contacts_slot_placeholder">Raak aan om een contact toe te voegen</string>
+    <string name="text_slot_placeholder">Raak aan om tekst toe te voegen</string>
+    <string name="time_slot_placeholder">Raak aan om een tijd in te stellen</string>
+    <string name="required_field_missing">Verplicht veld ontbreekt</string>
+    <string name="no_video_available">Geen video beschikbaar.</string>
+    <string name="permission_label_set_alarm">alarm instellen in wekker</string>
+    <string name="permission_description_set_alarm">Hiermee kan de toepassing een alarm instellen in een geïnstalleerde wekkertoepassing. Deze functie wordt door sommige wekkertoepassingen niet geïmplementeerd.</string>
+    <string name="help_search_title">zoeken op internet</string>
+</resources>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Búsqueda por voz</string>
+    <string name="settings">Configurac.</string>
+    <string name="settings_button">Configuración</string>
+    <string name="english_voice_ime_name">Teclado de Android</string>
+    <string name="initializing">Iniciando</string>
+    <string name="listening">Habla ahora</string>
+    <string name="working">Procesando</string>
+    <string name="wait">Espera</string>
+    <string name="try_again">Vuelve a intentarlo</string>
+    <string name="no_match">No se encontraron coincidencias</string>
+    <string name="network_error">Problema de conexión</string>
+    <string name="server_error">Problema en el servidor</string>
+    <string name="audio_error">Problema de audio</string>
+    <string name="recognizer_busy_error">Reconocedor de voz ocupado</string>
+    <string name="speech_timeout">No se oyó la voz</string>
+    <string name="error">Problema desconocido</string>
+    <string name="audio_file_access">Acceso a audio grabado</string>
+    <string name="audio_file_access_desc">Se puede acceder a las oraciones grabadas en audio para las notas propias y para el análisis del audio sin procesar.</string>
+    <string name="shortcut_access">Accesos directos de búsqueda por voz</string>
+    <string name="shortcut_access_desc">Puedes acceder a los accesos directos que se crearon para las búsquedas de voz</string>
+    <string name="personalization_header">Reconocimiento personalizado</string>
+    <string name="personalization_settings_message">Mejora la precisión de reconocimiento de voz</string>
+    <string name="manage_personalization">Panel de cuenta de Google</string>
+    <string name="manage_personalization_message">Administrar sus datos recolectados</string>
+    <string name="personalization_popup_first_time_header">¿Deseas activar el reconocimiento personalizado en este dispositivo?</string>
+    <string name="personalization_popup_message">Para mejorar la calidad de reconocimiento de voz, Google asociará tus grabaciones con tu cuenta de Google conforme a la START_LINKPolítica de privacidad móvilEND_LINK.</string>
+    <string name="personalization_more_info">Más información</string>
+    <string name="personalization_popup_disable_message">Si inhabilitas esta función, ya no ajustaremos el reconocimiento de voz y las próximas grabaciones desde este equipo se asociarán con tu cuenta de Google. NEW_LINE NEW_LINEPasa al START_LINKpanel de información de Google END_LINK para administrar tus datos.</string>
+    <string name="button_yes">Sí</string>
+    <string name="button_no">No</string>
+    <string name="connection_retying">Intentando nuevamente...</string>
+    <string name="help">Ayuda</string>
+    <string name="help_hint">Presiona <b>Ayuda</b> para conocer lo que puedes decir</string>
+    <string name="help_header">Intenta decir...</string>
+    <string name="voice_actions">Acciones de voz</string>
+    <string name="did_you_mean">Quisiste decir...</string>
+    <string name="did_you_say">Dijiste...</string>
+    <string name="or_try_search">o prueba cualquier buscador por voz de Google</string>
+    <string name="dial">Marcar</string>
+    <string name="go">Ir</string>
+    <string name="tryagain">Habla de nuevo</string>
+    <string name="speak_now">Habla ahora</string>
+    <string name="search_hint">Búsqueda de Google</string>
+    <string name="voice_search_product_name">Búsqueda de Google</string>
+    <string name="contact_dialing_product_name">Marcando contacto</string>
+    <string name="speechservice_error">EL reconocimiento de voz no está disponible</string>
+    <string name="searching">Buscando...</string>
+    <string name="setting_alarm">Configurando alarma...</string>
+    <string name="messaging_label">Centro de Mensajes</string>
+    <string name="sending_sms">Enviando...</string>
+    <string name="error_sending_sms">El mensaje no pudo enviarse.</string>
+    <string name="sms_sent">Mensaje enviado.</string>
+    <string name="no_suggestions">No hay sugerencias</string>
+    <string name="add_number">Agregar número</string>
+    <string name="voiceSearchPreferences">Configuración del reconocimiento de voz de Google</string>
+    <string name="prefTitle_language">Idioma</string>
+    <string name="prefDialogTitle_language">Idioma</string>
+    <string name="prefDefault_language">predeterminada</string>
+    <string name="prefDefaultTitlePrefix_language">Predeterminado - %s</string>
+    <string name="prefTitle_safeSearch">SafeSearch</string>
+    <string name="prefSummary_safeSearchOff">Apagado — No filtrar mis resultados de búsqueda</string>
+    <string name="prefSummary_safeSearchModerate">Moderado — Filtrar imágenes explícitas solamente</string>
+    <string name="prefSummary_safeSearchStrict">Estricto — Se filtran el texto explícito y las imágenes explícitas</string>
+    <string name="prefSummary_safeSearchSuffix">Se aplica únicamente a la búsqueda de Google por voz</string>
+    <string name="prefDialogTitle_safeSearch">SafeSearch</string>
+    <string name="prefTitle_profanityFilter">Bloquear las palabras ofensivas</string>
+    <string name="prefSummary_profanityFilter">Ocultar los resultados de voz ofensivos que se reconozcan.</string>
+    <string name="warningDialogTitle">Búsqueda por voz</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"La búsqueda por voz no es compatible actualmente con el idioma de tu dispositivo.
+
+El idioma que se utilizará es: %s.
+
+Para cambiar a un idioma diferente de búsqueda por voz, ingresa a Configuración."</string>
+    <string name="warningDialogMessageLocaleChanged">"Tu búsqueda por voz del idioma se ha cambiado por: %s.
+
+Para cambiar a un idioma diferente de búsqueda por voz, ingresa a Configuración."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"Tu búsqueda por voz del idioma se ha cambiado por: %s.
+
+Para cambiar a un idioma diferente de búsqueda por voz, ingresa a Configuración."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Ahora, la búsqueda por voz es compatible con un idioma predeterminado diferente para tu dispositivo: %s.
+
+Para cambiar a este o a otro idioma de búsqueda por voz, ingresa a Configuración."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Ahora, la búsqueda por voz es compatible con el idioma de tu dispositivo: %s.
+
+Para cambiar a un idioma diferente de búsqueda por voz, ingresa a Configuración."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Ahora, la búsqueda por voz es compatible con el idioma de tu dispositivo: %s.
+
+Para cambiar a este o a otro idioma de búsqueda por voz, ingresa a Configuración."</string>
+    <string name="ok">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="appNameVoiceLog">Voice Log</string>
+    <string name="textPathToOutput">Ruta de salida del archivo:</string>
+    <string name="textStopButton">Detener</string>
+    <string name="textRecordButton">Grabar</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">Historial de Búsqueda por voz</string>
+    <string name="search_label">Etiqueta de VoiceSearch</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="message_too_long">Mensaje demasiado largo.</string>
+    <string name="send_email_submit">Enviar</string>
+    <string name="send_sms_submit">Enviar</string>
+    <string name="set_alarm_submit">Establecer</string>
+    <string name="note_to_self_submit">Enviar</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">de:</string>
+    <string name="menu_item_settings_title">Configuración</string>
+    <string name="help_watch_video">Ve un video</string>
+    <string name="help_watch_video_capitalized">Ve un video</string>
+    <string name="help_title_action">Usa <annotation action="true">Acciones de voz</annotation>para buscar, controlar y comunicarte.</string>
+    <string name="help_hint_format">“%s”</string>
+    <string name="show_hints_on_search_title">Mostrar sugerencias</string>
+    <string name="show_hints_on_search">Mostrar sugerencias o cuadro de búsqueda</string>
+    <string name="unsupported_action_dialog_title_format">“%s...”</string>
+    <string name="unsupported_action_dialog_message_default">Tu dispositivo actualmente no admite esta acción de voz.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"Para usar esta función, descarga la última versión de Google Maps de Tienda Android.
+
+O es posible que te encuentres en una región que no admite esta acción."</string>
+    <string name="unsupported_action_dialog_message_send_email">Para usar esta función, descarga la última versión de Gmail de Tienda Android.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">Para usar esta función, descarga una aplicación de reloj que admita esta acción desde Tienda Android.</string>
+    <string name="unsupported_action_dialog_message_listen_to">Para usar esta función, descarga una aplicación de música que admita esta acción desde Tienda Android.</string>
+    <string name="market_button">Ir a Tienda</string>
+    <string name="website_button">Ir al sitio web</string>
+    <string name="apps_button">Ir a las aplicaciones</string>
+    <string name="first_time_use_dialog_message_listen_to">"Puedes usar esta función con diferentes aplicaciones. 
+
+Visita el sitio web que aparece a continuación para obtener una lista con más opciones o presiona Aceptar para continuar."</string>
+    <string name="contacts_slot_placeholder">Toca para agregar un contacto</string>
+    <string name="text_slot_placeholder">Toca para agregar texto</string>
+    <string name="time_slot_placeholder">Toca para definir una hora</string>
+    <string name="required_field_missing">Campo obligatorio incompleto</string>
+    <string name="no_video_available">No hay ningún video disponible.</string>
+    <string name="permission_label_set_alarm">fije la alarma en el reloj de alarma</string>
+    <string name="permission_description_set_alarm">Permite a la aplicación fijar una alarma en una aplicación de alarma. Es posible que algunas aplicaciones de alarma no implementen esta función.</string>
+    <string name="help_search_title">Búsqueda en la web</string>
+</resources>

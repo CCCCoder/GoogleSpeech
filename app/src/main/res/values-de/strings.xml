@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Sprachsuche</string>
+    <string name="settings">Einstellungen</string>
+    <string name="settings_button">Einstellungen</string>
+    <string name="english_voice_ime_name">Android-Tastatur</string>
+    <string name="initializing">Startvorgang</string>
+    <string name="listening">Sprechen</string>
+    <string name="working">Vorgang läuft</string>
+    <string name="wait">Warten</string>
+    <string name="try_again">Wiederholen</string>
+    <string name="no_match">Keine Treffer gefunden</string>
+    <string name="network_error">Verbindungsproblem</string>
+    <string name="server_error">Serverproblem</string>
+    <string name="audio_error">Audio-Problem</string>
+    <string name="recognizer_busy_error">Spracherkennung ausgelastet</string>
+    <string name="speech_timeout">Keine Sprache zu hören</string>
+    <string name="error">Unbekanntes Problem</string>
+    <string name="audio_file_access">Zugriff auf Audioaufzeichnungen</string>
+    <string name="audio_file_access_desc">Zugriff auf Audioaufzeichnungen für persönliche Notizen und zur Analyse der unformatierten Audiodateien möglich</string>
+    <string name="shortcut_access">Sprachsuche-Verknüpfungen</string>
+    <string name="shortcut_access_desc">Kann auf die Verknüpfungen zugreifen, die für Sprachsuchen erstellt wurden.</string>
+    <string name="personalization_header">Personalisierte Erkennung</string>
+    <string name="personalization_settings_message">Genauigkeit der Spracherkennung verbessern</string>
+    <string name="manage_personalization">Google-Konto: Dashboard</string>
+    <string name="manage_personalization_message">Verwaltung Ihrer gesammelten Daten</string>
+    <string name="personalization_popup_first_time_header">Möchten Sie die personalisierte Spracherkennung auf diesem Gerät aktivieren?</string>
+    <string name="personalization_popup_message">Zur Qualitätsverbesserung der Spracherkennung verknüpft Google Ihre Aufnahmen gemäß den START_LINKGoogle Mobile-DatenschutzbestimmungenEND_LINK mit Ihrem Google-Konto.</string>
+    <string name="personalization_more_info">Weitere Informationen</string>
+    <string name="personalization_popup_disable_message">Sollten Sie diese Funktion deaktivieren, wird die Erkennung nicht mehr für Ihre Stimme optimiert und künftige Aufnahmen von diesem Gerät werden nicht mit Ihrem Google-Konto verknüpft.NEW_LINE NEW_LINERufen Sie das START_LINKGoogle-DashboardEND_LINK auf, um Ihre Daten zu verwalten.</string>
+    <string name="button_yes">Ja</string>
+    <string name="button_no">Nein</string>
+    <string name="connection_retying">Wird wiederholt...</string>
+    <string name="help">Hilfe</string>
+    <string name="help_hint">Berühren Sie <b>Hilfe</b>, um zu erfahren, was Sie sagen können.</string>
+    <string name="help_header">Sagen Sie Folgendes...</string>
+    <string name="voice_actions">Sprachbedienung</string>
+    <string name="did_you_mean">Meinten Sie...</string>
+    <string name="did_you_say">Sagten Sie...</string>
+    <string name="or_try_search">oder probieren Sie eine beliebige Google Sprachsuche aus.</string>
+    <string name="dial">Wähle</string>
+    <string name="go">Los</string>
+    <string name="tryagain">Erneut sprechen</string>
+    <string name="speak_now">Sprechen</string>
+    <string name="search_hint">Google-Suche</string>
+    <string name="voice_search_product_name">Google-Suche</string>
+    <string name="contact_dialing_product_name">Direktruf-Kontakt</string>
+    <string name="speechservice_error">Die Spracherkennung ist nicht verfügbar.</string>
+    <string name="searching">Suchvorgang läuft....</string>
+    <string name="setting_alarm">Weckzeit einstellen...</string>
+    <string name="messaging_label">SMS/MMS</string>
+    <string name="sending_sms">Wird gesendet...</string>
+    <string name="error_sending_sms">Die Nachricht konnte nicht gesendet werden.</string>
+    <string name="sms_sent">SMS wurde gesendet.</string>
+    <string name="no_suggestions">Keine Vorschläge</string>
+    <string name="add_number">Nummer hinzufügen</string>
+    <string name="voiceSearchPreferences">Einstellungen für die Google-Spracherkennung</string>
+    <string name="prefTitle_language">Sprache</string>
+    <string name="prefDialogTitle_language">Sprache</string>
+    <string name="prefDefault_language">Standard</string>
+    <string name="prefDefaultTitlePrefix_language">Standard - %s</string>
+    <string name="prefTitle_safeSearch">SafeSearch</string>
+    <string name="prefSummary_safeSearchOff">Aus - Meine Suchergebnisse nicht filtern</string>
+    <string name="prefSummary_safeSearchModerate">Moderat - Nur unangemessene Bilder filtern</string>
+    <string name="prefSummary_safeSearchStrict">Strikt - Sowohl unangemessenen Text als auch unangemessene Bilder filtern</string>
+    <string name="prefSummary_safeSearchSuffix">Gilt nur für Google Sprachsuche</string>
+    <string name="prefDialogTitle_safeSearch">SafeSearch</string>
+    <string name="prefTitle_profanityFilter">Beleidigungen sperren</string>
+    <string name="prefSummary_profanityFilter">Keine Sprachergebnisse für erkannte beleidigende Begriffe anzeigen</string>
+    <string name="warningDialogTitle">Sprachsuche</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"Die Sprachsuche wird für die Sprache Ihres Geräts derzeit nicht unterstützt.
+
+Stattdessen wird folgende Sprache verwendet: %s.
+
+In den Einstellungen können Sie eine andere Sprache wählen."</string>
+    <string name="warningDialogMessageLocaleChanged">"Ihre Sprache für die Sprachsuche wurde in %s geändert.
+
+In den Einstellungen können Sie eine andere Sprache wählen."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"Ihre Sprache für die Sprachsuche wurde in %s geändert.
+
+In den Einstellungen können Sie eine andere Sprache wählen."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Die Sprachsuche unterstützt jetzt eine andere Standardsprache für Ihr Gerät: %s.
+
+In den Einstellungen können Sie diese oder eine andere Sprache wählen."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Die Sprachsuche unterstützt jetzt die Sprache Ihres Geräts: %s.
+
+In den Einstellungen können Sie eine andere Sprache wählen."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Die Sprachsuche unterstützt jetzt die Sprache Ihres Geräts: %s.
+
+In den Einstellungen können Sie diese oder eine andere Sprache wählen."</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="appNameVoiceLog">Sprachsuchprotokoll</string>
+    <string name="textPathToOutput">Pfad zur Ausgabedatei:</string>
+    <string name="textStopButton">Anhalten</string>
+    <string name="textRecordButton">Aufnehmen</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">Voice-Suchverlauf</string>
+    <string name="search_label">VoiceSearch-Label</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="delete">Löschen</string>
+    <string name="message_too_long">Nachricht zu lang</string>
+    <string name="send_email_submit">Senden</string>
+    <string name="send_sms_submit">Senden</string>
+    <string name="set_alarm_submit">Festlegen</string>
+    <string name="note_to_self_submit">Senden</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">Von:</string>
+    <string name="menu_item_settings_title">Einstellungen</string>
+    <string name="help_watch_video">Video ansehen</string>
+    <string name="help_watch_video_capitalized">Video ansehen</string>
+    <string name="help_title_action">Mit der <annotation action="true">Sprachbedienung</annotation> können Sie suchen, steuern und kommunizieren.</string>
+    <string name="help_hint_format">\"%s\"</string>
+    <string name="show_hints_on_search_title">Hinweise einblenden</string>
+    <string name="show_hints_on_search">Hinweise in Suchfeld anzeigen</string>
+    <string name="unsupported_action_dialog_title_format">\"%s...\"</string>
+    <string name="unsupported_action_dialog_message_default">Ihr Gerät unterstützt die Sprachbedienung derzeit nicht.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"Laden Sie für die Verwendung dieser Funktion auf Android Market die aktuelle Version von Google Maps herunter.
+
+Es ist auch möglich, dass die Aktion in der Region, in der Sie sich befinden, nicht unterstützt wird."</string>
+    <string name="unsupported_action_dialog_message_send_email">Laden Sie für die Verwendung dieser Funktion auf Android Market die aktuelle Version von Google Mail herunter.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">Laden Sie zur Nutzung dieser Funktion eine Weckeranwendung von Android Market herunter, die diese Aktion unterstützt.</string>
+    <string name="unsupported_action_dialog_message_listen_to">Laden Sie für die Verwendung dieser Funktion auf Android Market eine Musikanwendung herunter, die diese Aktion unterstützt.</string>
+    <string name="market_button">Zu Android Market wechseln</string>
+    <string name="website_button">Zur Website wechseln</string>
+    <string name="apps_button">Zu Apps wechseln</string>
+    <string name="first_time_use_dialog_message_listen_to">"Diese Funktion können Sie bei vielen verschiedenen Anwendungen nutzen.
+
+Besuchen Sie die unten aufgeführte Website für eine Auswahl weiterer Möglichkeiten oder drücken Sie auf \"OK\", um fortzufahren."</string>
+    <string name="contacts_slot_placeholder">Zum Hinzufügen eines Kontakts berühren</string>
+    <string name="text_slot_placeholder">Zum Hinzufügen von Text berühren</string>
+    <string name="time_slot_placeholder">Zum Festlegen einer Uhrzeit berühren</string>
+    <string name="required_field_missing">Erforderliches Feld fehlt</string>
+    <string name="no_video_available">Kein Video verfügbar</string>
+    <string name="permission_label_set_alarm">Alarm im Wecker festlegen</string>
+    <string name="permission_description_set_alarm">Ermöglicht der Anwendung, einen Alarm in einer installierten Weckeranwendung einzurichten. Einige Weckeranwendungen implementieren diese Funktion unter Umständen nicht.</string>
+    <string name="help_search_title">Websuche</string>
+</resources>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Голосовий пошук</string>
+    <string name="settings">Налаштув-ня</string>
+    <string name="settings_button">Налаштув-ня</string>
+    <string name="english_voice_ime_name">Клавіатура Android</string>
+    <string name="initializing">Запускається</string>
+    <string name="listening">Диктуйте</string>
+    <string name="working">Обробка</string>
+    <string name="wait">Зачекайте</string>
+    <string name="try_again">Спроб. ще</string>
+    <string name="no_match">Збігів не знайдено</string>
+    <string name="network_error">Пробл. підключення</string>
+    <string name="server_error">Пробл. з сервером</string>
+    <string name="audio_error">Пробл. зі звуком</string>
+    <string name="recognizer_busy_error">Розпізнавач мови зайнятий</string>
+    <string name="speech_timeout">Не чути диктув.</string>
+    <string name="error">Невідома проблема</string>
+    <string name="audio_file_access">Доступ до записаного аудіо</string>
+    <string name="audio_file_access_desc">Може отримувати доступ до записаних аудіовисловлювань для здійснення власних нотаток і для аналізу необробленого аудіо</string>
+    <string name="shortcut_access">Ярлики Голосового пошуку</string>
+    <string name="shortcut_access_desc">Може отримувати доступ до ярликів, створених для голосового пошуку</string>
+    <string name="personalization_header">Персоналіз. розпізнавання</string>
+    <string name="personalization_settings_message">Покращувати точність розпізнавання мовлення</string>
+    <string name="manage_personalization">Інформ.панель облік.зап.Google</string>
+    <string name="manage_personalization_message">Керуйте зібраними даними</string>
+    <string name="personalization_popup_first_time_header">Увімкнути персоналізоване розпізнавання в цьому пристрої?</string>
+    <string name="personalization_popup_message">"Щоб покращити якість розпізнавання мовлення, Google пов'яже ваші записи з вашим обліковим записом Google відповідно до START_LINKПолітики конфіденційності для мобільних пристроївEND_LINK."</string>
+    <string name="personalization_more_info">Додаткова інформація</string>
+    <string name="personalization_popup_disable_message">"Якщо вимкнути цю функцію, адаптація розпізнавання вашого голосу надалі припиниться, і наступні записи з цього пристрою не пов'язуватимуться з вашим обліковим записом Google.NEW_LINE NEW_LINE;Перейдіть на START_LINKінформаційну панель GoogleEND_LINK, щоб керувати своїми даними."</string>
+    <string name="button_yes">Так</string>
+    <string name="button_no">Ні</string>
+    <string name="connection_retying">Повтор...</string>
+    <string name="help">Довідка</string>
+    <string name="help_hint">Натис. меню <b>Довідка</b>, щоб побач. варіанти</string>
+    <string name="help_header">Продиктуйте...</string>
+    <string name="voice_actions">Голосові команди</string>
+    <string name="did_you_mean">Ви мали на увазі...</string>
+    <string name="did_you_say">Ви сказали...</string>
+    <string name="or_try_search">або ін. ф-ції Google Пошук голосом</string>
+    <string name="dial">Дзвонити</string>
+    <string name="go">Йти</string>
+    <string name="tryagain">Дикт. знову</string>
+    <string name="speak_now">Диктуйте</string>
+    <string name="search_hint">Пошук Google</string>
+    <string name="voice_search_product_name">Пошук Google</string>
+    <string name="contact_dialing_product_name">Набір контакта</string>
+    <string name="speechservice_error">Розпізнавання мови недоступне</string>
+    <string name="searching">Пошук...</string>
+    <string name="setting_alarm">Налашт-ня сигналу...</string>
+    <string name="messaging_label">Повідомлення</string>
+    <string name="sending_sms">Надсилання...</string>
+    <string name="error_sending_sms">Неможливо надіслати повідомл.</string>
+    <string name="sms_sent">SMS надіслано.</string>
+    <string name="no_suggestions">Немає пропозицій</string>
+    <string name="add_number">Додати номер</string>
+    <string name="voiceSearchPreferences">Налашт-ня розпізн-ня голосу Google</string>
+    <string name="prefTitle_language">Мова</string>
+    <string name="prefDialogTitle_language">Мова</string>
+    <string name="prefDefault_language">за умовч.</string>
+    <string name="prefDefaultTitlePrefix_language">За умовч. – %s</string>
+    <string name="prefTitle_safeSearch">Безп. пошук</string>
+    <string name="prefSummary_safeSearchOff">Вимк. – не фільтрувати результати пошуку</string>
+    <string name="prefSummary_safeSearchModerate">Помірна – фільтр. лише відверті зображ.</string>
+    <string name="prefSummary_safeSearchStrict">Строга – фільтрувати відвертий текст і відверті зображ.</string>
+    <string name="prefSummary_safeSearchSuffix">Застосов. лише до Google Пошук голосом</string>
+    <string name="prefDialogTitle_safeSearch">Безп. пошук</string>
+    <string name="prefTitle_profanityFilter">Заблок. образливі слова</string>
+    <string name="prefSummary_profanityFilter">Схов. розпізнані образл. рез. гол. пошуку</string>
+    <string name="warningDialogTitle">Голос. пошук</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"Голосовий пошук наразі не підтримується для мови вашого пристрою.
+
+Натомість буде використ. таку мову: %s.
+
+Щоб переключ. на іншу мову голосового пошуку, перейдіть до \"Налаштувань\"."</string>
+    <string name="warningDialogMessageLocaleChanged">"Вашу мову голос. пошуку змінено на: %s.
+
+Щоб переключити на іншу мову голосового пошуку, перейдіть до \"Налаштувань\"."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"Вашу мову голос. пошуку змінено на: %s.
+
+Щоб переключити на іншу мову голосового пошуку, перейдіть до \"Налаштувань\"."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Голос. пошук тепер підтримує іншу мову за умовч. для вашого пристрою: %s.
+
+Щоб перекл. на неї чи іншу мову голос. пошуку, перейд. до \"Налашт.\"."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Голос. пошук тепер підтримує мову вашого пристрою: %s.
+
+Щоб перекл. на іншу мову голос. пошуку, перейд. до \"Налашт.\"."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Голос. пошук тепер підтримує мову вашого пристрою: %s.
+
+Щоб перекл. на неї чи іншу мову голос. пошуку, перейд. до \"Налашт.\"."</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Скасувати</string>
+    <string name="appNameVoiceLog">Голос. журн.</string>
+    <string name="textPathToOutput">Шлях до вихідн. файлу :</string>
+    <string name="textStopButton">Зупин.</string>
+    <string name="textRecordButton">Записати</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">Історія голос. пошуку</string>
+    <string name="search_label">Мітка VoiceSearch</string>
+    <string name="edit">Редаг.</string>
+    <string name="delete">Видалити</string>
+    <string name="message_too_long">Повідомлення задовге</string>
+    <string name="send_email_submit">Надісл.</string>
+    <string name="send_sms_submit">Надісл.</string>
+    <string name="set_alarm_submit">Налашт.</string>
+    <string name="note_to_self_submit">Надісл.</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">від:</string>
+    <string name="menu_item_settings_title">Налаштув-ня</string>
+    <string name="help_watch_video">перегляд відео</string>
+    <string name="help_watch_video_capitalized">Переглянути відео</string>
+    <string name="help_title_action">Викор. <annotation action="true">Голосові команди</annotation> для пошуку, керування та спілкув.</string>
+    <string name="help_hint_format">\"%s\"</string>
+    <string name="show_hints_on_search_title">Показ.підказки</string>
+    <string name="show_hints_on_search">Показ.підказ.у вікні пошуку</string>
+    <string name="unsupported_action_dialog_title_format">\"%s...\"</string>
+    <string name="unsupported_action_dialog_message_default">Ваш пристрій наразі не підтримує цю голосову команду.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"Щоб скористатися цією функцією, завантажте з Android Market останню версію Карт Google.
+
+Або, можливо, у вашому регіоні ця команда не підтримується."</string>
+    <string name="unsupported_action_dialog_message_send_email">Щоб скористатися цією функцією, завантажте з Android Market останню версію Gmail.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">Щоб скорист. цією функцією, завантажте з Android Market будь-яку програму годинника, яка підтримує таку команду.</string>
+    <string name="unsupported_action_dialog_message_listen_to">Щоб скорист. цією функцією, завантажте з Android Market програму для роботи з музикою, що підтримує таку команду.</string>
+    <string name="market_button">До Market</string>
+    <string name="website_button">До веб-сайту</string>
+    <string name="apps_button">До програм</string>
+    <string name="first_time_use_dialog_message_listen_to">"Цю функцію можна використовувати з різними програмами.
+
+Зайдіть на вказаний нижче веб-сайт, щоб переглянути інші варіанти, або натисніть \"OK\", щоб продовжити."</string>
+    <string name="contacts_slot_placeholder">Торкніться, щоб додати контакт</string>
+    <string name="text_slot_placeholder">Торкніться, щоб ввести текст</string>
+    <string name="time_slot_placeholder">Торкніться, щоб налаштувати час</string>
+    <string name="required_field_missing">"Обов'язк. поле порожнє"</string>
+    <string name="no_video_available">Відео недоступне.</string>
+    <string name="permission_label_set_alarm">налашт. сигнал у будильн.</string>
+    <string name="permission_description_set_alarm">Дозволяє програмі налаштовувати сигнал у встановленій програмі будильника. У деяких програмах будильника ця функція може не застосовуватися.</string>
+    <string name="help_search_title">веб-пошук</string>
+</resources>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Paghahanap ng boses</string>
+    <string name="settings">Mga Setting</string>
+    <string name="settings_button">Mga Setting</string>
+    <string name="english_voice_ime_name">Android keyboard</string>
+    <string name="initializing">Pagsisimula</string>
+    <string name="listening">Magsalita ngayon</string>
+    <string name="working">Gumagana</string>
+    <string name="wait">Maghintay</string>
+    <string name="try_again">Subukang muli</string>
+    <string name="no_match">Walang nakitang mga tugma</string>
+    <string name="network_error">Problema sa koneksyon</string>
+    <string name="server_error">Problema sa server</string>
+    <string name="audio_error">Problema sa audio</string>
+    <string name="recognizer_busy_error">Abala ang pagkilala ng pananalita</string>
+    <string name="speech_timeout">Walang narinig na boses</string>
+    <string name="error">Hindi kilalang problema</string>
+    <string name="audio_file_access">Access sa Naka-record na Audio</string>
+    <string name="audio_file_access_desc">Maaaring i-access ang mga naka-record na audio na pagsambit para sa mga paalala sa sarili, at para sa pagsusuri ng raw na audio</string>
+    <string name="shortcut_access">Mga Shortcut ng Paghahanap Gamit ang Boses</string>
+    <string name="shortcut_access_desc">Maaaring i-access ang mga shortcut na nililikha para sa mga paghahanap gamit ang boses</string>
+    <string name="personalization_header">Personalized recognition</string>
+    <string name="personalization_settings_message">Paghusayin ang kawastuhan ng pagkilala sa pagsasalita.</string>
+    <string name="manage_personalization">Dashboard ng Google Account</string>
+    <string name="manage_personalization_message">Pamahalaan ang iyong nakolektang data</string>
+    <string name="personalization_popup_first_time_header">Gusto mo bang i-on ang personalized recognition sa device na ito?</string>
+    <string name="personalization_popup_message">Upang paghusayin ang kalidad ng speech recognition, iuugnay ng Google ang iyong mga pag-record sa iyong Google Account alinsunod sa START_LINKPatakaran sa Mobile PrivacyEND_LINK.</string>
+    <string name="personalization_more_info">Karagdagang lmpormasyon</string>
+    <string name="personalization_popup_disable_message">Kapag hindi mo pinagana ang tampok na ito, hindi na kami gagawa ng pagkilala sa iyong boses, at walang pag-record sa hinaharap ang iuugnay sa iyong Google Account.NEW_LINE NEW_LINEPumunta sa START_LINKGoogle dashboardEND_LINK upang pamahalaan ang iyong data.</string>
+    <string name="button_yes">Oo</string>
+    <string name="button_no">Hindi</string>
+    <string name="connection_retying">Muling sinusubukan...</string>
+    <string name="help">Tulong</string>
+    <string name="help_hint">Pindutin ang <b>Tulong</b> upang matutunan kung ano ang maaari mong sabihin</string>
+    <string name="help_header">Subukang sabihin...</string>
+    <string name="voice_actions">Mga Pagkilos ng Boses</string>
+    <string name="did_you_mean">Ibig mo bang sabihin ay...</string>
+    <string name="did_you_say">Ang sinabi mo ba ay...</string>
+    <string name="or_try_search">o subukan ang anumang paghahanap ayon sa boses ng Google</string>
+    <string name="dial">I-dial</string>
+    <string name="go">Pumunta</string>
+    <string name="tryagain">Magsalitang muli</string>
+    <string name="speak_now">Magsalita ngayon</string>
+    <string name="search_hint">Paghahanap sa Google</string>
+    <string name="voice_search_product_name">Paghahanap sa Google</string>
+    <string name="contact_dialing_product_name">Pag-dial sa contact</string>
+    <string name="speechservice_error">Hindi available ang pagkilala ng pananalita</string>
+    <string name="searching">Naghahanap...</string>
+    <string name="setting_alarm">Itinatakda ang alarm...</string>
+    <string name="messaging_label">Pagpapadala ng Mensahe</string>
+    <string name="sending_sms">Ipinapadala...</string>
+    <string name="error_sending_sms">Hindi maipadala ang mensaheng ito.</string>
+    <string name="sms_sent">Naipadala ang mensahe.</string>
+    <string name="no_suggestions">Walang mga suhestiyon</string>
+    <string name="add_number">Magdagdag ng numero</string>
+    <string name="voiceSearchPreferences">Mga setting ng pagkilala ng boses ng Google</string>
+    <string name="prefTitle_language">Wika</string>
+    <string name="prefDialogTitle_language">Wika</string>
+    <string name="prefDefault_language">default</string>
+    <string name="prefDefaultTitlePrefix_language">Default - %s</string>
+    <string name="prefTitle_safeSearch">SafeSearch</string>
+    <string name="prefSummary_safeSearchOff">I-off — Huwag i-filter ang aking mga resulta ng paghahanap</string>
+    <string name="prefSummary_safeSearchModerate">Katamtaman — I-filter ang mga di-naangkop na larawan lang</string>
+    <string name="prefSummary_safeSearchStrict">Mahigpit — I-filter ang parehong lantarang teksto at mga larawan</string>
+    <string name="prefSummary_safeSearchSuffix">Nalalapat lang sa Paghahanap sa Google sa pamamagitan ng voice</string>
+    <string name="prefDialogTitle_safeSearch">SafeSearch</string>
+    <string name="prefTitle_profanityFilter">I-block ang mga nakakapanakit na salita</string>
+    <string name="prefSummary_profanityFilter">Itago ang mga nakilalang nakakapanakit na resulta ng boses</string>
+    <string name="warningDialogTitle">Paghahanap ng boses</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"Hindi kasalukuyang suportado ang paghahanap ng boses para sa wika ng iyong device.
+
+Sa halip, ang gagamiting wika ay: %s.
+
+Upang lumipat sa ibang wika ng paghahanap ng boses, bisitahin ang Mga Setting."</string>
+    <string name="warningDialogMessageLocaleChanged">"Binago ang wika ng paghahanap gamit ang boses sa: %s.
+
+Upang lumipat sa ibang wika ng paghahanap gamit ang boses, bisitahin ang Mga Setting."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"Binago ang wika ng paghahanap gamit ang boses sa: %s.
+
+Upang lumipat sa ibang wika ng paghahanap gamit ang boses, bisitahin ang Mga Setting."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Sinusuportahan na ngayon ng paghahanap gamit ang boses ang iba't ibang default na wika para sa iyong device: %s.
+
+Upang lumipat dito o sa ibang wika ng paghahanap ng boses, bisitahin ang Mga Setting."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Sinusuportahan na ng paghahanap ng boses ang wika ng iyong device: %s.
+
+Upang lumipat sa ibang wika ng paghahanap ng boses, bisitahin ang Mga Setting."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Sinusuportahan na ngayon ng paghahanap gamit ang boses ang wika ng iyong device: %s.
+
+Upang lumipat dito o sa isa pang wika ng paghahanap gamit ang boses, bisitahin ang Mga Setting."</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="appNameVoiceLog">Log ng Voice</string>
+    <string name="textPathToOutput">Path sa output file :</string>
+    <string name="textStopButton">Tumigil</string>
+    <string name="textRecordButton">I-record</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">Kasaysayan ng Paghahanap Gamit ang Boses</string>
+    <string name="search_label">Label ng VoiceSearch</string>
+    <string name="edit">I-edit</string>
+    <string name="delete">Tanggalin</string>
+    <string name="message_too_long">Masyadong mahaba ang mensahe.</string>
+    <string name="send_email_submit">Ipadala</string>
+    <string name="send_sms_submit">Ipadala</string>
+    <string name="set_alarm_submit">Itakda</string>
+    <string name="note_to_self_submit">Ipadala</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">mula sa:</string>
+    <string name="menu_item_settings_title">Mga Setting</string>
+    <string name="help_watch_video">manood ng video</string>
+    <string name="help_watch_video_capitalized">Manood ng video</string>
+    <string name="help_title_action">Gamitin ang <annotation action="true">Mga Pagkilos ng Boses</annotation> upang maghanap, magkontrol at makipag-ugnayan.</string>
+    <string name="help_hint_format">“%s”</string>
+    <string name="show_hints_on_search_title">Ipakita ang mga pahiwatig</string>
+    <string name="show_hints_on_search">Ipakita ang mga pahiwatig sa box para sa paghahanap</string>
+    <string name="unsupported_action_dialog_title_format">“%s...”</string>
+    <string name="unsupported_action_dialog_message_default">Kasalukuyang hindi sinusuportahan ng iyong device ang pagkilos ng boses na ito.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"Upang magamit ang tampok na ito, i-download ang pinakabagong Google Maps mula sa Android Market.
+
+O kaya, maaaring nasa isang hindi sinusuportahang rehiyon ka para sa pagkilos na ito."</string>
+    <string name="unsupported_action_dialog_message_send_email">Upang magamit ang tampok na ito, i-download ang pinakabagong Gmail mula sa Android Market.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">Upang magamit ang tampok na ito, mag-download ng application ng orasan na sumusuporta sa pagkilos na ito mula sa Android Market.</string>
+    <string name="unsupported_action_dialog_message_listen_to">Upang magamit ang tampok na ito, mag-download ng application ng musika na sumusuporta sa pagkilos na ito mula sa Android Market.</string>
+    <string name="market_button">Pumunta sa Market</string>
+    <string name="website_button">Pumunta sa website</string>
+    <string name="apps_button">Pumunta sa apps</string>
+    <string name="first_time_use_dialog_message_listen_to">"Magagamit mo ang tampok na ito gamit ang maraming iba't ibang application.
+
+Bisitahin ang website sa ibaba para sa isang listahan ng higit pang mga pagpipilian, o pindutin ang OK upang magpatuloy."</string>
+    <string name="contacts_slot_placeholder">Pindutin upang magdagdag ng contact</string>
+    <string name="text_slot_placeholder">Pindutin upang magdagdag ng teksto</string>
+    <string name="time_slot_placeholder">Pindutin upang magtakda ng oras</string>
+    <string name="required_field_missing">Nawawala ang kinakailangang field</string>
+    <string name="no_video_available">Walang available na video.</string>
+    <string name="permission_label_set_alarm">itakda ang alarm sa alarm clock</string>
+    <string name="permission_description_set_alarm">Pinapayagan ang application na magtakda ng alarm sa isang naka-install na application ng alarm clock. Maaaring hindi ipatupad ng ilang application ng alarm clock ang tampok na ito.</string>
+    <string name="help_search_title">paghahanap sa web</string>
+</resources>

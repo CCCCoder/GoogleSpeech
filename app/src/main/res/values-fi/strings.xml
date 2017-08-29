@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Äänihaku</string>
+    <string name="settings">Asetukset</string>
+    <string name="settings_button">Asetukset</string>
+    <string name="english_voice_ime_name">Android-näppäimistö</string>
+    <string name="initializing">Aloittaminen</string>
+    <string name="listening">Puhu nyt</string>
+    <string name="working">Työstetään</string>
+    <string name="wait">Odota</string>
+    <string name="try_again">Yritä uudelleen</string>
+    <string name="no_match">Ei osumia</string>
+    <string name="network_error">Yhteysongelma</string>
+    <string name="server_error">Palvelinvirhe</string>
+    <string name="audio_error">Ääniongelma</string>
+    <string name="recognizer_busy_error">Puheentunnistin varattu</string>
+    <string name="speech_timeout">Puhetta ei kuulu</string>
+    <string name="error">Tuntematon virhe</string>
+    <string name="audio_file_access">Tallennettujen äänitiedostojen käyttöoikeus</string>
+    <string name="audio_file_access_desc">Saa käyttää tallennettuja lausahduksia huomautusten luomiseen ja raakaäänianalyysiin.</string>
+    <string name="shortcut_access">Äänihaun pikanäppäimet</string>
+    <string name="shortcut_access_desc">Saa käyttää äänihakujen pikanäppäimiä</string>
+    <string name="personalization_header">Yksilöllinen tunnistus</string>
+    <string name="personalization_settings_message">Paranna puheentunnistuksen tarkkuutta.</string>
+    <string name="manage_personalization">Google-tilin hallintapaneeli</string>
+    <string name="manage_personalization_message">Hallinnoi kerättyjä tietoja</string>
+    <string name="personalization_popup_first_time_header">Haluatko ottaa yksilöllisen tunnistuksen käyttöön tällä laitteella?</string>
+    <string name="personalization_popup_message">Google yhdistää tallenteesi Google-tiliisi START_LINKMobiilitietosuojakäytännönEND_LINK mukaisesti parantaakseen puheentunnistuksen laatua.</string>
+    <string name="personalization_more_info">Lisätietoja</string>
+    <string name="personalization_popup_disable_message">Jos poistat tämän ominaisuuden käytöstä, emme enää muokkaa äänentunnistusta omalle äänellesi sopivaksi, eikä tulevia tällä laitteella tehtyjä tallenteita yhdistetä Google-tiliisi.NEW_LINE NEW_LINEVoit hallinnoida tietojasi START_LINKGooglen hallintapaneelinEND_LINK kautta.</string>
+    <string name="button_yes">Kyllä</string>
+    <string name="button_no">Ei</string>
+    <string name="connection_retying">Yritetään uudelleen...</string>
+    <string name="help">Ohje</string>
+    <string name="help_hint">Kosketa <b>Ohje</b> ja katso, mitä voit sanoa.</string>
+    <string name="help_header">Kokeile sanoa...</string>
+    <string name="voice_actions">Äänitoiminnot</string>
+    <string name="did_you_mean">Tarkoititko...</string>
+    <string name="did_you_say">Sanoitko...</string>
+    <string name="or_try_search">tai kokeile mitä tahansa Google-äänihakua</string>
+    <string name="dial">Soita</string>
+    <string name="go">Siirry</string>
+    <string name="tryagain">Puhu uudelleen</string>
+    <string name="speak_now">Puhu nyt</string>
+    <string name="search_hint">Google-haku</string>
+    <string name="voice_search_product_name">Google-haku</string>
+    <string name="contact_dialing_product_name">Puhelu yhteyshenkilölle</string>
+    <string name="speechservice_error">Puheentunnistus ei ole käytettävissä</string>
+    <string name="searching">Etsii...</string>
+    <string name="setting_alarm">Asetetaan herätystä...</string>
+    <string name="messaging_label">Viestit</string>
+    <string name="sending_sms">Lähetetään...</string>
+    <string name="error_sending_sms">Viestiä ei voitu lähettää.</string>
+    <string name="sms_sent">Viesti lähetettiin.</string>
+    <string name="no_suggestions">Ei ehdotuksia</string>
+    <string name="add_number">Lisää numero</string>
+    <string name="voiceSearchPreferences">Googlen äänentunnistusasetukset</string>
+    <string name="prefTitle_language">Kieli</string>
+    <string name="prefDialogTitle_language">Kieli</string>
+    <string name="prefDefault_language">oletus</string>
+    <string name="prefDefaultTitlePrefix_language">Oletus - %s</string>
+    <string name="prefTitle_safeSearch">SafeSearch</string>
+    <string name="prefSummary_safeSearchOff">Pois käytöstä – Älä suodata hakutuloksia</string>
+    <string name="prefSummary_safeSearchModerate">Keskitaso – Suodata vain voimakkaan seksuaaliset kuvat</string>
+    <string name="prefSummary_safeSearchStrict">Tiukka – Suodata sekä voimakkaan seksuaalinen teksti että kuvat</string>
+    <string name="prefSummary_safeSearchSuffix">Koskee vain Google-äänihakua</string>
+    <string name="prefDialogTitle_safeSearch">SafeSearch</string>
+    <string name="prefTitle_profanityFilter">Estä loukkaavat sanat</string>
+    <string name="prefSummary_profanityFilter">Piilota tunnistetut loukkaavat äänitulokset</string>
+    <string name="warningDialogTitle">Äänihaku</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"Äänihaku ei tällä hetkellä tue laitteesi kieltä.
+
+Käytämme sen sijaan kieltä %s.
+
+Voit vaihtaa toiseen äänihaun kieleen Asetuksien kautta."</string>
+    <string name="warningDialogMessageLocaleChanged">"Äänihaun kieleksi on vaihdettu %s.
+
+Voit vaihtaa toiseen äänihaun kieleen Asetuksien kautta."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"Äänihaun kieleksi on vaihdettu %s.
+
+Voit vaihtaa toiseen äänihaun kieleen Asetuksien kautta."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Äänihaku tukee nyt toista laitteesi oletuskieltä: %s.
+
+Voit vaihtaa tähän tai toiseen äänihaun kieleen Asetuksien kautta."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Äänihaku tukee nyt laitteesi kieltä: %s.
+
+Voit vaihtaa toiseen äänihaun kieleen Asetuksien kautta."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Äänihaku tukee nyt laitteesi kieltä: %s.
+
+Voit vaihtaa tähän tai toiseen äänihaun kieleen Asetuksien kautta."</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Peruuta</string>
+    <string name="appNameVoiceLog">Ääniloki</string>
+    <string name="textPathToOutput">Polku äänentoistotiedostoon:</string>
+    <string name="textStopButton">Lopeta</string>
+    <string name="textRecordButton">Tallenna</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">Äänihakuhistoria</string>
+    <string name="search_label">Äänihakutunniste</string>
+    <string name="edit">Muokkaa</string>
+    <string name="delete">Poista</string>
+    <string name="message_too_long">Viesti on liian pitkä.</string>
+    <string name="send_email_submit">Lähetä</string>
+    <string name="send_sms_submit">Lähetä</string>
+    <string name="set_alarm_submit">Aseta</string>
+    <string name="note_to_self_submit">Lähetä</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">tilistä:</string>
+    <string name="menu_item_settings_title">Asetukset</string>
+    <string name="help_watch_video">katso video</string>
+    <string name="help_watch_video_capitalized">Katso video</string>
+    <string name="help_title_action"><annotation action="true">Äänitoimintojen</annotation> avulla voit hakea, hallinnoida ja viestiä.</string>
+    <string name="help_hint_format">%s</string>
+    <string name="show_hints_on_search_title">Näytä vihjeet</string>
+    <string name="show_hints_on_search">Näytä vinkit hakukentässä</string>
+    <string name="unsupported_action_dialog_title_format">%s...</string>
+    <string name="unsupported_action_dialog_message_default">Laitteesi ei tue tätä äänitoimintoa tällä hetkellä.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"Lataa uusin Google Maps Android Marketista, jos haluat käyttää tätä ominaisuutta.
+
+On myös mahdollista, että toiminto ei tue aluettasi."</string>
+    <string name="unsupported_action_dialog_message_send_email">Lataa uusin Gmail Android Marketista, jos haluat käyttää tätä ominaisuutta.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">Lataa Android Marketista tätä toimintoa tukeva kellosovellus, jos haluat käyttää tätä ominaisuutta.</string>
+    <string name="unsupported_action_dialog_message_listen_to">Lataa Android Marketista tätä toimintoa tukeva musiikkisovellus, jos haluat käyttää tätä ominaisuutta.</string>
+    <string name="market_button">Siirry Marketiin</string>
+    <string name="website_button">Siirry sivustoon</string>
+    <string name="apps_button">Siirry sovelluksiin</string>
+    <string name="first_time_use_dialog_message_listen_to">"Voit käyttää tätä ominaisuutta useiden eri sovelluksien kanssa.
+
+Katso lisää vaihtoehtoja käymällä alla olevassa sivustossa tai jatka painamalla OK."</string>
+    <string name="contacts_slot_placeholder">Lisää yhteystiedot koskettamalla</string>
+    <string name="text_slot_placeholder">Kosketa ja lisää tekstiä</string>
+    <string name="time_slot_placeholder">Kosketa ja aseta aika</string>
+    <string name="required_field_missing">Pakollinen kenttä puuttuu</string>
+    <string name="no_video_available">Ei videota saatavilla.</string>
+    <string name="permission_label_set_alarm">asettaa herätyksen herätyskelloon</string>
+    <string name="permission_description_set_alarm">Antaa sovelluksen asettaa herätyksen asennettuun herätyskellosovellukseen. Kaikki herätyskellosovellukset eivät välttämättä käytä tätä ominaisuutta.</string>
+    <string name="help_search_title">verkkohaku</string>
+</resources>

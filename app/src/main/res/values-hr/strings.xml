@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Glasovno pretraživanje</string>
+    <string name="settings">Postavke</string>
+    <string name="settings_button">Postavke</string>
+    <string name="english_voice_ime_name">Android tipkovnica</string>
+    <string name="initializing">Pokretanje</string>
+    <string name="listening">Govorite sad</string>
+    <string name="working">Obrada</string>
+    <string name="wait">Pričekaj</string>
+    <string name="try_again">Pokušajte ponovo</string>
+    <string name="no_match">Nisu pronađeni rezultati</string>
+    <string name="network_error">Problem s vezom</string>
+    <string name="server_error">Problem poslužitelja</string>
+    <string name="audio_error">Problem sa zvukom</string>
+    <string name="recognizer_busy_error">Alat za prepoznavanje govora je zauzet</string>
+    <string name="speech_timeout">Nije se čuo govor</string>
+    <string name="error">Nepoznat problem</string>
+    <string name="audio_file_access">Pristup audio snimcima</string>
+    <string name="audio_file_access_desc">Može pristupiti izgovorenim audio snimcima radi vlastitih zabilješki i neobrađene audio analize</string>
+    <string name="shortcut_access">Prečaci Glasovnog pretraživanja</string>
+    <string name="shortcut_access_desc">Može pristupiti prečacima stvorenim za glasovna pretraživanja</string>
+    <string name="personalization_header">Prilagođeno prepoznavanje</string>
+    <string name="personalization_settings_message">Poboljšajte točnost prepoznavanja govora.</string>
+    <string name="manage_personalization">Nadzorna ploča Google Računa</string>
+    <string name="manage_personalization_message">Upravljajte svojim prikupljenim podacima</string>
+    <string name="personalization_popup_first_time_header">Želite li uključiti prilagođeno prepoznavanje na ovom uređaju?</string>
+    <string name="personalization_popup_message">Da bi poboljšao kvalitetu prepoznavanja govora, Google će povezati vaše snimke s vašim Google Računom prema START_LINKPravilima o privatnosti za mobilne uređajeEND_LINK.</string>
+    <string name="personalization_more_info">Dodatne informacije</string>
+    <string name="personalization_popup_disable_message">Ako onemogućite ovu značajku, više nećemo prilagođavati prepoznavanje vašem glasu, a budući snimci s ovog uređaja neće biti povezani s vašim Google Računom.NEW_LINE NEW_LINEIdite na START_LINKGoogle nadzornu pločuEND_LINK kako biste upravljali svojim podacima.</string>
+    <string name="button_yes">Da</string>
+    <string name="button_no">Ne</string>
+    <string name="connection_retying">Ponovni pokušaj...</string>
+    <string name="help">Pomoć</string>
+    <string name="help_hint">Dodirnite <b>Pomoć</b> kako biste saznali što možete reći</string>
+    <string name="help_header">Pokušajte reći...</string>
+    <string name="voice_actions">Glasovne radnje</string>
+    <string name="did_you_mean">Jeste li mislili...</string>
+    <string name="did_you_say">Jeste li rekli...</string>
+    <string name="or_try_search">ili iskušajte bilo koje Google pretraživanje glasom</string>
+    <string name="dial">Biraj</string>
+    <string name="go">Idi</string>
+    <string name="tryagain">Recite ponovo</string>
+    <string name="speak_now">Govorite sada</string>
+    <string name="search_hint">Google pretraživanje</string>
+    <string name="voice_search_product_name">Google pretraživanje</string>
+    <string name="contact_dialing_product_name">Pozivanje kontakta</string>
+    <string name="speechservice_error">Prepoznavanje glasa nije dostupno</string>
+    <string name="searching">Pretraživanje...</string>
+    <string name="setting_alarm">Namještanje alarma...</string>
+    <string name="messaging_label">Slanje poruka</string>
+    <string name="sending_sms">Slanje u tijeku...</string>
+    <string name="error_sending_sms">Slanje poruke nije uspjelo.</string>
+    <string name="sms_sent">Poruka je poslana.</string>
+    <string name="no_suggestions">Nema prijedloga</string>
+    <string name="add_number">Dodaj broj</string>
+    <string name="voiceSearchPreferences">Postavke Google prepoznavanje glasa</string>
+    <string name="prefTitle_language">Jezik</string>
+    <string name="prefDialogTitle_language">Jezik</string>
+    <string name="prefDefault_language">zadano</string>
+    <string name="prefDefaultTitlePrefix_language">Zadano - %s</string>
+    <string name="prefTitle_safeSearch">Sigurno pretraživanje</string>
+    <string name="prefSummary_safeSearchOff">Isključeno - ne filtriraj rezultate pretraživanja</string>
+    <string name="prefSummary_safeSearchModerate">Umjereno - filtriraj samo eksplicitne slike</string>
+    <string name="prefSummary_safeSearchStrict">Striktno - Filtriraj eksplicitni tekst i slike</string>
+    <string name="prefSummary_safeSearchSuffix">Primjenjuje se samo na Google Pretraživanje glasom</string>
+    <string name="prefDialogTitle_safeSearch">Sigurno pretraživanje</string>
+    <string name="prefTitle_profanityFilter">Blokiraj uvredljiv govor</string>
+    <string name="prefSummary_profanityFilter">Sakrij otkrivene uvredljive glasovne rezultate</string>
+    <string name="warningDialogTitle">Glasovno pretraživanje</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"Glasovno pretraživanje trenutačno nije podržano za jezik vašeg uređaja.
+
+Jezik koji će se umjesto toga koristiti je: %s.
+
+Da biste se prebacili drugi jezik pretraživanja, prijeđite na postavke."</string>
+    <string name="warningDialogMessageLocaleChanged">"Vaš jezik glasovnog pretraživanja promijenjen je na: %s.
+
+Da biste ga promijenili, prijeđite na postavke."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"Vaš jezik glasovnog pretraživanja promijenjen je na: %s.
+
+Da biste ga promijenili, prijeđite na postavke."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Glasovno pretraživanje sad podržava drugi zadani jezik za vaš uređaj: %s.
+
+Da biste se prebacili na ovaj ili drugi jezik pretraživanja, prijeđite na postavke."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Pretraživanje glasom sad podržava jezik vašeg uređaja: %s.
+
+Da biste se prebacili drugi jezik pretraživanja, prijeđite na postavke."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Pretraživanje glasom sad podržava jezik vašeg uređaja: %s.
+
+Da biste se prebacili na ovaj ili drugi jezik pretraživanja, prijeđite na postavke."</string>
+    <string name="ok">U redu</string>
+    <string name="cancel">Odustani</string>
+    <string name="appNameVoiceLog">Glasovni dnevnik</string>
+    <string name="textPathToOutput">Put do izlazne datoteke:</string>
+    <string name="textStopButton">Zaustavi</string>
+    <string name="textRecordButton">Snimi</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">Povijest glasovnog pretraživanja</string>
+    <string name="search_label">Oznaka glasovnog pretraživanja</string>
+    <string name="edit">Uređivanje</string>
+    <string name="delete">Izbriši</string>
+    <string name="message_too_long">Poruka je predugačka.</string>
+    <string name="send_email_submit">Pošalji</string>
+    <string name="send_sms_submit">Pošalji</string>
+    <string name="set_alarm_submit">Postavi</string>
+    <string name="note_to_self_submit">Pošalji</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">s lokacije:</string>
+    <string name="menu_item_settings_title">Postavke</string>
+    <string name="help_watch_video">pogledajte videozapis</string>
+    <string name="help_watch_video_capitalized">Pogledajte videozapis</string>
+    <string name="help_title_action">Upotrijebite <annotation action="true">Glasovne radnje</annotation> za pretraživanje, upravljanje i komunikaciju.</string>
+    <string name="help_hint_format">“%s”</string>
+    <string name="show_hints_on_search_title">Prikaži savjete</string>
+    <string name="show_hints_on_search">Pokaži savjete u okviru za pretraživanje</string>
+    <string name="unsupported_action_dialog_title_format">“%s...”</string>
+    <string name="unsupported_action_dialog_message_default">Vaš uređaj trenutačno ne podržava tu glasovnu radnju.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"Kako biste upotrijebili ovu značajku, preuzmite najnovije Google Karte na Android Marketu.
+
+Također je moguće da ta radnja nije podržana za vaše područje."</string>
+    <string name="unsupported_action_dialog_message_send_email">Kako biste upotrijebili tu značajku, preuzmite najnoviji Gmail na Android Marketu.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">Kako biste upotrijebili tu značajku, preuzmite aplikaciju sata koja podržava tu radnju s Android Marketa.</string>
+    <string name="unsupported_action_dialog_message_listen_to">Kako biste upotrijebili ovu značajku, preuzmite glazbenu aplikaciju koja podržava tu radnju s Android Marketa.</string>
+    <string name="market_button">Idi na uslugu Market</string>
+    <string name="website_button">Idite na web-lokaciju</string>
+    <string name="apps_button">Idi na aplikacije</string>
+    <string name="first_time_use_dialog_message_listen_to">"Ovu značajku možete upotrebljavati s mnogim različitim aplikacijama.
+
+Posjetite donju web-lokaciju kako biste pronašli popis više opcija ili pritisnite U redu za nastavak."</string>
+    <string name="contacts_slot_placeholder">Dodirnite kako biste dodali kontakt</string>
+    <string name="text_slot_placeholder">Dodirnite kako biste dodali tekst</string>
+    <string name="time_slot_placeholder">Dodirnite kako biste namjestili vrijeme</string>
+    <string name="required_field_missing">Obavezno polje nedostaje</string>
+    <string name="no_video_available">Nema dostupnog videozapisa.</string>
+    <string name="permission_label_set_alarm">namjesti alarm na budilici</string>
+    <string name="permission_description_set_alarm">Omogućuje aplikaciji da namjesti alarm u instaliranoj aplikaciji budilice. Neke aplikacije budilice možda neće primijeniti ovu značajku.</string>
+    <string name="help_search_title">pretraživanje weba</string>
+</resources>

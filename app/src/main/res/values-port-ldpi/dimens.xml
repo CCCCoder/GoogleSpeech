@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="recognition_dialog_marginTop">16.0dip</dimen>
+    <dimen name="spinner_marginTop">105.0dip</dimen>
+    <dimen name="help_dialog_marginTop">17.0dip</dimen>
+    <dimen name="bubble_height">240.0dip</dimen>
+    <dimen name="bubble_dialog_height">350.0dip</dimen>
+</resources>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Голосовой поиск</string>
+    <string name="settings">Настройки</string>
+    <string name="settings_button">Настройки</string>
+    <string name="english_voice_ime_name">Клавиатура Android</string>
+    <string name="initializing">Подготовка к работе</string>
+    <string name="listening">Говорите</string>
+    <string name="working">Выполняется обработка</string>
+    <string name="wait">Подождите</string>
+    <string name="try_again">Повторить</string>
+    <string name="no_match">Соответствий не найдено</string>
+    <string name="network_error">Ошибка подключения</string>
+    <string name="server_error">Неполадка сервера</string>
+    <string name="audio_error">Неполадка со звуком</string>
+    <string name="recognizer_busy_error">Процессор распознавания речи занят</string>
+    <string name="speech_timeout">Речи не слышно</string>
+    <string name="error">Неизвестная проблема</string>
+    <string name="audio_file_access">Доступ к записанному аудио</string>
+    <string name="audio_file_access_desc">Использовать записи голоса в целях распознавания и анализа речи</string>
+    <string name="shortcut_access">Ярлыки голосового поиска</string>
+    <string name="shortcut_access_desc">Можно использовать ярлыки, созданные для голосовых поисковых запросов</string>
+    <string name="personalization_header">Идивидуальное распознавание</string>
+    <string name="personalization_settings_message">Улучшите точность распознавания речи</string>
+    <string name="manage_personalization">Личный кабинет аккаунта Google</string>
+    <string name="manage_personalization_message">Управление вашими данными</string>
+    <string name="personalization_popup_first_time_header">Хотите включить персональное распознавание?</string>
+    <string name="personalization_popup_message">Для улучшения качества голосового поиска Google свяжет образцы вашей речи с вашим аккаунтом Google. Привязка будет осуществляться в соответствии с START_LINKПолитикой конфиденциальности Google для мобильных устройствEND_LINK.</string>
+    <string name="personalization_more_info">Дополнительная информация</string>
+    <string name="personalization_popup_disable_message">После отключения функции голосовой поиск перестанет учитывать особенности вашего голоса, а образцы вашей речи на этом устройстве перестанут ассоциироваться с вашим аккаунтом. NEW_LINE NEW_LINEОткройте START_LINKЛичный кабинет GoogleEND_LINK для управления своими данными.</string>
+    <string name="button_yes">Да</string>
+    <string name="button_no">Нет</string>
+    <string name="connection_retying">Повторная попытка...</string>
+    <string name="help">Справка</string>
+    <string name="help_hint">Нажмите <b>Справка</b> и узнайте, что вы можете сказать</string>
+    <string name="help_header">Попробуйте сказать...</string>
+    <string name="voice_actions">Голосовые действия</string>
+    <string name="did_you_mean">Возможно, вы имели в виду...</string>
+    <string name="did_you_say">Возможно, вы сказали...</string>
+    <string name="or_try_search">или попробуйте Голосовой поиск Google</string>
+    <string name="dial">Набор номера</string>
+    <string name="go">Поиск</string>
+    <string name="tryagain">Говорите снова</string>
+    <string name="speak_now">Говорите</string>
+    <string name="search_hint">Поиск Google</string>
+    <string name="voice_search_product_name">Поиск Google</string>
+    <string name="contact_dialing_product_name">Набор номера контакта</string>
+    <string name="speechservice_error">Распознавание речи недоступно</string>
+    <string name="searching">Поиск...</string>
+    <string name="setting_alarm">Установка будильника...</string>
+    <string name="messaging_label">SMS/MMS</string>
+    <string name="sending_sms">Идет отправка...</string>
+    <string name="error_sending_sms">Не удалось отправить сообщение.</string>
+    <string name="sms_sent">Сообщение отправлено.</string>
+    <string name="no_suggestions">Нет вариантов</string>
+    <string name="add_number">Добавить номер</string>
+    <string name="voiceSearchPreferences">Настройки распознавания речи</string>
+    <string name="prefTitle_language">Язык</string>
+    <string name="prefDialogTitle_language">Язык</string>
+    <string name="prefDefault_language">по умолчанию</string>
+    <string name="prefDefaultTitlePrefix_language">По умолчанию %s</string>
+    <string name="prefTitle_safeSearch">Безопасный поиск</string>
+    <string name="prefSummary_safeSearchOff">Без фильтрации – не фильтровать результаты поиска.</string>
+    <string name="prefSummary_safeSearchModerate">Умеренная – фильтровать непристойные изображения.</string>
+    <string name="prefSummary_safeSearchStrict">Строгая – фильтровать непристойный текст и изображения.</string>
+    <string name="prefSummary_safeSearchSuffix">Применимо только к голосовому поиску Google</string>
+    <string name="prefDialogTitle_safeSearch">Безопасный поиск</string>
+    <string name="prefTitle_profanityFilter">Фильтр нецензур. слов</string>
+    <string name="prefSummary_profanityFilter">Скрывать распознанные нецензурные слова и выражения</string>
+    <string name="warningDialogTitle">Голосовой поиск</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"Функция голосового поиска в настоящий момент не поддерживается для языка вашего устройства.
+
+Вместо него будет использован %s язык.
+
+Чтобы выбрать другой языка, зайдите в раздел \"Настройки\"."</string>
+    <string name="warningDialogMessageLocaleChanged">"Ваш язык голосового поиска был изменен на %s.
+
+Для переключения на другой язык зайдите в раздел \"Настройки\"."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"Язык голосового поиска был изменен на %s.
+
+Чтобы выбрать другой язык, перейдите в раздел \"Настройки\"."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Голосовой поиск теперь поддерживает %s язык. 
+
+Чтобы выбрать его, перейдите в раздел \"Настройки\"."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Голосовой поиск теперь поддерживает %s язык. 
+
+Чтобы выбрать его, перейдите в раздел \"Настройки\"."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Голосовой поиск теперь поддерживает %s язык. 
+
+Чтобы выбрать его, перейдите в раздел \"Настройки\"."</string>
+    <string name="ok">ОК</string>
+    <string name="cancel">Отмена</string>
+    <string name="appNameVoiceLog">Журнал голосовых записей</string>
+    <string name="textPathToOutput">Путь к файлу с результатом:</string>
+    <string name="textStopButton">Стоп</string>
+    <string name="textRecordButton">Запись</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">История голосового поиска</string>
+    <string name="search_label">Ярлык голосового поиска</string>
+    <string name="edit">Изменить</string>
+    <string name="delete">Удалить</string>
+    <string name="message_too_long">Сообщение слишком длинное.</string>
+    <string name="send_email_submit">Отправить</string>
+    <string name="send_sms_submit">Отправить</string>
+    <string name="set_alarm_submit">Установить</string>
+    <string name="note_to_self_submit">Отправить</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">от:</string>
+    <string name="menu_item_settings_title">Настройки</string>
+    <string name="help_watch_video">посмотреть видео</string>
+    <string name="help_watch_video_capitalized">Посмотреть видео</string>
+    <string name="help_title_action">Ищите, звоните и управляйте телефоном при помощи <annotation action="true">голосовых действий</annotation>.</string>
+    <string name="help_hint_format">\"%s\"</string>
+    <string name="show_hints_on_search_title">Показывать подсказки</string>
+    <string name="show_hints_on_search">Показывать подсказки в окне поиска</string>
+    <string name="unsupported_action_dialog_title_format">\"%s...\"</string>
+    <string name="unsupported_action_dialog_message_default">Устройство не поддерживает эту голосовую команду.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"Чтобы использовать эту функцию, загрузите последнюю версию Карт Google с Android Маркета.
+
+Обратите внимание, в некоторых регионах загрузка Карт может быть недоступна."</string>
+    <string name="unsupported_action_dialog_message_send_email">Чтобы использовать эту функцию, загрузите последнюю версию Gmail с Android Маркета.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">Чтобы использовать эту функцию, загрузите поддерживающее ее приложение-часы с Android Маркета.</string>
+    <string name="unsupported_action_dialog_message_listen_to">Чтобы использовать эту функцию, загрузите музыкальное приложение, поддерживающее это действие, с Android Маркета.</string>
+    <string name="market_button">Перейти на Маркет</string>
+    <string name="website_button">Перейти на сайт</string>
+    <string name="apps_button">Перейти к приложениям</string>
+    <string name="first_time_use_dialog_message_listen_to">"Эту функцию можно использовать с разными приложениями.
+
+Посетите указанный ниже сайт, чтобы узнать о других возможностях, или нажмите \"ОК\"."</string>
+    <string name="contacts_slot_placeholder">Нажмите, чтобы добавить контакт</string>
+    <string name="text_slot_placeholder">Нажмите, чтобы добавить текст</string>
+    <string name="time_slot_placeholder">Нажмите, чтобы установить время</string>
+    <string name="required_field_missing">Не заполнено обязательное поле</string>
+    <string name="no_video_available">Видео недоступно.</string>
+    <string name="permission_label_set_alarm">устанавливать сигналы будильника</string>
+    <string name="permission_description_set_alarm">Позволяет настраивать сигнал будильника.</string>
+    <string name="help_search_title">веб-поиск</string>
+</resources>

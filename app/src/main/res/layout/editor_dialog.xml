@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.voicesearch.EditorLayout android:layout_gravity="top" android:orientation="vertical" android:id="@id/editor_dialog" android:background="@drawable/vs_dialog_green" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/help_dialog_marginTop" android:minHeight="@dimen/bubble_dialog_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.voicesearch.actioneditor.VoiceActionEditor android:id="@id/slot_editor" android:background="@drawable/vs_editordialog_bubble" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="3.0dip" android:layout_marginTop="3.0dip" android:layout_marginRight="3.0dip" android:layout_weight="1.0" />
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+        <Button android:textSize="20.0sp" android:textColor="@color/white" android:layout_gravity="center_horizontal" android:id="@id/editor_go_button" android:background="@drawable/btn_left" android:focusable="true" android:layout_width="0.0dip" android:layout_height="54.0dip" android:text="@string/go" android:singleLine="true" android:layout_weight="0.5" />
+        <Button android:textSize="20.0sp" android:textColor="@color/white" android:layout_gravity="center_horizontal" android:id="@id/editor_cancel_button" android:background="@drawable/btn_right" android:focusable="true" android:layout_width="0.0dip" android:layout_height="54.0dip" android:text="@string/cancel" android:singleLine="true" android:layout_weight="0.5" />
+    </LinearLayout>
+</com.google.android.voicesearch.EditorLayout>

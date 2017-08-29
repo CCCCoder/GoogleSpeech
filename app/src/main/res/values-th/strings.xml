@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Voice Search</string>
+    <string name="settings">การตั้งค่า</string>
+    <string name="settings_button">การตั้งค่า</string>
+    <string name="english_voice_ime_name">แป้นพิมพ์ Android</string>
+    <string name="initializing">กำลังเริ่มต้น</string>
+    <string name="listening">พูดได้เลย</string>
+    <string name="working">กำลังทำงาน</string>
+    <string name="wait">รอ</string>
+    <string name="try_again">ลองใหม่อีกครั้ง</string>
+    <string name="no_match">ไม่พบรายการที่ตรงกัน</string>
+    <string name="network_error">ปัญหาการเชื่อมต่อ</string>
+    <string name="server_error">ปัญหาของเซิร์ฟเวอร์</string>
+    <string name="audio_error">ปัญหาด้านเสียง</string>
+    <string name="recognizer_busy_error">โปรแกรมจำเสียงไม่ว่าง</string>
+    <string name="speech_timeout">ไม่ได้ยินเสียง</string>
+    <string name="error">พบปัญหาที่ไม่ทราบ</string>
+    <string name="audio_file_access">การเข้าถึงไฟล์เสียงที่บันทึกไว้</string>
+    <string name="audio_file_access_desc">สามารถเข้าถึงเสียงพูดที่บันทึกไว้เพื่อใช้เป็นบันทึกสำหรับตนเอง และเพื่อการวิเคราะห์ข้อมูลเสียงดิบ</string>
+    <string name="shortcut_access">ทางลัดการค้นหาด้วยเสียง</string>
+    <string name="shortcut_access_desc">สามารถเข้าถึงทางลัดที่สร้างขึ้นสำหรับการค้นหาด้วยเสียง</string>
+    <string name="personalization_header">การจดจำเสียงในแบบของคุณ</string>
+    <string name="personalization_settings_message">ปรับปรุงความถูกต้องของการจดจำเสียงพูด</string>
+    <string name="manage_personalization">หน้าแดชบอร์ดของบัญชี Google</string>
+    <string name="manage_personalization_message">จัดการข้อมูลที่รวบรวมไว้ของคุณ</string>
+    <string name="personalization_popup_first_time_header">คุณต้องการเปิดการจดจำเสียงในแบบของคุณสำหรับอุปกรณ์นี้หรือไม่</string>
+    <string name="personalization_popup_message">เพื่อปรับปรุงคุณภาพการจดจำเสียง Google จะเชื่อมโยงเสียงบันทึกของคุณกับบัญชี Google ตาม START_LINKนโยบายส่วนบุคคลสำหรับมือถือEND_LINK</string>
+    <string name="personalization_more_info">ข้อมูลเพิ่มเติม</string>
+    <string name="personalization_popup_disable_message">หากคุณปิดการใช้งานคุณลักษณะนี้ เราจะไม่สามารถปรับแต่งการจดจำเสียงของคุณได้ และจะไม่มีการเชื่อมโยงเสียงบันทึกจากอุปกรณ์นี้กับบัญชี Google ของคุณอีกในอนาคตNEW_LINE NEW_LINEไปที่ START_LINKหน้าแดชบอร์ดของ GoogleEND_LINK เพื่อจัดการข้อมูลของคุณ</string>
+    <string name="button_yes">ใช่</string>
+    <string name="button_no">ไม่</string>
+    <string name="connection_retying">กำลังลองใหม่...</string>
+    <string name="help">ความช่วยเหลือ</string>
+    <string name="help_hint">แตะที่ <b>ความช่วยเหลือ</b> เพื่อดูว่าคุณสามารถพูดอะไรได้บ้าง</string>
+    <string name="help_header">ลองพูด...</string>
+    <string name="voice_actions">การทำงานด้วยเสียง</string>
+    <string name="did_you_mean">หรือคุณหมายถึง...</string>
+    <string name="did_you_say">คุณได้พูดว่า...</string>
+    <string name="or_try_search">หรือลองใช้ Google ค้นด้วยเสียง</string>
+    <string name="dial">หมุนหมายเลข</string>
+    <string name="go">ไป</string>
+    <string name="tryagain">พูดอีกครั้ง</string>
+    <string name="speak_now">พูดเลย</string>
+    <string name="search_hint">Google Search</string>
+    <string name="voice_search_product_name">ค้นหาโดย Google</string>
+    <string name="contact_dialing_product_name">การหมุนหมายเลขที่อยู่ติดต่อ</string>
+    <string name="speechservice_error">การจำเสียงใช้งานไม่ได้</string>
+    <string name="searching">กำลังค้นหา...</string>
+    <string name="setting_alarm">กำลังตั้งเวลาปลุก...</string>
+    <string name="messaging_label">การรับส่งข้อความ</string>
+    <string name="sending_sms">กำลังส่ง...</string>
+    <string name="error_sending_sms">ไม่สามารถส่งข้อความนี้</string>
+    <string name="sms_sent">ส่งข้อความแล้ว</string>
+    <string name="no_suggestions">ไม่มีข้อแนะนำ</string>
+    <string name="add_number">เพิ่มหมายเลข</string>
+    <string name="voiceSearchPreferences">การตั้งค่าการจำเสียงของ Google วอยซ์</string>
+    <string name="prefTitle_language">ภาษา</string>
+    <string name="prefDialogTitle_language">ภาษา</string>
+    <string name="prefDefault_language">ค่าเริ่มต้น</string>
+    <string name="prefDefaultTitlePrefix_language">เริ่มต้น - %s</string>
+    <string name="prefTitle_safeSearch">ค้นหาปลอดภัย</string>
+    <string name="prefSummary_safeSearchOff">ปิด — ไม่ต้องกรองผลการค้นหาของฉัน</string>
+    <string name="prefSummary_safeSearchModerate">"ปานกลาง —  กรองเฉพาะภาพที่ไม่เหมาะสมเท่านั้น"</string>
+    <string name="prefSummary_safeSearchStrict">เข้มงวด - กรองทั้งข้อความและภาพที่ไม่เหมาะสม</string>
+    <string name="prefSummary_safeSearchSuffix">ใช้เฉพาะกับ Google ค้นด้วยเสียง</string>
+    <string name="prefDialogTitle_safeSearch">ค้นหาปลอดภัย</string>
+    <string name="prefTitle_profanityFilter">ปิดกั้นคำไม่สุภาพ</string>
+    <string name="prefSummary_profanityFilter">ซ่อนผลลัพธ์เสียงที่ไม่สุภาพที่จำได้</string>
+    <string name="warningDialogTitle">การค้นหาด้วยเสียง</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"ขณะนี้ Voice Search ยังไม่สนับสนุนภาษาของอุปกรณ์คุณ 
+
+ภาษาที่จะใช้งานแทนคือ:%s
+
+หากต้องการเปลี่ยนไปใช้ Voice Search ภาษาอื่น ให้ไปที่การตั้งค่า"</string>
+    <string name="warningDialogMessageLocaleChanged">"ภาษาใน Voice Search ของคุณได้รับการเปลี่ยนเป็น: %s
+
+หากคุณต้องการเปลี่ยนเป็น Voice Search ภาษาอื่น ให้ไปที่การตั้งค่า"</string>
+    <string name="warningDialogMessageNewBackoffDefault">"ภาษาใน Voice Search ของคุณได้รับการเปลี่ยนเป็น: %s
+
+หากคุณต้องการเปลี่ยนเป็น Voice Search ภาษาอื่น ให้ไปที่การตั้งค่า"</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"ขณะนี้ Voice Search สนับสนุนภาษาเริ่มต้นภาษาอื่นสำหรับอุปกรณ์ของคุณ:%s.
+
+หากต้องการเปลี่ยนไปใช้ภาษานี้หรือใช้ Voice Search ภาษาอื่น ให้ไปที่การตั้งค่า"</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"ขณะนี้ Voice search สนับสนุนภาษาของอุปกรณ์คุณแล้ว: %s
+
+หากต้องการเปลี่ยนไปใช้ Voice search ภาษาอื่น ให้ไปที่การตั้งค่า"</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"ขณะนี้ Voice Search สนับสนุนภาษาของอุปกรณ์ของคุณแล้ว: %s.
+
+หากคุณต้องการเปลี่ยนไปใช้ภาษานี้หรือใช้ Voice Search ภาษาอื่นๆ ให้ไปที่การตั้งค่า"</string>
+    <string name="ok">ตกลง</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="appNameVoiceLog">บันทึกเสียง</string>
+    <string name="textPathToOutput">เส้นทางไปที่ไฟล์เอาต์พุต:</string>
+    <string name="textStopButton">หยุด</string>
+    <string name="textRecordButton">บันทึก</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">ประวัติการค้นหาด้วยเสียง</string>
+    <string name="search_label">ป้ายกำกับ VoiceSearch</string>
+    <string name="edit">แก้ไข</string>
+    <string name="delete">ลบ</string>
+    <string name="message_too_long">ข้อความยาวเกินไป</string>
+    <string name="send_email_submit">ส่ง</string>
+    <string name="send_sms_submit">ส่ง</string>
+    <string name="set_alarm_submit">ตั้งค่า</string>
+    <string name="note_to_self_submit">ส่ง</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">จาก:</string>
+    <string name="menu_item_settings_title">การตั้งค่า</string>
+    <string name="help_watch_video">ดูวิดีโอ</string>
+    <string name="help_watch_video_capitalized">ดูวิดีโอ</string>
+    <string name="help_title_action">ใช้ <annotation action="true">การทำงานด้วยเสียง</annotation> เพื่อค้นหา ควบคุม และสื่อสาร</string>
+    <string name="help_hint_format">“%s”</string>
+    <string name="show_hints_on_search_title">แสดงคำแนะนำ</string>
+    <string name="show_hints_on_search">แสดงคำแนะนำเกี่ยวกับช่องค้นหา</string>
+    <string name="unsupported_action_dialog_title_format">\"%s...\"</string>
+    <string name="unsupported_action_dialog_message_default">ขณะนี้อุปกรณ์ของคุณไม่สนับสนุนการทำงานด้วยเสียงนี้</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"หากต้องการใช้คุณลักษณะนี้ ให้ดาวน์โหลด Google แผนที่รุ่นล่าสุดจาก Android Market
+
+หรือคุณอาจอยู่ในภูมิภาคที่ไม่สนับสนุนการทำงานนี้"</string>
+    <string name="unsupported_action_dialog_message_send_email">หากต้องการใช้คุณลักษณะนี้ ให้ดาวน์โหลด Gmail รุ่นล่าสุดจาก Android Market</string>
+    <string name="unsupported_action_dialog_message_set_alarm">หากต้องการใช้คุณลักษณะนี้ ให้ดาวน์โหลดแอปพลิเคชันนาฬิกาซึ่งสนับสนุนการทำงานนี้จาก Android Market</string>
+    <string name="unsupported_action_dialog_message_listen_to">หากต้องการใช้คุณลักษณะนี้ ให้ดาวน์โหลดแอปพลิเคชันเพลงซึ่งสนับสนุนการทำงานนี้จาก Android Market</string>
+    <string name="market_button">ไปยัง Market</string>
+    <string name="website_button">ไปยังเว็บไซต์</string>
+    <string name="apps_button">ไปที่แอปพลิเคชัน</string>
+    <string name="first_time_use_dialog_message_listen_to">"คุณสามารถใช้คุณลักษณะนี้กับแอปพลิเคชันต่างๆ มากมาย
+
+โปรดไปยังเว็บไซต์ด้านล่างเพื่อดูรายการตัวเลือกเพิ่มเติม หรือกด ตกลง เพื่อดำเนินการต่อ"</string>
+    <string name="contacts_slot_placeholder">แตะเพื่อเพิ่มรายชื่อติดต่อ</string>
+    <string name="text_slot_placeholder">แตะเพื่อเพิ่มข้อความ</string>
+    <string name="time_slot_placeholder">แตะเพื่อตั้งเวลา</string>
+    <string name="required_field_missing">ไม่มีข้อมูลในฟิลด์ที่ต้องระบุ</string>
+    <string name="no_video_available">ไม่มีวิดีโอให้ชม</string>
+    <string name="permission_label_set_alarm">ตั้งเวลาปลุกในนาฬิกาปลุก</string>
+    <string name="permission_description_set_alarm">อนุญาตให้แอปพลิเคชันนี้ตั้งเวลาปลุกในแอปพลิเคชันนาฬิกาปลุกที่ติดตั้งไว้ แอปพลิเคชันนาฬิกาปลุกบางประเภทอาจไม่ใช้คุณลักษณะนี้</string>
+    <string name="help_search_title">ค้นหาเว็บ</string>
+</resources>

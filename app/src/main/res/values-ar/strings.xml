@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">البحث الصوتي</string>
+    <string name="settings">الإعدادات</string>
+    <string name="settings_button">الإعدادات</string>
+    <string name="english_voice_ime_name">لوحة مفاتيح Android</string>
+    <string name="initializing">تشغيل</string>
+    <string name="listening">تحدث الآن</string>
+    <string name="working">العمل</string>
+    <string name="wait">انتظار</string>
+    <string name="try_again">حاول مرة أخرى</string>
+    <string name="no_match">لم يتمّ العثور على أية تطابقات</string>
+    <string name="network_error">مشكلة في الاتصال</string>
+    <string name="server_error">مشكلة في الخادم</string>
+    <string name="audio_error">مشكلة بالإعدادات الصوتية</string>
+    <string name="recognizer_busy_error">أداة التعرف على الكلام مشغولة</string>
+    <string name="speech_timeout">لا حديث مسموع</string>
+    <string name="error">مشكلة غير معروفة</string>
+    <string name="audio_file_access">الدخول إلى الإعدادات الصوتية المسجلة</string>
+    <string name="audio_file_access_desc">إمكانية الدخول إلى الأصوات المسجلة في الإعدادت الصوتية لعمل ملاحظات لنفسك وللتحليل الصوتي الأولي</string>
+    <string name="shortcut_access">اختصارات البحث الصوتي</string>
+    <string name="shortcut_access_desc">إمكانية الدخول إلى الاختصارات التي تم إنشاؤها لعمليات البحث الصوتية</string>
+    <string name="personalization_header">ميزة التعرّف على الكلام المخصصة</string>
+    <string name="personalization_settings_message">تحسين دقة التعرف على الكلام</string>
+    <string name="manage_personalization">لوحة تحكم حساب Google</string>
+    <string name="manage_personalization_message">إدارة البيانات المجمّعة</string>
+    <string name="personalization_popup_first_time_header">هل تريد تشغيل ميزة التعرف على الكلام المخصصة في هذا الجهاز؟</string>
+    <string name="personalization_popup_message">لتحسين جودة التعرف على الكلام، ستعمل Google على إقران تسجيلاتك بحسابك على Google وفقًا لـ START_LINKسياسة خصوصية الجوالEND_LINK.</string>
+    <string name="personalization_more_info">معلومات إضافية</string>
+    <string name="personalization_popup_disable_message">في حالة تعطيل هذه الميزة، لن يتم توظيف ميزة التعرف على صوتك بعد الآن، ولن يتم ربط أي تسجيلات مستقبلية من هذا الجهاز بحسابك على Google.NEW_LINE NEW_LINEانتقل إلى START_LINKلوحة التحكم في GoogleEND_LINK لإدارة بياناتك.</string>
+    <string name="button_yes">نعم</string>
+    <string name="button_no">لا</string>
+    <string name="connection_retying">جارٍ إعادة المحاولة...</string>
+    <string name="help">مساعدة</string>
+    <string name="help_hint">المس <b>مساعدة</b> للتعرف على ما يمكنك قوله</string>
+    <string name="help_header">جرّب قول:</string>
+    <string name="voice_actions">إجراءات الصوت</string>
+    <string name="did_you_mean">هل كنت تقصد...</string>
+    <string name="did_you_say">هل قلت...</string>
+    <string name="or_try_search">أو جرّب بحث Google الصوتي</string>
+    <string name="dial">طلب</string>
+    <string name="go">تنفيذ</string>
+    <string name="tryagain">تحدث مرة أخرى</string>
+    <string name="speak_now">التحدث الآن</string>
+    <string name="search_hint">بحث Google</string>
+    <string name="voice_search_product_name">بحث Google</string>
+    <string name="contact_dialing_product_name">طلب جهة الاتصال</string>
+    <string name="speechservice_error">التعرّف على الكلام غير متاح</string>
+    <string name="searching">جارِ البحث...</string>
+    <string name="setting_alarm">جارٍ تعيين المنبه...</string>
+    <string name="messaging_label">المراسلات</string>
+    <string name="sending_sms">جارٍ الإرسال...</string>
+    <string name="error_sending_sms">تعذر إرسال الرسالة.</string>
+    <string name="sms_sent">تم إرسال الرسالة.</string>
+    <string name="no_suggestions">لا اقتراحات</string>
+    <string name="add_number">إضافة رقم</string>
+    <string name="voiceSearchPreferences">إعدادات تعرّف Google Voice</string>
+    <string name="prefTitle_language">اللغة</string>
+    <string name="prefDialogTitle_language">اللغة</string>
+    <string name="prefDefault_language">افتراضي</string>
+    <string name="prefDefaultTitlePrefix_language">افتراضي - %s</string>
+    <string name="prefTitle_safeSearch">البحث الآمن</string>
+    <string name="prefSummary_safeSearchOff">إيقاف — عدم تصفية نتائج البحث</string>
+    <string name="prefSummary_safeSearchModerate">معتدل — تصفية الصور الإباحية فقط</string>
+    <string name="prefSummary_safeSearchStrict">متشدد — تصفية كل من النصوص والصور الإباحية</string>
+    <string name="prefSummary_safeSearchSuffix">ينطبق فقط على بحث Google الصوتي</string>
+    <string name="prefDialogTitle_safeSearch">البحث الآمن</string>
+    <string name="prefTitle_profanityFilter">حظر الكلمات المسيئة</string>
+    <string name="prefSummary_profanityFilter">إخفاء النتائج الصوتية التي يتم التعرف عليها كمسيئة</string>
+    <string name="warningDialogTitle">البحث الصوتي</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"البحث الصوتي غير متاح في الوقت الحالي للغة جهازك.
+
+اللغة التي سيتم استخدامها بدلاً من ذلك هي: %s.
+
+للتبديل إلى لغة بحث صوتي مختلفة، يرجى الانتقال إلى الإعدادات."</string>
+    <string name="warningDialogMessageLocaleChanged">"تم تغيير لغة بحثك الصوتي إلى: %s.
+
+للتبديل إلى لغة بحث صوتي مختلفة، يرجى الانتقال إلى الإعدادات."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"تم تغيير لغة بحثك الصوتي إلى: %s.
+
+للتبديل إلى لغة بحث صوتي مختلفة، يرجى الانتقال إلى الإعدادات."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"يتيح البحث الصوتي الآن استخدام لغة افتراضية مختلفة لجهازك: %s.
+
+للتبديل إليها أو إلى لغة بحث صوتي مختلفة، يرجى الانتقال إلى الإعدادات."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"يتيح البحث الصوتي الآن استخدام لغة الجهاز: %s.
+
+للتبديل إلى لغة بحث صوتي مختلفة، يرجى الانتقال إلى الإعدادات."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"يتيح البحث الصوتي الآن استخدام لغة الجهاز: %s.
+
+للتبديل إليها أو إلى لغة بحث صوتي أخرى، يرجى الانتقال إلى الإعدادات."</string>
+    <string name="ok">موافق</string>
+    <string name="cancel">إلغاء</string>
+    <string name="appNameVoiceLog">سجل الصوت</string>
+    <string name="textPathToOutput">المسار إلى ملف الاستماع:</string>
+    <string name="textStopButton">إيقاف</string>
+    <string name="textRecordButton">تسجيل</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">سجلّ البحث الصوتي</string>
+    <string name="search_label">تصنيف البحث الصوتي</string>
+    <string name="edit">تعديل</string>
+    <string name="delete">حذف</string>
+    <string name="message_too_long">الرسالة طويلة للغاية.</string>
+    <string name="send_email_submit">إرسال</string>
+    <string name="send_sms_submit">إرسال</string>
+    <string name="set_alarm_submit">تعيين</string>
+    <string name="note_to_self_submit">إرسال</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">من:</string>
+    <string name="menu_item_settings_title">الإعدادات</string>
+    <string name="help_watch_video">مشاهدة مقطع فيديو</string>
+    <string name="help_watch_video_capitalized">مشاهدة مقطع فيديو</string>
+    <string name="help_title_action">استخدم <annotation action="true">إجراءات الصوت</annotation> للبحث والتحكم والاتصال.</string>
+    <string name="help_hint_format">“%s”</string>
+    <string name="show_hints_on_search_title">عرض التلميحات</string>
+    <string name="show_hints_on_search">عرض تلميحات في مربّع البحث</string>
+    <string name="unsupported_action_dialog_title_format">“%s...”</string>
+    <string name="unsupported_action_dialog_message_default">لا يتيح جهازك الإجراء الصوتي هذا في الوقت الحالي.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"لاستخدام هذه الميزة، نزّل أحدث إصدار من خرائط Google من Android Market.
+
+أو، قد تكون في منطقة لا تتيح هذا الإجراء."</string>
+    <string name="unsupported_action_dialog_message_send_email">لاستخدام هذه الميزة، نزّل الإصدار الأحدث من Gmail من Android Market.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">لاستخدام هذه الميزة، نزّل تطبيق منبه يتوافق مع هذا الإجراء من Android Market.</string>
+    <string name="unsupported_action_dialog_message_listen_to">لاستخدام هذه الميزة، نزّل تطبيق موسيقى يتيح هذا الإجراء من Android Market.</string>
+    <string name="market_button">الانتقال إلى Market</string>
+    <string name="website_button">الانتقال إلى موقع الويب</string>
+    <string name="apps_button">الانتقال إلى التطبيقات</string>
+    <string name="first_time_use_dialog_message_listen_to">"يمكنك استخدام هذه الميزة مع العديد من التطبيقات المختلفة.
+
+انتقل إلى موقع الويب أدناه للحصول على قائمة تحتوي على المزيد من الخيارات، أو اضغط على \"موافق\" للمتابعة."</string>
+    <string name="contacts_slot_placeholder">المس لإضافة جهة اتصال</string>
+    <string name="text_slot_placeholder">المس لإضافة نص</string>
+    <string name="time_slot_placeholder">المس لتعيين وقت</string>
+    <string name="required_field_missing">الحقل المطلوب مفقود</string>
+    <string name="no_video_available">ليس هناك فيديو متاح.</string>
+    <string name="permission_label_set_alarm">تعيين المنبه في ساعة المنبه</string>
+    <string name="permission_description_set_alarm">السماح للتطبيق بضبط المنبه في تطبيق ساعة منبه مثبّت. ربما لا تنفذ بعض تطبيقات المنبه هذه الميزة.</string>
+    <string name="help_search_title">بحث الويب</string>
+</resources>

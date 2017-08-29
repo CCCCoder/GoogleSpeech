@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">음성 검색</string>
+    <string name="settings">설정</string>
+    <string name="settings_button">설정</string>
+    <string name="english_voice_ime_name">Android 키보드</string>
+    <string name="initializing">초기화 중</string>
+    <string name="listening">지금 말하세요.</string>
+    <string name="working">인식 중</string>
+    <string name="wait">대기</string>
+    <string name="try_again">다시 시도</string>
+    <string name="no_match">일치하는 항목이 없습니다.</string>
+    <string name="network_error">연결 문제</string>
+    <string name="server_error">서버 문제</string>
+    <string name="audio_error">오디오 문제</string>
+    <string name="recognizer_busy_error">음성 인식기가 사용 중입니다.</string>
+    <string name="speech_timeout">음성이 인식되지 않았습니다.</string>
+    <string name="error">알 수 없는 문제</string>
+    <string name="audio_file_access">녹음된 오디오 액세스</string>
+    <string name="audio_file_access_desc">메모로 활용하거나 원본 오디오 분석에 활용하기 위해 녹음한 오디오 음성에 액세스할 수 있습니다.</string>
+    <string name="shortcut_access">음성 검색 바로가기</string>
+    <string name="shortcut_access_desc">음성 검색을 위해 만든 바로가기에 액세스할 수 있음</string>
+    <string name="personalization_header">맞춤 인식</string>
+    <string name="personalization_settings_message">음성 인식 정확도를 개선합니다.</string>
+    <string name="manage_personalization">Google 계정 대시보드</string>
+    <string name="manage_personalization_message">수집된 데이터 관리</string>
+    <string name="personalization_popup_first_time_header">이 기기에서 맞춤 인식을 사용하도록 설정하시겠습니까?</string>
+    <string name="personalization_popup_message">음성 인식 품질을 개선하기 위해 Google에서 START_LINK모바일 개인정보취급방침END_LINK에 따라 녹음 내용을 Google 계정과 연결합니다.</string>
+    <string name="personalization_more_info">추가 정보</string>
+    <string name="personalization_popup_disable_message">이 기능을 사용 중지하면 음성 인식을 맞춤설정할 수 없으며 향후 기기 녹음 내용이 Google 계정과 연결되지 않습니다.NEW_LINE NEW_LINE데이터를 관리하려면 START_LINKGoogle 대시보드END_LINK로 이동하세요.</string>
+    <string name="button_yes">예</string>
+    <string name="button_no">아니요</string>
+    <string name="connection_retying">다시 시도 중...</string>
+    <string name="help">도움말</string>
+    <string name="help_hint">음성 기능에 대해 자세히 알아보려면 <b>도움말</b>을 누릅니다.</string>
+    <string name="help_header">추천 검색어...</string>
+    <string name="voice_actions">음성 액션</string>
+    <string name="did_you_mean">이것을 찾으셨나요?</string>
+    <string name="did_you_say">이것을 말씀하셨나요?</string>
+    <string name="or_try_search">또는 Google 음성 검색을 사용해 보세요.</string>
+    <string name="dial">전화걸기</string>
+    <string name="go">이동</string>
+    <string name="tryagain">다시 말하기</string>
+    <string name="speak_now">지금 말하세요.</string>
+    <string name="search_hint">Google 검색</string>
+    <string name="voice_search_product_name">Google 검색</string>
+    <string name="contact_dialing_product_name">연락처로 전화걸기</string>
+    <string name="speechservice_error">음성 인식 기능을 사용할 수 없습니다.</string>
+    <string name="searching">검색 중...</string>
+    <string name="setting_alarm">알람을 설정하는 중...</string>
+    <string name="messaging_label">메시지</string>
+    <string name="sending_sms">전송 중...</string>
+    <string name="error_sending_sms">메시지를 보내지 못했습니다.</string>
+    <string name="sms_sent">메시지를 보냈습니다.</string>
+    <string name="no_suggestions">추천 검색어 없음</string>
+    <string name="add_number">번호 추가</string>
+    <string name="voiceSearchPreferences">Google 음성 인식 설정</string>
+    <string name="prefTitle_language">언어</string>
+    <string name="prefDialogTitle_language">언어</string>
+    <string name="prefDefault_language">기본값</string>
+    <string name="prefDefaultTitlePrefix_language">기본값 - %s</string>
+    <string name="prefTitle_safeSearch">SafeSearch</string>
+    <string name="prefSummary_safeSearchOff">사용 안함 - 검색결과를 필터링하지 않음</string>
+    <string name="prefSummary_safeSearchModerate">보통 - 성인 이미지만 필터링</string>
+    <string name="prefSummary_safeSearchStrict">엄격 - 성인 텍스트와 이미지 모두 필터링</string>
+    <string name="prefSummary_safeSearchSuffix">Google 음성 검색에만 적용됨</string>
+    <string name="prefDialogTitle_safeSearch">SafeSearch</string>
+    <string name="prefTitle_profanityFilter">불쾌감을 주는 단어 차단</string>
+    <string name="prefSummary_profanityFilter">불쾌감을 주는 음성검색 결과 숨기기</string>
+    <string name="warningDialogTitle">음성 검색</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"현재 기기 언어로 음성 검색을 할 수 없습니다.
+
+%s가 검색에 사용됩니다.
+
+설정에서 다른 음성 검색 언어로 전환할 수 있습니다."</string>
+    <string name="warningDialogMessageLocaleChanged">"음성 검색 언어가 %s로 변경되었습니다. 
+
+설정에서 다른 음성 검색 언어로 전환할 수 있습니다."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"음성 검색 언어가 %s로 변경되었습니다. 
+
+설정에서 다른 음성 검색 언어로 전환할 수 있습니다."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"이제 기기에서 다른 기본 언어(%s)를 사용하여 음성 검색을 할 수 있습니다.
+
+설정에서 다른 음성 검색 언어로 전환할 수 있습니다."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"이제 기기 언어(%s)로 음성 검색을 할 수 있습니다.
+
+설정에서 다른 음성 검색 언어로 전환할 수 있습니다."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"이제 기기 언어(%s)로 음성 검색을 할 수 있습니다.
+
+설정에서 기기 언어 또는 다른 음성 검색 언어로 전환할 수 있습니다."</string>
+    <string name="ok">확인</string>
+    <string name="cancel">취소</string>
+    <string name="appNameVoiceLog">음성 로그</string>
+    <string name="textPathToOutput">출력 파일 경로:</string>
+    <string name="textStopButton">중지</string>
+    <string name="textRecordButton">기록</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">음성 검색 기록</string>
+    <string name="search_label">VoiceSearch 라벨</string>
+    <string name="edit">수정</string>
+    <string name="delete">삭제</string>
+    <string name="message_too_long">메시지가 너무 깁니다.</string>
+    <string name="send_email_submit">보내기</string>
+    <string name="send_sms_submit">보내기</string>
+    <string name="set_alarm_submit">설정</string>
+    <string name="note_to_self_submit">보내기</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">선택:</string>
+    <string name="menu_item_settings_title">설정</string>
+    <string name="help_watch_video">동영상 보기</string>
+    <string name="help_watch_video_capitalized">동영상 보기</string>
+    <string name="help_title_action"><annotation action="true">음성 작업</annotation>을 통해 검색, 대화, 관리 작업을 수행하세요.</string>
+    <string name="help_hint_format">"'%s'"</string>
+    <string name="show_hints_on_search_title">힌트 표시</string>
+    <string name="show_hints_on_search">검색창에 힌트 표시</string>
+    <string name="unsupported_action_dialog_title_format">"'%s...'"</string>
+    <string name="unsupported_action_dialog_message_default">기기가 현재 이 음성 액션을 지원하지 않습니다.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"이 기능을 사용하려면 Android 마켓에서 최신 Google 지도를 다운로드하세요.
+
+또는 이 작업이 지원되지 않는 지역에 있을 수도 있습니다."</string>
+    <string name="unsupported_action_dialog_message_send_email">이 기능을 사용하려면 Android 마켓에서 최신 Gmail을 다운로드하세요.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">이 기능을 이용하려면 Android 마켓에서 이 작업을 지원하는 시계 애플리케이션을 다운로드하세요.</string>
+    <string name="unsupported_action_dialog_message_listen_to">이 기능을 사용하려면 Android 마켓에서 이 작업을 지원하는 음악 애플리케이션을 다운로드하세요.</string>
+    <string name="market_button">마켓으로 이동</string>
+    <string name="website_button">웹사이트로 이동</string>
+    <string name="apps_button">애플리케이션으로 이동</string>
+    <string name="first_time_use_dialog_message_listen_to">"여러 가지 애플리케이션에서 이 기능을 사용할 수 있습니다. 
+
+아래의 웹사이트를 방문하여 추가 선택 목록을 보거나 확인을 눌러 계속합니다."</string>
+    <string name="contacts_slot_placeholder">눌러서 연락처 추가</string>
+    <string name="text_slot_placeholder">눌러서 텍스트 추가</string>
+    <string name="time_slot_placeholder">눌러서 시간 설정</string>
+    <string name="required_field_missing">필수 입력란이 없습니다.</string>
+    <string name="no_video_available">사용할 수 있는 동영상이 없습니다.</string>
+    <string name="permission_label_set_alarm">알람 시계에서 알람 설정</string>
+    <string name="permission_description_set_alarm">애플리케이션이 설치된 알람 시계 애플리케이션에서 알람을 설정할 수 있도록 합니다. 일부 알람 시계 애플리케이션에서는 이 기능이 구현되지 않을 수 있습니다.</string>
+    <string name="help_search_title">웹 검색</string>
+</resources>

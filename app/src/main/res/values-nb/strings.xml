@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Stemmesøk</string>
+    <string name="settings">Innstillinger</string>
+    <string name="settings_button">Innstillinger</string>
+    <string name="english_voice_ime_name">Android-tastatur</string>
+    <string name="initializing">Starter opp</string>
+    <string name="listening">Snakk nå</string>
+    <string name="working">Jobber</string>
+    <string name="wait">Vent</string>
+    <string name="try_again">Prøv igjen</string>
+    <string name="no_match">Ingen treff</string>
+    <string name="network_error">Tilkoblingsproblem</string>
+    <string name="server_error">Problem med tjener</string>
+    <string name="audio_error">Lydproblem</string>
+    <string name="recognizer_busy_error">Talegjenkjenning opptatt</string>
+    <string name="speech_timeout">Ingen tale høres</string>
+    <string name="error">Ukjent problem</string>
+    <string name="audio_file_access">Tilgang til innspilt lyd</string>
+    <string name="audio_file_access_desc">Får ikke tilgang til innspilte lydmeldinger for egne påminnelser og analyse av rålyddata</string>
+    <string name="shortcut_access">Snarveier til talesøk</string>
+    <string name="shortcut_access_desc">Har tilgang til snarveier for talesøk</string>
+    <string name="personalization_header">Tilpasset gjenkjennelse</string>
+    <string name="personalization_settings_message">Forbedre nøyaktigheten i talegjenkjenning</string>
+    <string name="manage_personalization">Oversiktspanel for Google-kto.</string>
+    <string name="manage_personalization_message">Administrer dine innsamlede data</string>
+    <string name="personalization_popup_first_time_header">Vil du slå på personlig tilpasset gjenkjenning på denne enheten?</string>
+    <string name="personalization_popup_message">For å forbedre kvaliteten på talegjenkjenningen, vil Google knytte dine opptak til Google-kontoen din i henhold til START_LINKMobile personvernregleneEND_LINK.</string>
+    <string name="personalization_more_info">Mer informasjon</string>
+    <string name="personalization_popup_disable_message">Hvis du deaktiverer denne funksjonen, vil vi ikke lenger tilpasse gjenkjennelse til din stemme, og fremtidige opptak fra denne enheten vil ikke bli knyttet til din Google-konto.NEW_LINE NEW_LINEGå til START_LINKGoogle-oversiktenEND_LINK for å administrere dataene dine.</string>
+    <string name="button_yes">Ja</string>
+    <string name="button_no">Nei</string>
+    <string name="connection_retying">Prøver på nytt ...</string>
+    <string name="help">Hjelp</string>
+    <string name="help_hint">Trykk på <b>Hjelp</b> for å finne ut hva du kan si</string>
+    <string name="help_header">Prøv å si ...</string>
+    <string name="voice_actions">Talehandlinger</string>
+    <string name="did_you_mean">Mente du</string>
+    <string name="did_you_say">Sa du</string>
+    <string name="or_try_search">eller forsøk Google Talesøk</string>
+    <string name="dial">Ring</string>
+    <string name="go">Gå til</string>
+    <string name="tryagain">Snakk igjen</string>
+    <string name="speak_now">Snakk nå</string>
+    <string name="search_hint">Google-søk</string>
+    <string name="voice_search_product_name">Google-søk</string>
+    <string name="contact_dialing_product_name">Kontaktringing</string>
+    <string name="speechservice_error">Stemmegjenkjenning er ikke tilgjengelig</string>
+    <string name="searching">Søker ...</string>
+    <string name="setting_alarm">Angir alarm ...</string>
+    <string name="messaging_label">Meldinger</string>
+    <string name="sending_sms">Sender ...</string>
+    <string name="error_sending_sms">Denne meldingen kunne ikke sendes.</string>
+    <string name="sms_sent">Meldingen er sendt.</string>
+    <string name="no_suggestions">Ingen forslag</string>
+    <string name="add_number">Legg til nummer</string>
+    <string name="voiceSearchPreferences">Innstillinger for Googles talegjenkjenning</string>
+    <string name="prefTitle_language">Språk</string>
+    <string name="prefDialogTitle_language">Språk</string>
+    <string name="prefDefault_language">standard</string>
+    <string name="prefDefaultTitlePrefix_language">Standard – %s</string>
+    <string name="prefTitle_safeSearch">Sikkert søk</string>
+    <string name="prefSummary_safeSearchOff">Av: Ikke filtrer søkeresultatene</string>
+    <string name="prefSummary_safeSearchModerate">Moderat: Filtrer kun eksplisitte bilder</string>
+    <string name="prefSummary_safeSearchStrict">Streng: Filtrerer både eksplisitt tekst og eksplisitte bilder</string>
+    <string name="prefSummary_safeSearchSuffix">Gjelder kun Google Talesøk</string>
+    <string name="prefDialogTitle_safeSearch">Sikkert søk</string>
+    <string name="prefTitle_profanityFilter">Blokker støtende ord</string>
+    <string name="prefSummary_profanityFilter">Skjul gjenkjente støtende taleresultater.</string>
+    <string name="warningDialogTitle">Talesøk</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"Talesøk håndteres foreløpig ikke på enhetsspråket.
+
+Språket som blir brukt er: %s.
+
+Du endrer språket under Innstillinger."</string>
+    <string name="warningDialogMessageLocaleChanged">"Språket for talesøk er endret til: %s.
+
+Du endrer språket under Innstillinger."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"Språket for talesøk er endret til: %s.
+
+Du endrer språket under Innstillinger."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Talesøk håndterer nå et annet språk for enheten %s.
+
+Du endrer språket under Innstillinger."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Talesøk støtter nå språket som er valgt på enheten: %s.
+
+Du endrer språket under Innstillinger."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Talesøk støtter nå språket som er valgt på enheten: %s.
+
+Du endrer talespråket under Innstillinger."</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Avbryt</string>
+    <string name="appNameVoiceLog">Stemmelogg</string>
+    <string name="textPathToOutput">Bane til utdatafil</string>
+    <string name="textStopButton">Stopp</string>
+    <string name="textRecordButton">Ta opp</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">Talesøklogg</string>
+    <string name="search_label">Etikett for Voice Search</string>
+    <string name="edit">Rediger</string>
+    <string name="delete">Slett</string>
+    <string name="message_too_long">Meldingen er for lang.</string>
+    <string name="send_email_submit">Send</string>
+    <string name="send_sms_submit">Send</string>
+    <string name="set_alarm_submit">Angi</string>
+    <string name="note_to_self_submit">Send</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">fra:</string>
+    <string name="menu_item_settings_title">Innstillinger</string>
+    <string name="help_watch_video">se en video</string>
+    <string name="help_watch_video_capitalized">Se en video</string>
+    <string name="help_title_action">Bruk <annotation action="true">talehandlinger</annotation> for å søke, kontrollere og kommunisere.</string>
+    <string name="help_hint_format">«%s»</string>
+    <string name="show_hints_on_search_title">Vis tips</string>
+    <string name="show_hints_on_search">Vis tips i søkefelt</string>
+    <string name="unsupported_action_dialog_title_format">«%s»</string>
+    <string name="unsupported_action_dialog_message_default">Enheten håndterer for øyeblikket ikke denne talehandlingen.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"For å bruke denne funksjonen må du laste ned den nyeste versjonen av Google Maps fra Android Market.
+
+Ikke alle regioner håndterer denne handlingen."</string>
+    <string name="unsupported_action_dialog_message_send_email">For å bruke denne funksjonen må du laste ned den nyeste versjonen av Gmail fra Android Market.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">For å bruke denne funksjonen må du laste ned et klokkeprogram som håndterer denne handlingen, fra Android Market.</string>
+    <string name="unsupported_action_dialog_message_listen_to">For å bruke denne funksjonen må du laste ned et musikkprogram som håndterer denne handlingen, fra Android Market.</string>
+    <string name="market_button">Gå til Android Market</string>
+    <string name="website_button">Gå til nettsted</string>
+    <string name="apps_button">Gå til programmer</string>
+    <string name="first_time_use_dialog_message_listen_to">"Du kan bruke denne funksjonen med mange ulike programmer.
+
+Gå til nettstedet nedenfor for å få en liste over alternativer, eller trykk på OK for å fortsette."</string>
+    <string name="contacts_slot_placeholder">Trykk for å legge til en kontakt</string>
+    <string name="text_slot_placeholder">Trykk for å legge til tekst</string>
+    <string name="time_slot_placeholder">Trykk for å angi klokkeslett</string>
+    <string name="required_field_missing">Obligatorisk felt mangler</string>
+    <string name="no_video_available">Ingen video tilgjengelig.</string>
+    <string name="permission_label_set_alarm">still inn alarm i alarmklokke</string>
+    <string name="permission_description_set_alarm">Tillater programmet å stille inn en alarm i et installert alarmklokkeprogram. Ikke alle alarmklokkeprogrammer har denne funksjonen.</string>
+    <string name="help_search_title">nettsøk</string>
+</resources>

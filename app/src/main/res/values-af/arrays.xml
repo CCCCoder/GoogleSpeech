@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languageNames">
+        <item>Afrikaans (Suid-Afrika)</item>
+        <item>Arabies (Algerië)</item>
+        <item>Arabies (Egipte)</item>
+        <item>Arabies (Irak)</item>
+        <item>Arabies (Israel)</item>
+        <item>Arabies (Jordanië)</item>
+        <item>Arabies (Kuwait)</item>
+        <item>Arabies (Lebanon)</item>
+        <item>Arabies (Libië)</item>
+        <item>Arabies (Marokko)</item>
+        <item>Arabies (Qatar)</item>
+        <item>Arabies (Saoedi-Arabië)</item>
+        <item>Arabies (Soedan)</item>
+        <item>Arabies (Sirië)</item>
+        <item>Arabies (Tunisië)</item>
+        <item>Arabies (Verenigde Arabiese Emirate)</item>
+        <item>Arabies (Jemen)</item>
+        <item>Wit-Russies (Belarus)</item>
+        <item>Bengali (Bangladesj)</item>
+        <item>Bulgaars (Bulgarye)</item>
+        <item>Katalaans (Spanje)</item>
+        <item>Chinese, Mandaryns (China, tradisioneel)</item>
+        <item>Chinees, Mandaryns (Hong Kong, tradisioneel)</item>
+        <item>Chinees, Mandaryns (Hong Kong, tradisioneel)</item>
+        <item>Chinees, Mandaryns (Singapoer, tradisioneel)</item>
+        <item>Chinese, Mandaryns (Taiwan, tradisioneel)</item>
+        <item>Chinees, Mandaryns (Taiwan, tradisioneel)</item>
+        <item>Chinees, Yue (China, tradisioneel)</item>
+        <item>Chinees, Yue (Hong Kong, tradisioneel)</item>
+        <item>Kroaties (Kroasië)</item>
+        <item>Tsjeggies (Tsjeggië)</item>
+        <item>Deens (Denemarke)</item>
+        <item>Nederlands (België)</item>
+        <item>Nederlands (Nederland)</item>
+        <item>Engels (Generies)</item>
+        <item>Engels (Australië)</item>
+        <item>Engels (Bangladesj)</item>
+        <item>Engels (Kanada)</item>
+        <item>Engels (Hong Kong)</item>
+        <item>Engels (Indië)</item>
+        <item>Engels (Ierland)</item>
+        <item>Engels (Kenia)</item>
+        <item>Engels (Maleisië)</item>
+        <item>Engels (Nieu-Seeland)</item>
+        <item>Engels (Nigerië)</item>
+        <item>Engels (Pakistan)</item>
+        <item>Engels (Fillipyne)</item>
+        <item>Engels (Singapoer)</item>
+        <item>Engels (Suid-Afrika)</item>
+        <item>Engels (Soedan)</item>
+        <item>Engels (Tanzanië)</item>
+        <item>Engels (Uganda)</item>
+        <item>Engels (VK)</item>
+        <item>Engels (VS)</item>
+        <item>Estnies (Estland)</item>
+        <item>Fillipyns (Fillipyne)</item>
+        <item>Fins (Finland)</item>
+        <item>Frans (België)</item>
+        <item>Frans (Kanada)</item>
+        <item>Frans (Frankryk)</item>
+        <item>Frans (Switserland)</item>
+        <item>Galicies (Spanje)</item>
+        <item>Duits (Oostenryk)</item>
+        <item>Duits (Duitsland)</item>
+        <item>Duits (Switserland)</item>
+        <item>Duits (Liechtenstein)</item>
+        <item>Grieks (Griekeland)</item>
+        <item>Hebreeus (Israel)</item>
+        <item>Hindi (Indië)</item>
+        <item>Hongaars (Hongarye)</item>
+        <item>Yslands (Ysland)</item>
+        <item>Indonesies (Indonesië)</item>
+        <item>Ierse (Ierland)</item>
+        <item>isiNdebele (Suid-Afrika)</item>
+        <item>isiXhosa (Suid-Afrika)</item>
+        <item>isiZulu (Suid-Afrika)</item>
+        <item>Italiaans (Italië)</item>
+        <item>Italiaans (Switserland)</item>
+        <item>Japannees (Japan)</item>
+        <item>Koreaans (Suid-Korea)</item>
+        <item>Lets (Letland)</item>
+        <item>Litaus (Litaue)</item>
+        <item>Maleis (Maleisië)</item>
+        <item>Maleis (Singapoer)</item>
+        <item>Noors Bokmål (Noorweë)</item>
+        <item>Norwegiese Nynorsk (Noorweë)</item>
+        <item>Persiese (Iran)</item>
+        <item>Pools (Pole)</item>
+        <item>Portugees (Angola)</item>
+        <item>Portugees (Brasilië)</item>
+        <item>Portugees (Portugal)</item>
+        <item>Roemeens (Roemenië)</item>
+        <item>Russies (Belarus)</item>
+        <item>Russies (Rusland)</item>
+        <item>Sepedi (Suid-Afrika)</item>
+        <item>Serwies (Serwië, Cyrilliese)</item>
+        <item>Sesotho (Suid-Afrika)</item>
+        <item>Setswana (Suid-Afrika)</item>
+        <item>siSwati (Suid-Afrika)</item>
+        <item>Slovak (Slowakye)</item>
+        <item>Sloweens (Slowenië)</item>
+        <item>Spaans (Argentinië)</item>
+        <item>Spaans (Bolivia)</item>
+        <item>Spaans (Chili)</item>
+        <item>Spaans (Kolombië)</item>
+        <item>Spaans (Costa Rica)</item>
+        <item>Spaans (Kuba)</item>
+        <item>Spaans (Dominikaanse Republiek)</item>
+        <item>Spaans (Ekwador)</item>
+        <item>Spaans (El Salvador)</item>
+        <item>Spaans (Guatemala)</item>
+        <item>Spaans (Honduras)</item>
+        <item>Spaans (Meksiko)</item>
+        <item>Spaans (Nicaragua)</item>
+        <item>Spaans (Panama)</item>
+        <item>Spaans (Paraguay)</item>
+        <item>Spaans (Peru)</item>
+        <item>Spaans (Puerto Rico)</item>
+        <item>Spaans (Spanje)</item>
+        <item>Spaans (VS)</item>
+        <item>Spaans (Uruguay)</item>
+        <item>Spaans (Venezuela)</item>
+        <item>Swahili (Kenia)</item>
+        <item>Swahili (Tanzanië)</item>
+        <item>Swahili (Uganda)</item>
+        <item>Sweeds (Finland)</item>
+        <item>Sweedse (Swede)</item>
+        <item>Thai (Thailand)</item>
+        <item>Tshivenda (Suid-Afrika)</item>
+        <item>Turks (Turkye)</item>
+        <item>Oekraïens (Oekraine)</item>
+        <item>Urdu (Pakistan)</item>
+        <item>Vietnamese (Vietnam)</item>
+        <item>Tsonga (Suid-Afrika)</item>
+    </string-array>
+    <string-array name="prefEntries_safeSearch">
+        <item>Af</item>
+        <item>Matig</item>
+        <item>Streng</item>
+    </string-array>
+</resources>

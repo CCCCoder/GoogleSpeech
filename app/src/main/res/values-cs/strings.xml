@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Hlasové vyhledávání</string>
+    <string name="settings">Nastavení</string>
+    <string name="settings_button">Nastavení</string>
+    <string name="english_voice_ime_name">Klávesnice Android</string>
+    <string name="initializing">Spouštění</string>
+    <string name="listening">Mluvte</string>
+    <string name="working">Probíhá zpracování</string>
+    <string name="wait">Čekejte</string>
+    <string name="try_again">Zkuste to znovu</string>
+    <string name="no_match">Nebyly nalezeny žádné shody</string>
+    <string name="network_error">Problém s připojením</string>
+    <string name="server_error">Problém se serverem</string>
+    <string name="audio_error">Problém se zvukem</string>
+    <string name="recognizer_busy_error">Modul rozpoznávání řeči je zaneprázdněn</string>
+    <string name="speech_timeout">Nebyla detekována žádná řeč.</string>
+    <string name="error">Neznámý problém</string>
+    <string name="audio_file_access">Přístup k zaznamenanému zvuku</string>
+    <string name="audio_file_access_desc">Smí přistupovat k hlasovým nahrávkám pro vlastní poznámky a pro analýzu nezpracovaného zvuku</string>
+    <string name="shortcut_access">Zkratky pro hlasové vyhledávání</string>
+    <string name="shortcut_access_desc">Přístup ke zkratkám vytvořeným pro hlasové vyhledávání povolen.</string>
+    <string name="personalization_header">Personalizované rozpoznávání</string>
+    <string name="personalization_settings_message">Zlepšit přesnost rozpoznávání řeči</string>
+    <string name="manage_personalization">Panel účtu Google</string>
+    <string name="manage_personalization_message">Správa shromážděných dat</string>
+    <string name="personalization_popup_first_time_header">Chcete v tomto zařízení zapnout personalizované rozpoznávání?</string>
+    <string name="personalization_popup_message">Za účelem zvýšení kvality rozpoznávání řeči spojí Google vaše nahrávky s vaším účtem Google, viz START_LINKZásady ochrany osobních údajů pro mobilyEND_LINK.</string>
+    <string name="personalization_more_info">Další informace</string>
+    <string name="personalization_popup_disable_message">Pokud tuto funkci deaktivujete, nebudeme již přizpůsobovat rozpoznávání vašemu hlasu a žádné další záznamy z tohoto zařízení nebudou přiřazeny k vašemu účtu Google.NEW_LINE NEW_LINESvá data můžete spravovat pomocí START_LINKpanelu GoogleEND_LINK.</string>
+    <string name="button_yes">Ano</string>
+    <string name="button_no">Ne</string>
+    <string name="connection_retying">Nový pokus...</string>
+    <string name="help">Nápověda</string>
+    <string name="help_hint">Chcete-li se dozvědět, jaké slovní příkazy můžete použít, dotkněte se tlačítka <b>Nápověda</b>.</string>
+    <string name="help_header">Zkuste vyslovit...</string>
+    <string name="voice_actions">Hlasové akce</string>
+    <string name="did_you_mean">Měli jste na mysli...</string>
+    <string name="did_you_say">Řekli jste...</string>
+    <string name="or_try_search">nebo zkuste jakékoli Hlasové vyhledávání Google</string>
+    <string name="dial">Vytočit</string>
+    <string name="go">Přejít</string>
+    <string name="tryagain">Mluvte znovu</string>
+    <string name="speak_now">Mluvte</string>
+    <string name="search_hint">Vyhledávání Google</string>
+    <string name="voice_search_product_name">Vyhledávání Google</string>
+    <string name="contact_dialing_product_name">Vytáčení kontaktu</string>
+    <string name="speechservice_error">Rozpoznávání řeči není k dispozici.</string>
+    <string name="searching">Vyhledávání...</string>
+    <string name="setting_alarm">Nastavení budíku...</string>
+    <string name="messaging_label">SMS a MMS</string>
+    <string name="sending_sms">Odesílání...</string>
+    <string name="error_sending_sms">Zprávu nelze odeslat.</string>
+    <string name="sms_sent">Zpráva byla odeslána.</string>
+    <string name="no_suggestions">Žádné návrhy</string>
+    <string name="add_number">Přidat číslo</string>
+    <string name="voiceSearchPreferences">Nastavení rozpoznávání hlasu Google</string>
+    <string name="prefTitle_language">Jazyk</string>
+    <string name="prefDialogTitle_language">Jazyk</string>
+    <string name="prefDefault_language">výchozí</string>
+    <string name="prefDefaultTitlePrefix_language">Výchozí nastavení – %s</string>
+    <string name="prefTitle_safeSearch">Bezpečné vyhledávání</string>
+    <string name="prefSummary_safeSearchOff">Vypnuto – nefiltrovat výsledky vyhledávání</string>
+    <string name="prefSummary_safeSearchModerate">Střední – filtrovat pouze explicitní obrázky</string>
+    <string name="prefSummary_safeSearchStrict">Přísné – filtrovat explicitní text i explicitní obrázky</string>
+    <string name="prefSummary_safeSearchSuffix">Vztahuje se pouze na Hlasové vyhledávání Google</string>
+    <string name="prefDialogTitle_safeSearch">Bezpečné vyhledávání</string>
+    <string name="prefTitle_profanityFilter">Blokovat nevhodná slova</string>
+    <string name="prefSummary_profanityFilter">Skrýt zjištěné nevhodné výsledky hlasového vyhledávání</string>
+    <string name="warningDialogTitle">Hlasové vyhledávání</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"Hlasové vyhledávání aktuálně nepodporuje jazyk vašeho zařízení.
+
+Jazyk použitý místo něj: %s.
+
+Chcete-li přepnout na jiný jazyk hlasového vyhledávání, přejděte do Nastavení."</string>
+    <string name="warningDialogMessageLocaleChanged">"Jazyk hlasového vyhledávání byl změněn na: %s.
+
+Chcete-li přepnout na jiný jazyk hlasového vyhledávání, přejděte do Nastavení."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"Jazyk hlasového vyhledávání byl změněn na: %s.
+
+Chcete-li přepnout na jiný jazyk hlasového vyhledávání, přejděte do Nastavení."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Hlasové vyhledávání nyní podporuje jiný výchozí jazyk pro vaše zařízení: %s.
+
+Chcete-li přepnout na tento nebo jiný jazyk hlasového vyhledávání, přejděte do Nastavení."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Hlasové vyhledávání nyní podporuje jazyk vašeho zařízení: %s.
+
+Chcete-li přepnout na jiný jazyk hlasového vyhledávání, přejděte do Nastavení."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Hlasové vyhledávání nyní podporuje jazyk vašeho zařízení: %s.
+
+Chcete-li přepnout na tento nebo jiný jazyk hlasového vyhledávání, přejděte do Nastavení."</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Zrušit</string>
+    <string name="appNameVoiceLog">Voice Log</string>
+    <string name="textPathToOutput">Cesta k výstupnímu souboru:</string>
+    <string name="textStopButton">Zastavit</string>
+    <string name="textRecordButton">Zaznamenat</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">Historie hlasového vyhledávání</string>
+    <string name="search_label">Štítek VoiceSearch</string>
+    <string name="edit">Upravit</string>
+    <string name="delete">Smazat</string>
+    <string name="message_too_long">Zpráva je příliš dlouhá.</string>
+    <string name="send_email_submit">Odeslat</string>
+    <string name="send_sms_submit">Odeslat</string>
+    <string name="set_alarm_submit">Nastavit</string>
+    <string name="note_to_self_submit">Odeslat</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">od:</string>
+    <string name="menu_item_settings_title">Nastavení</string>
+    <string name="help_watch_video">přehrát video</string>
+    <string name="help_watch_video_capitalized">Přehrát video</string>
+    <string name="help_title_action"><annotation action="true">Hlasové akce</annotation> slouží k vyhledávání, ovládání a komunikaci.</string>
+    <string name="help_hint_format">„%s“</string>
+    <string name="show_hints_on_search_title">Zobrazit návrhy</string>
+    <string name="show_hints_on_search">Zobrazit návrhy ve vyhledávacím poli</string>
+    <string name="unsupported_action_dialog_title_format">„%s...“</string>
+    <string name="unsupported_action_dialog_message_default">Zařízení v současné době tuto hlasovou akci nepodporuje.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"Chcete-li tuto funkci použít, je třeba stáhnout ze služby Android Market nejnovější verzi Map Google.
+
+Nebo se možná nacházíte v oblasti, kde tato akce není podporována."</string>
+    <string name="unsupported_action_dialog_message_send_email">Chcete-li tuto funkci použít, je třeba stáhnout ze služby Android Market nejnovější verzi Gmailu.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">Chcete-li tuto funkci použít, je potřeba ze služby Android Market stáhnout aplikaci s funkcí hodin, která tuto akci podporuje.</string>
+    <string name="unsupported_action_dialog_message_listen_to">Chcete-li tuto funkci použít, je potřeba ze služby Android Market stáhnout hudební aplikaci, která tuto akci podporuje.</string>
+    <string name="market_button">Přejít do služby Market</string>
+    <string name="website_button">Přejít na web</string>
+    <string name="apps_button">Přejít do aplikací</string>
+    <string name="first_time_use_dialog_message_listen_to">"Tuto funkci můžete použít v mnoha různých aplikacích.
+
+ Můžete přejít na stránku níže, kde naleznete seznam dalších možností k výběru, nebo můžete pokračovat stisknutím tlačítka OK."</string>
+    <string name="contacts_slot_placeholder">Dotykem přidáte kontakt</string>
+    <string name="text_slot_placeholder">Dotykem přidáte text</string>
+    <string name="time_slot_placeholder">Dotykem nastavíte čas</string>
+    <string name="required_field_missing">Povinné pole chybí</string>
+    <string name="no_video_available">Není k dispozici žádné video.</string>
+    <string name="permission_label_set_alarm">nastavit budík v budíku</string>
+    <string name="permission_description_set_alarm">Dovoluje aplikaci nastavit budík v nainstalované budíkové aplikaci. V některých budíkových aplikacích tato funkce nemusí být implementována.</string>
+    <string name="help_search_title">vyhledávání</string>
+</resources>

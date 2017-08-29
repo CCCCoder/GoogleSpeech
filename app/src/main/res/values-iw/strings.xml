@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">חיפוש קולי</string>
+    <string name="settings">הגדרות</string>
+    <string name="settings_button">הגדרות</string>
+    <string name="english_voice_ime_name">מקלדת Android</string>
+    <string name="initializing">מתחיל</string>
+    <string name="listening">דבר כעת</string>
+    <string name="working">פועל</string>
+    <string name="wait">המתן</string>
+    <string name="try_again">נסה שוב</string>
+    <string name="no_match">לא נמצאו התאמות</string>
+    <string name="network_error">בעיה בחיבור</string>
+    <string name="server_error">בעיה בשרת</string>
+    <string name="audio_error">בעיה באודיו</string>
+    <string name="recognizer_busy_error">מזהה הדיבור אינו פנוי</string>
+    <string name="speech_timeout">לא נשמע דיבור</string>
+    <string name="error">בעיה לא ידועה</string>
+    <string name="audio_file_access">גישה לאודיו שהוקלט</string>
+    <string name="audio_file_access_desc">ניתן לגשת לקטע האודיו שהוקלט לשמיעת הערות עצמיות ולניתוח גס של אודיו</string>
+    <string name="shortcut_access">"קיצורי דרך של 'חיפוש קולי'"</string>
+    <string name="shortcut_access_desc">ניתן להיכנס לקיצורי דרך שנוצרו עבור חיפושים קוליים</string>
+    <string name="personalization_header">זיהוי מותאם אישית</string>
+    <string name="personalization_settings_message">שפר את הדיוק של זיהוי הדיבור</string>
+    <string name="manage_personalization">מרכז השליטה של חשבון Google</string>
+    <string name="manage_personalization_message">נהל את הנתונים שנאספו</string>
+    <string name="personalization_popup_first_time_header">האם ברצונך להפעיל זיהוי מותאם אישית בהתקן זה?</string>
+    <string name="personalization_popup_message">כדי לשפר את איכות זיהוי הדיבור, Google תשייך את ההקלטות שלך לחשבון Google שלך בהתאם לSTART_LINKמדיניות הפרטיות בניידEND_LINK.</string>
+    <string name="personalization_more_info">מידע נוסף</string>
+    <string name="personalization_popup_disable_message">אם תשבית תכונה זו, לא נוכל עוד להתאים אישית זיהוי לקול שלך, ולא ישויכו הקלטות נוספות מהתקן זה לחשבון Google שלך.NEW_LINE NEW_LINEעבור אל START_LINKמרכז השליטה של GoogleEND_LINK כדי לנהל את הנתונים שלך.</string>
+    <string name="button_yes">כן</string>
+    <string name="button_no">לא</string>
+    <string name="connection_retying">מנסה שוב...</string>
+    <string name="help">עזרה</string>
+    <string name="help_hint">גע ב<b>עזרה</b> כדי ללמוד מה תוכל לומר</string>
+    <string name="help_header">נסה לומר...</string>
+    <string name="voice_actions">פעולות קוליות</string>
+    <string name="did_you_mean">האם התכוונת ל...</string>
+    <string name="did_you_say">האם אמרת...</string>
+    <string name="or_try_search">או נסה כל חיפוש קולי של Google</string>
+    <string name="dial">חייג</string>
+    <string name="go">בצע</string>
+    <string name="tryagain">דבר שוב</string>
+    <string name="speak_now">דבר עכשיו</string>
+    <string name="search_hint">חיפוש Google</string>
+    <string name="voice_search_product_name">חיפוש Google</string>
+    <string name="contact_dialing_product_name">חיוג לאיש קשר</string>
+    <string name="speechservice_error">זיהוי דיבור אינו זמין</string>
+    <string name="searching">מחפש...</string>
+    <string name="setting_alarm">מגדיר התראה...</string>
+    <string name="messaging_label">העברת הודעות</string>
+    <string name="sending_sms">שולח...</string>
+    <string name="error_sending_sms">לא הייתה אפשרות לשלוח הודעה.</string>
+    <string name="sms_sent">ההודעה נשלחה.</string>
+    <string name="no_suggestions">אין הצעות</string>
+    <string name="add_number">הוסף מספר</string>
+    <string name="voiceSearchPreferences">הגדרות זיהוי קולי של Google</string>
+    <string name="prefTitle_language">שפה</string>
+    <string name="prefDialogTitle_language">שפה</string>
+    <string name="prefDefault_language">ברירת מחדל</string>
+    <string name="prefDefaultTitlePrefix_language">ברירת מחדל - %s</string>
+    <string name="prefTitle_safeSearch">חיפוש בטוח</string>
+    <string name="prefSummary_safeSearchOff">כבוי - אל תסנן את תוצאות החיפוש שלי</string>
+    <string name="prefSummary_safeSearchModerate">בינוני - סנן תמונות מפורטות בלבד</string>
+    <string name="prefSummary_safeSearchStrict">נוקשה - סנן גם טקסט מפורט וגם תמונות מפורטות</string>
+    <string name="prefSummary_safeSearchSuffix">חל רק על חיפוש קולי של Google</string>
+    <string name="prefDialogTitle_safeSearch">חיפוש בטוח</string>
+    <string name="prefTitle_profanityFilter">חסום מילים פוגעניות</string>
+    <string name="prefSummary_profanityFilter">הסתר תוצאות קוליות מוכרות פוגעניות</string>
+    <string name="warningDialogTitle">חיפוש קולי</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"חיפוש קולי אינו נתמך בשלב זה עבור שפת המכשיר שלך.
+
+השפה שתשמש במקום: %s.
+
+כדי לעבור לשפה אחרת של חיפוש קולי, בקר ב'הגדרות'."</string>
+    <string name="warningDialogMessageLocaleChanged">"השפה של החיפוש הקולי השתנתה ל: %s.
+
+כדי לשנות לשפה אחרת בחיפוש הקולי, בקר ב'הגדרות'."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"השפה של החיפוש הקולי השתנתה ל: %s.
+
+כדי לשנות לשפה אחרת בחיפוש הקולי, בקר ב'הגדרות'."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"חיפוש קולי תומך כעת בשפת ברירת מחדל אחרת עבור מכשירך: %s.
+
+כדי להחליף לשפה זו או שפה אחרת של חיפוש קולי, בקר ב'הגדרות'."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"חיפוש קולי תומך כעת בשפת המכשיר שלך: %s.
+
+כדי לעבור לשפה זו או שפה אחרת לחיפוש קולי, בקר ב'הגדרות'."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"חיפוש קולי תומך כעת בשפת המכשיר שלך: %s.
+
+כדי לעבור לשפה זו או שפה קולית אחרת, בקר ב'הגדרות'."</string>
+    <string name="ok">אישור</string>
+    <string name="cancel">ביטול</string>
+    <string name="appNameVoiceLog">יומן קולי</string>
+    <string name="textPathToOutput">נתיב לקובץ פלט:</string>
+    <string name="textStopButton">עצור</string>
+    <string name="textRecordButton">הקלט</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">"היסטוריה של 'חיפוש קולי'"</string>
+    <string name="search_label">תווית VoiceSearch</string>
+    <string name="edit">ערוך</string>
+    <string name="delete">מחק</string>
+    <string name="message_too_long">ההודעה ארוכה מדי.</string>
+    <string name="send_email_submit">שלח</string>
+    <string name="send_sms_submit">שלח</string>
+    <string name="set_alarm_submit">הגדר</string>
+    <string name="note_to_self_submit">שלח</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">מאת:</string>
+    <string name="menu_item_settings_title">הגדרות</string>
+    <string name="help_watch_video">צפה בסרטון וידאו</string>
+    <string name="help_watch_video_capitalized">צפה בסרטון וידאו</string>
+    <string name="help_title_action">השתמש ב<annotation action="true">פעולות קוליות</annotation> כדי לחפש, לשלוט וליצור קשר.</string>
+    <string name="help_hint_format">“%s”</string>
+    <string name="show_hints_on_search_title">הצג רמזים</string>
+    <string name="show_hints_on_search">הצג רמזים בתיבת החיפוש</string>
+    <string name="unsupported_action_dialog_title_format">“%s...”</string>
+    <string name="unsupported_action_dialog_message_default">ההתקן שלך אינו תומך כרגע בפעולה קולית זו.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"כדי להשתמש בתכונה זו, הורד מ'חנות Android' את הגרסה העדכנית ביותר של 'מפות Google'.
+
+או, ייתכן שאתה נמצא באזור שאינו נתמך לפעולה זו."</string>
+    <string name="unsupported_action_dialog_message_send_email">"כדי להשתמש בתכונה זו, הורד מ'חנות Android' את הגרסה העדכנית ביותר של Gmail."</string>
+    <string name="unsupported_action_dialog_message_set_alarm">"כדי להשתמש בתכונה זו, הורד מ'חנות Android' יישום שעון שתומך בפעולה זו."</string>
+    <string name="unsupported_action_dialog_message_listen_to">"כדי להשתמש בתכונה זו, הורד מ'חנות Android' יישום מוסיקה שתומך בפעולה זו."</string>
+    <string name="market_button">"עבור אל 'חנות Android'"</string>
+    <string name="website_button">עבור לאתר</string>
+    <string name="apps_button">עבור אל יישומים</string>
+    <string name="first_time_use_dialog_message_listen_to">"תוכל להשתמש בתכונה זו עם יישומים שונים רבים.
+
+בקר באתר שבהמשך לקבלת רשימה של אפשרויות נוספות, או הקש 'אישור' כדי להמשיך."</string>
+    <string name="contacts_slot_placeholder">גע כדי להוסיף איש קשר</string>
+    <string name="text_slot_placeholder">גע כדי להוסיף טקסט</string>
+    <string name="time_slot_placeholder">גע כדי להגדיר שעה</string>
+    <string name="required_field_missing">שדה נדרש חסר</string>
+    <string name="no_video_available">אין סרטון וידאו זמין.</string>
+    <string name="permission_label_set_alarm">הגדר התראה בשעון המעורר</string>
+    <string name="permission_description_set_alarm">מאפשר ליישום להגדיר התראה ביישום מותקן של שעון מעורר. חלק מיישומי השעון המעורר עשויים שלא ליישם תכונה זו.</string>
+    <string name="help_search_title">חיפוש באינטרנט</string>
+</resources>

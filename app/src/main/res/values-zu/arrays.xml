@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languageNames">
+        <item>isiBhunu (South Africa)</item>
+        <item>Isi-Arabic (Algeria)</item>
+        <item>Isi-Arabic (Egypt)</item>
+        <item>Isi-Arabic (Iraq)</item>
+        <item>Isi-Arabic (Israel)</item>
+        <item>Isi-Arabic (Jordan)</item>
+        <item>Isi-Arabic (Kuwait)</item>
+        <item>Isi-Arabic (Lebanon)</item>
+        <item>Isi-Arabic (Libya)</item>
+        <item>Isi-Arabic (Morocco)</item>
+        <item>Iisi-Arabic (Qatar)</item>
+        <item>Isi-Arabic (Saudi Arabia)</item>
+        <item>Isi-Arabic (Sudan)</item>
+        <item>Isi-Arabic (Syria)</item>
+        <item>Isi-Arabic (Tunisia)</item>
+        <item>Isi-Arabic (United Arab Emirates)</item>
+        <item>Isi-Arabic (Yemen)</item>
+        <item>Isi-Belarusian (Belarus)</item>
+        <item>Isi-Bengali (Bangladesh)</item>
+        <item>Isi-Bulgarian (Bulgaria)</item>
+        <item>Isi-Catalan (Spain)</item>
+        <item>isi-China, isi-Mandarin (isi-China, Esilula)</item>
+        <item>Isi-Chinese, isi-Mandarin (isi-Hong Kong, Esilula)</item>
+        <item>isiShayina, isi-Mandarin (isi-Hong Kong, Sendabuko)</item>
+        <item>Isi-Chinese, isi-Mandarin (isi-Singapore, Esilula)</item>
+        <item>isiShayina, isi-Mandarin (isi-Taiwan, Esilula)</item>
+        <item>Isi-Chinese, isi-Mandarin (isi-Taiwan, Sendabuko)</item>
+        <item>isiShayina, isi-Yue (isiShayina, Esilula)</item>
+        <item>Isi-Chinese, isi-Yue (isi-Hong Kong, Sendabuko)</item>
+        <item>Isi-Croatian (Croatia)</item>
+        <item>Isi-Czech (Czech Republic)</item>
+        <item>isi-Danish (Denmark)</item>
+        <item>Isi-Dutch (Belgium)</item>
+        <item>Isi-Dutch (Netherlands)</item>
+        <item>isiNgisi (Generic)</item>
+        <item>isiNgisi (Australia)</item>
+        <item>isiNgisi (Bangladesh)</item>
+        <item>isiNgisi (Canada)</item>
+        <item>isiNgisi (Hong Kong)</item>
+        <item>isiNgisi (India)</item>
+        <item>isiNgisi (Ireland)</item>
+        <item>isiNgisi (Kenya)</item>
+        <item>isiNgisi (Malaysia)</item>
+        <item>isiNgisi (New Zealand)</item>
+        <item>isiNgisi (Nigeria)</item>
+        <item>isiNgisi (Pakistan)</item>
+        <item>isiNgisi (Philippines)</item>
+        <item>isiNgisi (Singapore)</item>
+        <item>isiNgisi (South Africa)</item>
+        <item>isiNgisi (Sudan)</item>
+        <item>isiNgisi (Tanzania)</item>
+        <item>isiNgisi (Uganda)</item>
+        <item>isiNgisi (UK)</item>
+        <item>isiNgisi (US)</item>
+        <item>Isi-Estonian (Estonia)</item>
+        <item>Isi-Filipino (Philippines)</item>
+        <item>isi-Finnish (Finland)</item>
+        <item>isiFulentshi (Belgium)</item>
+        <item>isiFulentshi (Canada)</item>
+        <item>isiFulentshi (France)</item>
+        <item>isiFulentshi (Switzerland)</item>
+        <item>Isi-Galician (Spain)</item>
+        <item>isiJalimane (Austria)</item>
+        <item>isiJalimane (Germany)</item>
+        <item>isiJalimane (Switzerland)</item>
+        <item>isiJalimane (Liechtenstein)</item>
+        <item>isiGriki (Greece)</item>
+        <item>isiHebheru (Israel)</item>
+        <item>Isi-Hindi (India)</item>
+        <item>Isi-Hungarian (Hungary)</item>
+        <item>Isi-Icelandic (Iceland)</item>
+        <item>Isi-Indonesian (Indonesia)</item>
+        <item>Isi-Irish (Ireland)</item>
+        <item>isiNdebele (South Africa)</item>
+        <item>isiXhosa (South Africa)</item>
+        <item>isiZulu (South Africa)</item>
+        <item>isi-Italian (Italy)</item>
+        <item>Isi-Italian (Switzerland)</item>
+        <item>isiJaphani (Japan)</item>
+        <item>Isi-Korean (South Korea)</item>
+        <item>Isi-Latvian (Latvia)</item>
+        <item>Isi-Lithuanian (Lithuania)</item>
+        <item>Isi-Malay (Malaysia)</item>
+        <item>Isi-Malay (Singapore)</item>
+        <item>Isi-Norwegian Bokmål (Norway)</item>
+        <item>Isi-Norwegian Nynorsk (Norway)</item>
+        <item>Isi-Persian (Iran)</item>
+        <item>isi-Polish (Poland)</item>
+        <item>isiPutukezi (Angola)</item>
+        <item>isiPutukezi (Brazil)</item>
+        <item>isiPutukezi (Ephothugali)</item>
+        <item>isi-Romanian (Romania)</item>
+        <item>Isi-Russian (Belarus)</item>
+        <item>Isi-Russian (Russia)</item>
+        <item>Sepedi (South Africa)</item>
+        <item>Isi-Serbian (Serbia, Cyrillic)</item>
+        <item>Sesotho (South Africa)</item>
+        <item>Setswana (South Africa)</item>
+        <item>siSwati (South Africa)</item>
+        <item>isi-Slovak (Slovakia)</item>
+        <item>Isi-Slovenian (Slovenia)</item>
+        <item>isiPenishi (Argentina)</item>
+        <item>isiPenishi (Bolivia)</item>
+        <item>isiPenishi (Chile)</item>
+        <item>isiPenishi (Colombia)</item>
+        <item>isiPenishi (Costa Rica)</item>
+        <item>isiPenishi (Cuba)</item>
+        <item>isiPenishi (Dominican Republic)</item>
+        <item>isiPenishi (Ecuador)</item>
+        <item>isiPenishi (El Salvador)</item>
+        <item>isiPenishi (Guatemala)</item>
+        <item>isiPenishi (Honduras)</item>
+        <item>isiPenishi (Mexico)</item>
+        <item>isiPenishi (Nicaragua)</item>
+        <item>isiPenishi (Panama)</item>
+        <item>isiPenishi (Paraguay)</item>
+        <item>isiPenishi (Peru)</item>
+        <item>isiPenishi (Puerto Rico)</item>
+        <item>isiPenishi (Spain)</item>
+        <item>isiPenishi (US)</item>
+        <item>isiPenishi(Uruguay)</item>
+        <item>isiPenishi (Venezuela)</item>
+        <item>Isi-Swahili (Kenya)</item>
+        <item>Isi-Swahili (Tanzania)</item>
+        <item>Isi-Swahili (Uganda)</item>
+        <item>Isi-Swedish (Finland)</item>
+        <item>Isi-Swedish (Sweden)</item>
+        <item>Isi-Thai (Thailand)</item>
+        <item>Tshivenda (South Africa)</item>
+        <item>Isi-Turkish (Turkey)</item>
+        <item>Isi-Ukrainian (Ukraine)</item>
+        <item>Isi-Urdu (Pakistan)</item>
+        <item>Isi-Vietnamese (Vietnam)</item>
+        <item>Xitsonga (South Africa)</item>
+    </string-array>
+    <string-array name="prefEntries_safeSearch">
+        <item>Valiwe</item>
+        <item>Okulingene</item>
+        <item>Okunemithetho eqinile</item>
+    </string-array>
+</resources>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Ses ile Arama</string>
+    <string name="settings">Ayarlar</string>
+    <string name="settings_button">Ayarlar</string>
+    <string name="english_voice_ime_name">Android klavyesi</string>
+    <string name="initializing">Başlatılıyor</string>
+    <string name="listening">Şimdi konuşun</string>
+    <string name="working">Çalışıyor</string>
+    <string name="wait">Bekleyin</string>
+    <string name="try_again">Tekrar dene</string>
+    <string name="no_match">Eşleşme bulunamadı</string>
+    <string name="network_error">Bağlantı sorunu</string>
+    <string name="server_error">Sunucu sorunu</string>
+    <string name="audio_error">Ses sorunu</string>
+    <string name="recognizer_busy_error">Konuşma tanıyıcı meşgul</string>
+    <string name="speech_timeout">Konuşma duyulmadı</string>
+    <string name="error">Bilinmeyen sorun</string>
+    <string name="audio_file_access">Kaydedilen Sesli Erişim</string>
+    <string name="audio_file_access_desc">Kullanıcının kendisine not girmek için yaptığı veya işlenmemiş ses analizi için yapılan sesli konuşma kayıtlarına erişebilir</string>
+    <string name="shortcut_access">Sesli Arama Kısayolları</string>
+    <string name="shortcut_access_desc">Sesli aramalar için oluşturulan kısayollara erişebilir</string>
+    <string name="personalization_header">Kişiselleştirilmiş tanıma</string>
+    <string name="personalization_settings_message">Konuşma tanıma doğruluğunu artır</string>
+    <string name="manage_personalization">Google Hesabı hesap özeti</string>
+    <string name="manage_personalization_message">Toplanan verilerinizi yönetin</string>
+    <string name="personalization_popup_first_time_header">Bu cihazda kişiselleştirilmiş tanımayı açmak ister misiniz?</string>
+    <string name="personalization_popup_message">"Konuşma tanıma kalitesini iyileştirmek için Google, kayıtlarınızı START_LINKMobil Gizlilik PolitikasıEND_LINK'na uygun bir şekilde Google Hesabınızla ilişkilendirecektir."</string>
+    <string name="personalization_more_info">Daha Fazla Bilgi Edinin</string>
+    <string name="personalization_popup_disable_message">Bu özelliği devre dışı bırakırsanız, tanımayı artık sesinize uyarlayamayız ve ileride bu cihazdan yapılacak kayıtlar Google Hesabınızla ilişkilendirilmez.NEW_LINE NEW_LINEVerilerinizi yönetmek için START_LINKGoogle hesap özetineEND_LINK gidin.</string>
+    <string name="button_yes">Evet</string>
+    <string name="button_no">Hayır</string>
+    <string name="connection_retying">Tekrar deniyor...</string>
+    <string name="help">Yardım</string>
+    <string name="help_hint">Neler söyleyebileceğinizi öğrenmek için <b>Yardım</b>"'a dokunun"</string>
+    <string name="help_header">Şunu söylemeyi deneyin...</string>
+    <string name="voice_actions">Ses İşlemleri</string>
+    <string name="did_you_mean">Bunu mu demek istediniz?...</string>
+    <string name="did_you_say">Şunu mu dediniz?...</string>
+    <string name="or_try_search">veya sesli Google araması yapmayı deneyin</string>
+    <string name="dial">Çevir</string>
+    <string name="go">Git</string>
+    <string name="tryagain">Tekrar konuşun</string>
+    <string name="speak_now">Şimdi konuşun</string>
+    <string name="search_hint">Google arama</string>
+    <string name="voice_search_product_name">Google arama</string>
+    <string name="contact_dialing_product_name">Kişi numarası çevirme</string>
+    <string name="speechservice_error">Ses tanıma kullanılamıyor</string>
+    <string name="searching">Aranıyor...</string>
+    <string name="setting_alarm">Alarm kuruluyor...</string>
+    <string name="messaging_label">Mesajlaşma</string>
+    <string name="sending_sms">Gönderiliyor...</string>
+    <string name="error_sending_sms">Mesaj gönderilemedi.</string>
+    <string name="sms_sent">Mesaj gönderildi.</string>
+    <string name="no_suggestions">Öneri yok</string>
+    <string name="add_number">Numara ekle</string>
+    <string name="voiceSearchPreferences">Google ses tanıma ayarları</string>
+    <string name="prefTitle_language">Dil</string>
+    <string name="prefDialogTitle_language">Dil</string>
+    <string name="prefDefault_language">varsayılan</string>
+    <string name="prefDefaultTitlePrefix_language">Varsayılan - %s</string>
+    <string name="prefTitle_safeSearch">Güvenli Arama</string>
+    <string name="prefSummary_safeSearchOff">Kapalı — Arama sonuçlarıma filtre uygulama</string>
+    <string name="prefSummary_safeSearchModerate">Orta — Yalnızca müstehcen görsellere filtre uygula</string>
+    <string name="prefSummary_safeSearchStrict">Sıkı — Hem müstehcen metinlere hem de müstehcen görsellere filtre uygula</string>
+    <string name="prefSummary_safeSearchSuffix">Yalnızca Google Sesle Arama için geçerlidir</string>
+    <string name="prefDialogTitle_safeSearch">Güvenli Arama</string>
+    <string name="prefTitle_profanityFilter">Rahatsız edici kelimeleri engelle</string>
+    <string name="prefSummary_profanityFilter">Bilinen rahatsız edici ses sonuçlarını gizle</string>
+    <string name="warningDialogTitle">Ses ile arama</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"Ses ile arama şu anda cihazınızın dilini desteklemiyor.
+
+Bunun yerine şu dil kullanılacak: %s.
+
+Farklı bir ses ile arama diline geçmek için Ayarlar'ı ziyaret edin."</string>
+    <string name="warningDialogMessageLocaleChanged">"Ses ile arama diliniz %s olarak değiştirildi.
+
+Farklı bir ses ile arama diline geçmek için Ayarlar'ı ziyaret edin."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"Ses ile arama diliniz %s olarak değiştirildi.
+
+Farklı bir ses ile arama diline geçmek için Ayarlar'ı ziyaret edin."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Ses ile arama artık cihazınız için farklı bir varsayılan dili destekliyor: %s.
+
+Bu dile veya başka bir ses ile arama diline geçmek için Ayarlar'ı ziyaret edin."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Ses ile arama artık cihazınızın dilini destekliyor: %s.
+
+Farklı bir ses ile arama diline geçmek için Ayarlar'ı ziyaret edin."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Ses ile arama artık cihazınızın dilini destekliyor: %s.
+
+Bu veya başka bir ses ile arama diline geçmek için Ayarlar'ı ziyaret edin."</string>
+    <string name="ok">Tamam</string>
+    <string name="cancel">İptal</string>
+    <string name="appNameVoiceLog">Ses Kaydı</string>
+    <string name="textPathToOutput">Çıkış dosyasının yolu:</string>
+    <string name="textStopButton">Durdur</string>
+    <string name="textRecordButton">Kaydet</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">Ses ile Arama geçmişi</string>
+    <string name="search_label">Ses ile Arama Etiketi</string>
+    <string name="edit">Düzenle</string>
+    <string name="delete">Sil</string>
+    <string name="message_too_long">Mesaj çok uzun.</string>
+    <string name="send_email_submit">Gönder</string>
+    <string name="send_sms_submit">Gönder</string>
+    <string name="set_alarm_submit">Ayarla</string>
+    <string name="note_to_self_submit">Gönder</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">Gönderen:</string>
+    <string name="menu_item_settings_title">Ayarlar</string>
+    <string name="help_watch_video">video izleyin</string>
+    <string name="help_watch_video_capitalized">Video izleyin</string>
+    <string name="help_title_action">Arama yapmak, denetlemek ve iletişim kurmak için <annotation action="true">Ses İşlemlerini</annotation> kullanın.</string>
+    <string name="help_hint_format">\"%s\"</string>
+    <string name="show_hints_on_search_title">İpuçlarını göster</string>
+    <string name="show_hints_on_search">Arama kutusunda ipuçlarını göster</string>
+    <string name="unsupported_action_dialog_title_format">“%s...”</string>
+    <string name="unsupported_action_dialog_message_default">Cihazınız şu anda bu ses işlemini desteklemiyor.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"Bu özelliği kullanmak için, Android Market'ten en güncel Google Haritalar'ı indirin. 
+
+Bu işlem için desteklenmeyen bir bölgede de olabilirsiniz."</string>
+    <string name="unsupported_action_dialog_message_send_email">"Bu özelliği kullanmak için, Android Market'ten en güncel Gmail'i indirin."</string>
+    <string name="unsupported_action_dialog_message_set_alarm">"Bu özelliği kullanmak için, Android Market'ten söz konusu işlemi destekleyen bir saat uygulaması indirin."</string>
+    <string name="unsupported_action_dialog_message_listen_to">"Bu özelliği kullanmak için, Android Market'ten söz konusu işlemi destekleyen bir müzik uygulaması indirin."</string>
+    <string name="market_button">"Market'e Git"</string>
+    <string name="website_button">Web sitesine git</string>
+    <string name="apps_button">Uygulamalara git</string>
+    <string name="first_time_use_dialog_message_listen_to">"Bu özelliği birçok farklı uygulamayla kullanabilirsiniz.
+
+Diğer seçeneklerin bir listesi için aşağıdaki web sitesini ziyaret edin veya devam etmek için Tamam düğmesine basın."</string>
+    <string name="contacts_slot_placeholder">Kişi eklemek için dokunun</string>
+    <string name="text_slot_placeholder">Metin eklemek için dokunun</string>
+    <string name="time_slot_placeholder">Saat ayarlamak için dokunun</string>
+    <string name="required_field_missing">Gerekli alan eksik</string>
+    <string name="no_video_available">Görüntü yok.</string>
+    <string name="permission_label_set_alarm">çalar saatte alarm ayarla</string>
+    <string name="permission_description_set_alarm">Uygulamanın, yüklü bir çalar saat uygulamasında bir alarm ayarlamasına izin verir. Bazı çalar saat uygulamaları bu özelliği kullanmıyor olabilir.</string>
+    <string name="help_search_title">web arama</string>
+</resources>

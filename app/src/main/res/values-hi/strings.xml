@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">ध्वनि खोज</string>
+    <string name="settings">सेटिंग</string>
+    <string name="settings_button">सेटिंग</string>
+    <string name="english_voice_ime_name">Android कीबोर्ड</string>
+    <string name="initializing">प्रारंभ हो रहा है</string>
+    <string name="listening">अभी कहें</string>
+    <string name="working">कार्य कर रहा है</string>
+    <string name="wait">प्रतीक्षा करें</string>
+    <string name="try_again">पुन: प्रयास करें</string>
+    <string name="no_match">कोई मिलान नहीं मिले</string>
+    <string name="network_error">कनेक्शन समस्या</string>
+    <string name="server_error">सर्वर समस्या</string>
+    <string name="audio_error">ऑडियो समस्या</string>
+    <string name="recognizer_busy_error">वाक् पहचानकर्ता व्यस्त</string>
+    <string name="speech_timeout">कोई बातचीत नहीं सुनाई दी</string>
+    <string name="error">अज्ञात समस्या</string>
+    <string name="audio_file_access">रिकॉर्ड किए गए ऑडियो पर पहुंच</string>
+    <string name="audio_file_access_desc">स्वयं की टिप्पणियों, और अपरिष्कृत ऑडियो विश्लेषण के लिए रिकॉर्ड की गई ऑडियो अभिव्यक्ति पर पहुंचा सकता है</string>
+    <string name="shortcut_access">ध्वनि खोज शॉर्टकट</string>
+    <string name="shortcut_access_desc">ध्वनि खोजों के लिए बनाए गए शॉर्टकट पर पहुंचा जा सकता है</string>
+    <string name="personalization_header">वैयक्तिकृत पहचान</string>
+    <string name="manage_personalization">Google खाता डैशबोर्ड</string>
+    <string name="manage_personalization_message">अपना संकलित डेटा प्रबंधित करें</string>
+    <string name="personalization_popup_first_time_header">क्या आप इस डिवाइस पर वैयक्तिकृत पहचान चालू करना चाहेंगे?</string>
+    <string name="personalization_popup_message">वाक् पहचान गुणवत्ता बढ़ाने के लिए, Google आपकी रिकॉर्डिंग को START_LINKमोबाइल गोपनीयता नीतिEND_LINK के अनुसार आपके Google खाते से संबद्ध करेगा.</string>
+    <string name="personalization_more_info">अधिक जानकारी</string>
+    <string name="personalization_popup_disable_message">यदि आप इस सुविधा को अक्षम कर देते हैं, तो हम आपकी ध्वनि की पहचान को अनुकूलित नहीं कर पाएंगे और इस उपकरण से भविष्य में होने वाली कोई भी रिकॉर्डिंग आपके Google खाते से संबद्ध नहीं की जाएगी.NEW_LINE NEW_LINEअपने डेटा को प्रबंधित करने के लिएSTART_LINKGoogle डैशबोर्डEND_LINK पर जाएं.</string>
+    <string name="button_yes">हां</string>
+    <string name="button_no">नहीं</string>
+    <string name="connection_retying">पुनः प्रयास कर रहा है...</string>
+    <string name="help">सहायता</string>
+    <string name="help_hint">यह जानने के लिए कि आप क्या कह सकते हैं, <b>मदद</b> स्पर्श करें</string>
+    <string name="help_header">कहते रहें...</string>
+    <string name="voice_actions">ध्वनि क्रियाएं</string>
+    <string name="did_you_mean">क्या आपका मतलब यह था...</string>
+    <string name="did_you_say">क्या आपने यह कहा...</string>
+    <string name="or_try_search">या ध्वनि द्वारा किसी Google खोज को आज़माकर देखें</string>
+    <string name="dial">डायल करें</string>
+    <string name="go">जाएं</string>
+    <string name="tryagain">फिर से कहें</string>
+    <string name="speak_now">अभी कहें</string>
+    <string name="search_hint">Google खोज</string>
+    <string name="voice_search_product_name">Google खोज</string>
+    <string name="contact_dialing_product_name">संपर्क डायलिंग</string>
+    <string name="speechservice_error">वाक् पहचान उपलब्ध नहीं है</string>
+    <string name="searching">खोज रहा है...</string>
+    <string name="setting_alarm">अलार्म सेट हो रहा है...</string>
+    <string name="messaging_label">संदेश सेवा</string>
+    <string name="sending_sms">भेजा जा रहा है...</string>
+    <string name="error_sending_sms">संदेश भेजा नहीं जा सका.</string>
+    <string name="sms_sent">संदेश भेजा गया.</string>
+    <string name="no_suggestions">कोई सुझाव नहीं</string>
+    <string name="add_number">नंबर जोड़ें</string>
+    <string name="voiceSearchPreferences">Google ध्वनि पहचान सेटिंग</string>
+    <string name="prefTitle_language">भाषा</string>
+    <string name="prefDialogTitle_language">भाषा</string>
+    <string name="prefDefault_language">डिफ़ॉल्ट</string>
+    <string name="prefDefaultTitlePrefix_language">डिफ़ॉल्ट - %s</string>
+    <string name="prefTitle_safeSearch">सुरक्षित खोज</string>
+    <string name="prefSummary_safeSearchOff">बंद — मेरे खोज परिणाम फ़िल्टर न करें</string>
+    <string name="prefSummary_safeSearchModerate">मॉडरेट करें — केवल स्पष्ट छवियों को फ़िल्टर करें</string>
+    <string name="prefSummary_safeSearchStrict">दृढ़ — स्पष्ट पाठ और स्पष्ट छवियां, दोनों को फ़िल्टर करें</string>
+    <string name="prefSummary_safeSearchSuffix">ध्वनि के द्वारा केवल Google खोज पर लागू होता है</string>
+    <string name="prefDialogTitle_safeSearch">सुरक्षित खोज</string>
+    <string name="prefTitle_profanityFilter">अपमानजनक शब्दों को अवरुद्ध करें</string>
+    <string name="prefSummary_profanityFilter">पहचाने गए अपमानजनक ध्वनि परिणामों को छुपाएं</string>
+    <string name="warningDialogTitle">ध्वनि खोज</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"ध्वनि खोज फिलहाल आपके डिवाइस की भाषा के लिए समर्थित नहीं है.
+
+इसके बजाय उपयोग की जाने वाली भाषा %s है.
+
+किसी अन्य ध्वनि खोज भाषा पर स्विच करने के लिए, सेटिंग पर जाएं."</string>
+    <string name="warningDialogMessageLocaleChanged">"आपकी ध्वनि खोज भाषा %s में बदल दी गई है.
+
+किसी भिन्न ध्वनि खोज भाषा पर स्विच करने के लिए, सेटिंग पर जाएं."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"आपकी ध्वनि खोज भाषा %s में बदल दी गई है.
+
+किसी भिन्न ध्वनि खोज भाषा पर स्विच करने के लिए, सेटिंग पर जाएं."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"ध्वनि खोज अब आपके डिवाइस के लिए एक भिन्न डिफ़ॉल्ट भाषा %s का समर्थन करती है.
+
+इस या दूसरी ध्वनि खोज भाषा पर स्विच करने के लिए, सेटिंग पर जाएं."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"ध्वनि खोज अब आपके डिवाइस की भाषा %s का समर्थन करती है.
+
+कोई अन्य ध्वनि खोज भाषा पर स्विच करने के लिए, सेटिंग पर जाएं."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"ध्वनि खोज अब आपके डिवाइस की भाषा %s का समर्थन करती है.
+
+इस या किसी अन्य ध्वनि खोज भाषा पर स्विच करने के लिए, सेटिंग पर जाएं."</string>
+    <string name="ok">ठीक</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="appNameVoiceLog">ध्वनि लॉग</string>
+    <string name="textPathToOutput">आउटपुट फ़ाइल का पथ :</string>
+    <string name="textStopButton">रोकें</string>
+    <string name="textRecordButton">रिकॉर्ड</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">ध्वनि खोज इतिहास</string>
+    <string name="search_label">VoiceSearch लेबल</string>
+    <string name="edit">संपादित करें</string>
+    <string name="delete">हटाएं</string>
+    <string name="message_too_long">संदेश बहुत बड़ा है.</string>
+    <string name="send_email_submit">भेजें</string>
+    <string name="send_sms_submit">भेजें</string>
+    <string name="set_alarm_submit">सेट करें</string>
+    <string name="note_to_self_submit">भेजें</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">प्रेषक:</string>
+    <string name="menu_item_settings_title">सेटिंग</string>
+    <string name="help_watch_video">कोई वीडियो देखें</string>
+    <string name="help_watch_video_capitalized">कोई वीडियो देखें</string>
+    <string name="help_title_action">खोजने, नियंत्रित करने और संचार करने के लिए <annotation action="true">ध्वनि क्रिया</annotation> का उपयोग करें.</string>
+    <string name="help_hint_format">“%s”</string>
+    <string name="show_hints_on_search_title">सुझाव दिखाएं</string>
+    <string name="show_hints_on_search">खोज बॉक्स पर सुझाव दिखाएं</string>
+    <string name="unsupported_action_dialog_title_format">“%s...”</string>
+    <string name="unsupported_action_dialog_message_default">आपका डिवाइस फिलहाल इस ध्वनि क्रिया का समर्थन नहीं करता है.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"इस विशेषता का उपयोग करने के लिए, Android Market से नवीनतम Google मानचित्र डाउनलोड करें.
+
+या, आप इस क्रिया के लिए असमर्थित क्षेत्र में हो सकते हैं."</string>
+    <string name="unsupported_action_dialog_message_send_email">इस विशेषता का उपयोग करने के लिए, Android Market से नवीनतम Gmail डाउनलोड करें.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">इस विशेषता का उपयोग करने के लिए, ऐसा क्लॉक एप्लिकेशन डाउनलोड करें जो Android Market की इस क्रिया का समर्थन करता हो.</string>
+    <string name="unsupported_action_dialog_message_listen_to">इस सुविधा का उपयोग करने के लिए, ऐसा संगीत एप्लिकेशन डाउनलोड करें जो Android Market की इस क्रिया का समर्थन करता हो.</string>
+    <string name="market_button">Market पर जाएं</string>
+    <string name="website_button">वेबसाइट पर जाएं</string>
+    <string name="apps_button">एप्लिकेशन पर जाएं</string>
+    <string name="first_time_use_dialog_message_listen_to">"आप इस विशेषता का उपयोग कई विभिन्न एप्लिकेशन के साथ कर सकते हैं.
+
+अधिक विकल्पों की सूची के लिए नीचे दी गई वेबसाइट पर जाएं, या जारी रखने के लिए ठीक दबाएं."</string>
+    <string name="contacts_slot_placeholder">कोई संपर्क जोड़ने के लिए स्पर्श करें</string>
+    <string name="text_slot_placeholder">पाठ जोड़ने के लिए स्पर्श करें</string>
+    <string name="time_slot_placeholder">समय सेट करने के लिए स्पर्श करें</string>
+    <string name="required_field_missing">आवश्यक फ़ील्ड लापता</string>
+    <string name="no_video_available">कोई वीडियो उपलब्ध नहीं.</string>
+    <string name="permission_label_set_alarm">अलार्म क्लॉक में अलार्म सेट करें</string>
+    <string name="permission_description_set_alarm">इस एप्लिकेशन को किसी इंस्टॉल किए गए अलार्म क्लॉक एप्लिकेशन में अलार्म सेट करने की सुविधा मिलती है. हो सकता है कुछ अलार्म क्लॉक एप्लिकेशन इस विशेषता को लागू नहीं कर सकें.</string>
+    <string name="help_search_title">वेब खोज</string>
+</resources>

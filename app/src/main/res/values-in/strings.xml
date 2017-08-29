@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Penelusuran Suara</string>
+    <string name="settings">Setelan</string>
+    <string name="settings_button">Setelan</string>
+    <string name="english_voice_ime_name">Keyboard Android</string>
+    <string name="initializing">Memulai</string>
+    <string name="listening">Ucapkan sekarang</string>
+    <string name="working">Bekerja</string>
+    <string name="wait">Tunggu</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="no_match">Tak ditemukan yang cocok</string>
+    <string name="network_error">Masalah sambungan</string>
+    <string name="server_error">Masalah server</string>
+    <string name="audio_error">Masalah audio</string>
+    <string name="recognizer_busy_error">Pengenal ucapan sibuk</string>
+    <string name="speech_timeout">Tidak terdengar ucapan</string>
+    <string name="error">Masalah tidak diketahui</string>
+    <string name="audio_file_access">Akses Audio yang Direkam</string>
+    <string name="audio_file_access_desc">Dapat mengakses ucapan audio yang direkam untuk catatan pribadi, dan untuk analisis audio mentah</string>
+    <string name="shortcut_access">Pintasan Penelusuran Suara</string>
+    <string name="shortcut_access_desc">Dapat mengakses pintasan yang dibuat untuk penelusuran suara</string>
+    <string name="personalization_header">Pengenalan yang dipersonalisasi</string>
+    <string name="personalization_settings_message">Tingkatkan keakuratan pengenalan ucapan</string>
+    <string name="manage_personalization">Dasbor Akun Google</string>
+    <string name="manage_personalization_message">Kelola data Anda yang terkumpul</string>
+    <string name="personalization_popup_first_time_header">Apakah Anda ingin menghidupkan pengenalan yang dipersonalisasi pada perangkat ini?</string>
+    <string name="personalization_popup_message">Untuk meningkatkan kualitas pengenalan ucapan, Google akan mengaitkan rekaman Anda dengan Akun Google sesuai dengan START_LINKKebijakan Privasi SelulerEND_LINK.</string>
+    <string name="personalization_more_info">Informasi Selengkapnya</string>
+    <string name="personalization_popup_disable_message">Jika Anda menonaktifkan fitur ini, kami tidak lagi dapat menyesuaikan pengenalan pada suara Anda, dan rekaman berikutnya dari perangkat ini tidak akan dikaitkan dengan Akun Google Anda.NEW_LINE NEW_LINEBuka START_LINKdasbor GoogleEND_LINK untuk mengelola data Anda.</string>
+    <string name="button_yes">Ya</string>
+    <string name="button_no">Tidak</string>
+    <string name="connection_retying">Mencoba ulang...</string>
+    <string name="help">Bantuan</string>
+    <string name="help_hint">Sentuh <b>Bantuan</b> untuk mengetahui apa yang dapat Anda katakan</string>
+    <string name="help_header">Coba ucapkan...</string>
+    <string name="voice_actions">Tindakan Suara</string>
+    <string name="did_you_mean">Mungkin maksud Anda adalah...</string>
+    <string name="did_you_say">Maksud Anda...</string>
+    <string name="or_try_search">atau coba Google Penelusuran lewat suara</string>
+    <string name="dial">Panggil</string>
+    <string name="go">Buka</string>
+    <string name="tryagain">Ucapkan lagi</string>
+    <string name="speak_now">Bicara skrg</string>
+    <string name="search_hint">Google penelusuran</string>
+    <string name="voice_search_product_name">Google penelusuran</string>
+    <string name="contact_dialing_product_name">Pemanggilan kenalan</string>
+    <string name="speechservice_error">Pengenalan ucapan tidak tersedia</string>
+    <string name="searching">Menelusuri...</string>
+    <string name="setting_alarm">Menyetel alarm...</string>
+    <string name="messaging_label">Perpesanan</string>
+    <string name="sending_sms">Mengirim...</string>
+    <string name="error_sending_sms">Pesan tidak dapat dikirim.</string>
+    <string name="sms_sent">Pesan dikirim.</string>
+    <string name="no_suggestions">Tidak ada saran</string>
+    <string name="add_number">Tambahkan nomor</string>
+    <string name="voiceSearchPreferences">Setelan pengenalan suara Google</string>
+    <string name="prefTitle_language">Bahasa</string>
+    <string name="prefDialogTitle_language">Bahasa</string>
+    <string name="prefDefault_language">bawaan</string>
+    <string name="prefDefaultTitlePrefix_language">Bawaan - %s</string>
+    <string name="prefTitle_safeSearch">TelusurAman</string>
+    <string name="prefSummary_safeSearchOff">Mati — Jangan memfilter hasil penelusuran saya</string>
+    <string name="prefSummary_safeSearchModerate">Longgar — Hanya filter gambar eksplisit</string>
+    <string name="prefSummary_safeSearchStrict">Ketat — Filter teks eksplisit maupun gambar eksplisit</string>
+    <string name="prefSummary_safeSearchSuffix">Hanya berlaku untuk Google penelusuran lewat suara</string>
+    <string name="prefDialogTitle_safeSearch">TelusurAman</string>
+    <string name="prefTitle_profanityFilter">Cekal kata yang menyinggung</string>
+    <string name="prefSummary_profanityFilter">Sembunyikan hasil penelusuran suara menyinggung yang dikenali</string>
+    <string name="warningDialogTitle">Penelusuran suara</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"Penelusuran suara saat ini tidak didukung untuk bahasa perangkat Anda.
+
+Bahasa yang akan digunakan adalah: %s.
+
+Untuk beralih ke bahasa penelusuran suara yang berbeda, buka Setelan."</string>
+    <string name="warningDialogMessageLocaleChanged">"Bahasa penelusuran suara Anda telah diubah ke: %s.
+
+Untuk beralih ke bahasa penelusuran bahasa yang berbeda, buka Setelan."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"Bahasa penelusuran suara Anda telah diubah ke: %s.
+
+Untuk beralih ke bahasa penelusuran bahasa yang berbeda, buka Setelan."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Penelusuran suara sekarang mendukung bahasa bawaan yang berbeda untuk perangkat Anda: %s.
+
+Untuk beralih ke bahasa penelusuran suara yang berbeda, buka Setelan."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Penelusuran suara sekarang mendukung bahasa perangkat Anda: %s.
+
+Untuk beralih ke bahasa penelusuran suara yang berbeda, buka Setelan."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Penelusuran suara sekarang mendukung bahasa perangkat Anda: %s.
+
+Untuk beralih ke bahasa ini atau bahasa penelusuran suara yang berbeda, buka Setelan."</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Batal</string>
+    <string name="appNameVoiceLog">Log Suara</string>
+    <string name="textPathToOutput">Jalur ke berkas keluaran :</string>
+    <string name="textStopButton">Berhenti</string>
+    <string name="textRecordButton">Rekam</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">Riwayat Penelusuran Suara</string>
+    <string name="search_label">Label VoiceSearch</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Hapus</string>
+    <string name="message_too_long">Pesan terlalu panjang.</string>
+    <string name="send_email_submit">Kirimkan</string>
+    <string name="send_sms_submit">Kirimkan</string>
+    <string name="set_alarm_submit">Setel</string>
+    <string name="note_to_self_submit">Kirimkan</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">dari:</string>
+    <string name="menu_item_settings_title">Setelan</string>
+    <string name="help_watch_video">tonton video</string>
+    <string name="help_watch_video_capitalized">Tonton video</string>
+    <string name="help_title_action">Gunakan <annotation action="true">Tindakan Suara</annotation> untuk menelusuri, mengontrol, dan berkomunikasi.</string>
+    <string name="help_hint_format">“%s”</string>
+    <string name="show_hints_on_search_title">Tampilkan petunjuk</string>
+    <string name="show_hints_on_search">Tampilkan petunjuk pada kotak penelusuran</string>
+    <string name="unsupported_action_dialog_title_format">“%s...”</string>
+    <string name="unsupported_action_dialog_message_default">Perangkat Anda tidak mendukung tindakan suara ini.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"Untuk menggunakan fitur ini, unduh Google Maps terbaru dari Android Market.
+
+Atau, Anda mungkin berada di wilayah yang tidak didukung untuk tindakan ini."</string>
+    <string name="unsupported_action_dialog_message_send_email">Untuk menggunakan fitur ini, unduh Gmail terbaru dari Android Market.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">Untuk menggunakan fitur ini, unduh aplikasi jam yang mendukung tindakan ini dari Android Market.</string>
+    <string name="unsupported_action_dialog_message_listen_to">Untuk menggunakan fitur ini, unduh aplikasi musik yang mendukung tindakan ini dari Android Market.</string>
+    <string name="market_button">Buka Market</string>
+    <string name="website_button">Buka situs web</string>
+    <string name="apps_button">Buka aplikasi</string>
+    <string name="first_time_use_dialog_message_listen_to">"Anda dapat menggunakan fitur ini dengan berbagai aplikasi yang berbeda.
+
+Kunjungi situs web di bawah untuk daftar pilihan lainnya, atau tekan OK untuk melanjutkan."</string>
+    <string name="contacts_slot_placeholder">Sentuh untuk menambahkan kenalan</string>
+    <string name="text_slot_placeholder">Sentuh untuk menambahkan teks</string>
+    <string name="time_slot_placeholder">Sentuh untuk menyetel waktu</string>
+    <string name="required_field_missing">Bidang yang wajib diisi masih kosong</string>
+    <string name="no_video_available">Video tidak tersedia.</string>
+    <string name="permission_label_set_alarm">setel alarm di jam alarm</string>
+    <string name="permission_description_set_alarm">Perbolehkan aplikasi untuk menyetel alarm di aplikasi jam alarm yang terpasang. Beberapa aplikasi jam alarm tidak dapat menerapkan fitur ini.</string>
+    <string name="help_search_title">penelusuran web</string>
+</resources>

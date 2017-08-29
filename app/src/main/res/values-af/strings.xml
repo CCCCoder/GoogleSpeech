@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Voice Search</string>
+    <string name="settings">Instellings</string>
+    <string name="settings_button">Instellings</string>
+    <string name="english_voice_ime_name">Android sleutelbord</string>
+    <string name="initializing">Begin</string>
+    <string name="listening">Praat nou</string>
+    <string name="working">Werk</string>
+    <string name="wait">Wag</string>
+    <string name="try_again">Probeer weer</string>
+    <string name="no_match">Geen treffers gevind</string>
+    <string name="network_error">Verbinding probleem</string>
+    <string name="server_error">Bediener probleem</string>
+    <string name="audio_error">Klank probleem</string>
+    <string name="recognizer_busy_error">Toespraak Herkenning is besig</string>
+    <string name="speech_timeout">Geen spraak kan gehoor word nie</string>
+    <string name="error">Onbekende probleem</string>
+    <string name="audio_file_access">Opgeneemde klanktoegang</string>
+    <string name="audio_file_access_desc">"Kry toegang om die opgeneemde klank opnames van nota's, en vir rou klank analise"</string>
+    <string name="shortcut_access">Voice Search-kortpaaie</string>
+    <string name="shortcut_access_desc">Toegang tot die kortpaaie vir die stem soektogte geskep</string>
+    <string name="personalization_header">Persoonlike erkenning</string>
+    <string name="manage_personalization">Google-rekening dashboard</string>
+    <string name="manage_personalization_message">Beheer jou versamelde data</string>
+    <string name="personalization_popup_first_time_header">Wil jy persoonlike erkenning aanskakel op hierdie toestel?</string>
+    <string name="personalization_popup_message">Om spraakherkenning gehalte te verbeter, sal Google jou opnames assosieer met jou Google-rekening deur die START_LINKMobile Privacy PolicyEND_LINK.</string>
+    <string name="personalization_more_info">Meer inligting</string>
+    <string name="personalization_popup_disable_message">As jy hierdie funksie afskakel, sal ons nie meer op maat erkenning aan jou stem kan bied nie, en geen toekomstige opnames van hierdie toestel sal geassosieer word met jou Google-rekening nie.NEW_LINE NEW_LINEGo aan die START_LINKGoogle dashboardEND_LINK om jou data te bestuur.</string>
+    <string name="button_yes">Ja</string>
+    <string name="button_no">Nee</string>
+    <string name="connection_retying">Weer probeer ...</string>
+    <string name="help">Hulp</string>
+    <string name="help_hint">Druk <b>Help</b> om te leer wat jy kan sê</string>
+    <string name="help_header">Probeer sê ...</string>
+    <string name="voice_actions">Stem aksies</string>
+    <string name="did_you_mean">Of bedoel jy...</string>
+    <string name="did_you_say">Het jy sê ...</string>
+    <string name="or_try_search">of probeer enige Google stem soektog</string>
+    <string name="dial">Skakel</string>
+    <string name="go">Gaan voort</string>
+    <string name="tryagain">Praat weer</string>
+    <string name="speak_now">Praat nou</string>
+    <string name="search_hint">Google Soek</string>
+    <string name="voice_search_product_name">Google Soek</string>
+    <string name="contact_dialing_product_name">Skakel kontak</string>
+    <string name="speechservice_error">Spraakherkenning is nie beskikbaar nie</string>
+    <string name="searching">Soek...</string>
+    <string name="setting_alarm">Stel alarm in...</string>
+    <string name="messaging_label">Boodskappe</string>
+    <string name="sending_sms">Stuur...</string>
+    <string name="error_sending_sms">Boodskap kon nie gestuur word nie.</string>
+    <string name="sms_sent">Boodskap gestuur.</string>
+    <string name="no_suggestions">Geen voorstelle</string>
+    <string name="add_number">Voeg getal by</string>
+    <string name="voiceSearchPreferences">Google stemherkenning-instellings</string>
+    <string name="prefTitle_language">Taal</string>
+    <string name="prefDialogTitle_language">Taal</string>
+    <string name="prefDefault_language">standaard</string>
+    <string name="prefDefaultTitlePrefix_language">Standaard - %s</string>
+    <string name="prefTitle_safeSearch">SafeSearch</string>
+    <string name="prefSummary_safeSearchOff">Af - Moenie my soekresultate filter nie</string>
+    <string name="prefSummary_safeSearchModerate">Matig - Filter slegs eksplisiete beelde</string>
+    <string name="prefSummary_safeSearchStrict">Streng - Filter sowel eksplisiete teks en eksplisiete beelde</string>
+    <string name="prefSummary_safeSearchSuffix">Slegs van toepassing op Google stem soektog</string>
+    <string name="prefDialogTitle_safeSearch">SafeSearch</string>
+    <string name="prefTitle_profanityFilter">Blok aanstootlike woorde</string>
+    <string name="prefSummary_profanityFilter">Steek erkende aanstootlike stem resultate weg</string>
+    <string name="warningDialogTitle">Voice Search</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"Voice Search word tans nie ondersteun vir jou toestel se taal nie.
+
+Die taal wat gebruik sal word is: %s.
+
+Om oor te skakel na 'n ander stem soektog taal, gaan na Instellings."</string>
+    <string name="warningDialogMessageLocaleChanged">"Jou stem soektog taal is verander na: %s.
+
+ Om oor te skakel na 'n ander stem soektog taal, gaan na Instellings."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"Jou stem soektog taal is verander na: %s.
+
+Om oor te skakel na 'n ander stem soektog taal, gaan na Instellings."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Voice Search ondersteun nou 'n ander standaard taal vir jou toestel: %s.
+
+Om oor te skakel na hierdie of 'n ander stem soektog taal, gaan na Instellings."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Voice Search ondersteun nou jou toestel se taal: %s.
+
+Om oor te skakel na 'n ander stem soektog taal, gaan na Instellings."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Voice Search ondersteun nou jou toestel se taal: %s.
+
+Om oor te skakel na hierdie of 'n ander stem soektog taal, gaan na Instellings."</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Kanselleer</string>
+    <string name="appNameVoiceLog">Voice Log</string>
+    <string name="textPathToOutput">Pad na die uitvoer lêer:</string>
+    <string name="textStopButton">Stop</string>
+    <string name="textRecordButton">Neem op</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">Voice Search-geskiedenis</string>
+    <string name="search_label">VoiceSearch-label</string>
+    <string name="edit">Redigeer</string>
+    <string name="delete">Skrap</string>
+    <string name="message_too_long">Boodskap te lank.</string>
+    <string name="send_email_submit">Stuur</string>
+    <string name="send_sms_submit">Stuur</string>
+    <string name="set_alarm_submit">Stel in</string>
+    <string name="note_to_self_submit">Stuur</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">vanaf</string>
+    <string name="menu_item_settings_title">Instellings</string>
+    <string name="help_watch_video">"kyk 'n video"</string>
+    <string name="help_watch_video_capitalized">"Kyk 'n video"</string>
+    <string name="help_title_action"><annotation action="true"> </annotation>Gebruik <annotation action="true">Stem aksies</annotation> om te soek, beheer en te kommunikeer.</string>
+    <string name="help_hint_format">"'%s'"</string>
+    <string name="show_hints_on_search_title">Wys wenke</string>
+    <string name="show_hints_on_search">Wys wenke in die soekkassie</string>
+    <string name="unsupported_action_dialog_title_format">"'%s'"</string>
+    <string name="unsupported_action_dialog_message_default">U toestel ondersteun tans nie hierdie stem aksie nie.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"Om hierdie funksie te gebruik, laai die nuutste weergawe van Google Maps af uit die Android Market.
+
+Of jy kan in 'n onondersteunde streek vir hierdie aksie wees."</string>
+    <string name="unsupported_action_dialog_message_send_email">Om hierdie funksie te gebruik, laai die nuutste Gmail by die Android Market af.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">"Ten einde hierdie funksie te gebruik, laai 'n klok toepassing wat hierdie aksie ondersteun by die Android Market af."</string>
+    <string name="unsupported_action_dialog_message_listen_to">"Om hierdie funksie te gebruik, laai 'n musiek toepassing wat hierdie aksie ondersteun by die Android Market af."</string>
+    <string name="market_button">Gaan na die Android Market</string>
+    <string name="website_button">Gaan na webwerf</string>
+    <string name="apps_button">Gaan na toepassings</string>
+    <string name="first_time_use_dialog_message_listen_to">"Jy kan hierdie funksie gebruik met baie verskillende toepassings.
+
+Besoek die webwerf hieronder vir 'n lys van meer keuses, of druk OK om voort te gaan."</string>
+    <string name="contacts_slot_placeholder">"Raak aan 'n kontak om by te voeg"</string>
+    <string name="text_slot_placeholder">Raak aan om teks in te voeg</string>
+    <string name="time_slot_placeholder">"Druk om 'n tyd te stel"</string>
+    <string name="required_field_missing">Vereiste veld ontbreek</string>
+    <string name="no_video_available">Geen video beskikbaar.</string>
+    <string name="permission_label_set_alarm">stel wekker alarm in</string>
+    <string name="permission_description_set_alarm">"Laat die aansoek toe om 'n alarm in te stel in 'n geïnstalleerde wekkertoepassing. Sommige wekkertoepassings kan nie hierdie funksie implementeer."</string>
+    <string name="help_search_title">web soektog</string>
+</resources>

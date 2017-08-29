@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Tìm kiếm bằng Giọng nói</string>
+    <string name="settings">Cài đặt</string>
+    <string name="settings_button">Cài đặt</string>
+    <string name="english_voice_ime_name">Bàn phím Android</string>
+    <string name="initializing">Đang khởi động</string>
+    <string name="listening">Xin mời nói</string>
+    <string name="working">Đang hoạt động</string>
+    <string name="wait">Đợi</string>
+    <string name="try_again">Thử lại</string>
+    <string name="no_match">Không tìm thấy kết quả phù hợp</string>
+    <string name="network_error">Sự cố kết nối</string>
+    <string name="server_error">Sự cố máy chủ</string>
+    <string name="audio_error">Sự cố âm thanh</string>
+    <string name="recognizer_busy_error">Trình nhận dạng tiếng nói bận</string>
+    <string name="speech_timeout">Không nghe thấy tiếng nói nào</string>
+    <string name="error">Sự cố không xác định</string>
+    <string name="audio_file_access">Quyền truy cập âm thanh đã ghi</string>
+    <string name="audio_file_access_desc">Có thể truy cập vào các giọng nói âm thanh đã ghi cho các ghi chú của bản thân và để phân tích âm thanh thô</string>
+    <string name="shortcut_access">Lối tắt Tìm kiếm bằng giọng nói</string>
+    <string name="shortcut_access_desc">Có thể truy cập các lối tắt được tạo cho tìm kiếm bằng giọng nói</string>
+    <string name="personalization_header">Nhận dạng được cá nhân hóa</string>
+    <string name="personalization_settings_message">Cải thiện độ chính xác nhận dạng giọng nói.</string>
+    <string name="manage_personalization">Trang tổng quan Tài khoản Google</string>
+    <string name="manage_personalization_message">Quản lý dữ liệu đã thu thập của bạn</string>
+    <string name="personalization_popup_first_time_header">Bạn có muốn bật tính năng nhận dạng được cá nhân hóa trên thiết bị này không?</string>
+    <string name="personalization_popup_message">Để cải thiện chất lượng nhận dạng giọng nói của bạn, Google sẽ kết hợp bản ghi với Tài khoản Google của bạn theo START_LINKChính sách bảo mật dành cho điện thoại di độngEND_LINK.</string>
+    <string name="personalization_more_info">Thông tin khác</string>
+    <string name="personalization_popup_disable_message">Nếu bạn vô hiệu hóa tính năng này, chúng tôi sẽ không thể thay đổi nhận dạng đối với giọng nói của bạn và các bản ghi trong tương lai từ điện thoại này sẽ được kết hợp với Tài khoản Google của bạn.NEW_LINE NEW_LINETruy cập START_LINKtrang tổng quan của GoogleEND_LINK để quản lý dữ liệu của bạn.</string>
+    <string name="button_yes">Có</string>
+    <string name="button_no">Không</string>
+    <string name="connection_retying">Đang thử lại...</string>
+    <string name="help">Trợ giúp</string>
+    <string name="help_hint">Chạm vào <b>Trợ giúp</b> để tìm hiểu nội dung bạn có thể nói</string>
+    <string name="help_header">Thử nói...</string>
+    <string name="voice_actions">Tác vụ thoại</string>
+    <string name="did_you_mean">Ý của bạn là...</string>
+    <string name="did_you_say">Ý của bạn là...</string>
+    <string name="or_try_search">hoặc thử mọi tìm kiếm bằng giọng nói của Google</string>
+    <string name="dial">Quay số</string>
+    <string name="go">Đến</string>
+    <string name="tryagain">Nói lại</string>
+    <string name="speak_now">Xin mời nói</string>
+    <string name="search_hint">Tìm kiếm của Google</string>
+    <string name="voice_search_product_name">Tìm kiếm của Google</string>
+    <string name="contact_dialing_product_name">Quay số liên hệ</string>
+    <string name="speechservice_error">Không có nhận dạng tiếng nói</string>
+    <string name="searching">Đang tìm kiếm...</string>
+    <string name="setting_alarm">Đang đặt báo thức...</string>
+    <string name="messaging_label">Nhắn tin</string>
+    <string name="sending_sms">Đang gửi...</string>
+    <string name="error_sending_sms">Không thể gửi tin nhắn.</string>
+    <string name="sms_sent">Đã gửi tin nhắn.</string>
+    <string name="no_suggestions">Không có đề xuất nào</string>
+    <string name="add_number">Thêm số điện thoại</string>
+    <string name="voiceSearchPreferences">Cài đặt nhận dạng giọng nói của Google</string>
+    <string name="prefTitle_language">Ngôn ngữ</string>
+    <string name="prefDialogTitle_language">Ngôn ngữ</string>
+    <string name="prefDefault_language">mặc định</string>
+    <string name="prefDefaultTitlePrefix_language">Mặc định - %s</string>
+    <string name="prefTitle_safeSearch">Tìm kiếm An toàn</string>
+    <string name="prefSummary_safeSearchOff">Tắt — Không lọc kết quả tìm kiếm của tôi</string>
+    <string name="prefSummary_safeSearchModerate">Kiểm duyệt — Chỉ lọc hình ảnh khiêu dâm</string>
+    <string name="prefSummary_safeSearchStrict">Nghiêm ngặt— Lọc cả văn bản và hình ảnh rõ ràng</string>
+    <string name="prefSummary_safeSearchSuffix">Chỉ áp dụng cho tìm kiếm bằng giọng nói của Google</string>
+    <string name="prefDialogTitle_safeSearch">Tìm kiếm An toàn</string>
+    <string name="prefTitle_profanityFilter">Chặn các từ xúc phạm</string>
+    <string name="prefSummary_profanityFilter">Ẩn kết quả lời nói xúc phạm được nhận dạng</string>
+    <string name="warningDialogTitle">Tìm kiếm bằng giọng nói</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"Tìm kiếm bằng giọng nói hiện không được hỗ trợ cho ngôn ngữ thiết bị của bạn.
+
+Ngôn ngữ sẽ được sử dụng thay thế là: %s.
+
+Để chuyển sang ngôn ngữ tìm kiếm bằng giọng nói khác, hãy xem Cài đặt."</string>
+    <string name="warningDialogMessageLocaleChanged">"Ngôn ngữ tìm kiếm bằng giọng nói của bạn đã được thay đổi thành: %s.
+
+Để chuyển sang ngôn ngữ tìm kiếm bằng giọng nói khác, hãy xem Cài đặt."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"Ngôn ngữ tìm kiếm bằng giọng nói của bạn đã được thay đổi thành: %s.
+
+Để chuyển sang ngôn ngữ tìm kiếm bằng giọng nói khác, hãy xem Cài đặt."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Tìm kiếm bằng giọng nói hiện hỗ trợ ngôn ngữ mặc định khác cho thiết bị của bạn: %s.
+
+Để chuyển sang ngôn ngữ tìm kiếm bằng giọng nói này hoặc ngôn ngữ tìm kiếm bằng giọng nói khác, hãy xem Cài đặt."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Tìm kiếm bằng giọng nói hiện hỗ trợ ngôn ngữ thiết bị của bạn: %s.
+
+Để chuyển sang ngôn ngữ tìm kiếm bằng giọng nói khác, hãy xem Cài đặt."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Tìm kiếm bằng giọng nói hiện hỗ trợ ngôn ngữ thiết bị của bạn: %s.
+
+Để chuyển sang ngôn ngữ tìm kiếm bằng giọng nói này hoặc ngôn ngữ tìm kiếm bằng giọng nói khác, hãy xem Cài đặt."</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Hủy</string>
+    <string name="appNameVoiceLog">Voice Log</string>
+    <string name="textPathToOutput">Đường dẫn đến tệp ra:</string>
+    <string name="textStopButton">Dừng</string>
+    <string name="textRecordButton">Ghi</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">Lịch sử Tìm kiếm bằng giọng nói</string>
+    <string name="search_label">Nhãn Tìm kiếm bằng Giọng nói</string>
+    <string name="edit">Chỉnh sửa</string>
+    <string name="delete">Xóa</string>
+    <string name="message_too_long">Thư quá dài.</string>
+    <string name="send_email_submit">Gửi</string>
+    <string name="send_sms_submit">Gửi</string>
+    <string name="set_alarm_submit">Đặt</string>
+    <string name="note_to_self_submit">Gửi</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">từ:</string>
+    <string name="menu_item_settings_title">Cài đặt</string>
+    <string name="help_watch_video">xem video</string>
+    <string name="help_watch_video_capitalized">Xem video</string>
+    <string name="help_title_action">Sử dụng <annotation action="true">Tác vụ thoại</annotation> để tìm kiếm, kiểm soát và giao tiếp.</string>
+    <string name="help_hint_format">“%s”</string>
+    <string name="show_hints_on_search_title">Hiển thị gợi ý</string>
+    <string name="show_hints_on_search">Hiển thị gợi ý trên hộp tìm kiếm</string>
+    <string name="unsupported_action_dialog_title_format">“%s...”</string>
+    <string name="unsupported_action_dialog_message_default">Thiết bị của bạn hiện không hỗ trợ tác vụ thoại này.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"Để sử dụng tính năng này, hãy tải xuống Google Maps mới nhất từ Android Market.
+
+Nếu không, bạn có thể ở trong một khu vực không được hỗ trợ cho tác vụ này."</string>
+    <string name="unsupported_action_dialog_message_send_email">Để sử dụng tính năng này, hãy tải xuống bản Gmail mới nhất từ Android Market.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">Để sử dụng tính năng này, hãy tải xuống ứng dụng đồng hồ hỗ trợ tác vụ này từ Android Market.</string>
+    <string name="unsupported_action_dialog_message_listen_to">Để sử dụng tính năng này, hãy tải xuống ứng dụng nhạc hỗ trợ tác vụ này từ Android Market.</string>
+    <string name="market_button">Đi đến Market</string>
+    <string name="website_button">Đi đến trang web</string>
+    <string name="apps_button">Đi đến các ứng dụng</string>
+    <string name="first_time_use_dialog_message_listen_to">"Bạn có thể sử dụng tính năng này với nhiều ứng dụng khác.
+
+Truy cập vào trang web bên dưới để biết danh sách các lựa chọn khác hoặc nhấn OK để tiếp tục."</string>
+    <string name="contacts_slot_placeholder">Chạm để thêm liên hệ</string>
+    <string name="text_slot_placeholder">Chạm để thêm văn bản</string>
+    <string name="time_slot_placeholder">Chạm để đặt thời gian</string>
+    <string name="required_field_missing">Thiếu trường bắt buộc</string>
+    <string name="no_video_available">Không có sẵn video.</string>
+    <string name="permission_label_set_alarm">đặt báo thức trong đồng hồ báo thức</string>
+    <string name="permission_description_set_alarm">Cho phép ứng dụng đặt báo thức trong ứng dụng đồng hồ báo thức được cài đặt. Một số ứng dụng đồng hồ báo thức có thể không sử dụng tính năng này.</string>
+    <string name="help_search_title">tìm kiếm trên web</string>
+</resources>

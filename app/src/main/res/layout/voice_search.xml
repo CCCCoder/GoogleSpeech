@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.voicesearch.RecognitionDialog android:layout_gravity="top|center" android:orientation="vertical" android:id="@id/recognition_dialog" android:focusable="true" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/recognition_dialog_marginTop" />
+    <com.google.android.voicesearch.ui.ProgressSpinner android:layout_gravity="top|center" android:id="@id/init_spinny" android:layout_width="76.0dip" android:layout_height="76.0dip" android:layout_marginTop="@dimen/spinner_marginTop" />
+</merge>

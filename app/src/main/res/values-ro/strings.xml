@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Căutare vocală</string>
+    <string name="settings">Setări</string>
+    <string name="settings_button">Setări</string>
+    <string name="english_voice_ime_name">Tastatură Android</string>
+    <string name="initializing">Porneşte</string>
+    <string name="listening">Vorbiţi acum</string>
+    <string name="working">În lucru</string>
+    <string name="wait">Aşteptaţi</string>
+    <string name="try_again">Încercaţi din nou</string>
+    <string name="no_match">Nicio potrivire</string>
+    <string name="network_error">Problemă de conectare</string>
+    <string name="server_error">Problemă de server</string>
+    <string name="audio_error">Problemă audio</string>
+    <string name="recognizer_busy_error">Instrumentul de recunoaştere a vorbirii este ocupat</string>
+    <string name="speech_timeout">Nu s-a auzit vorbirea</string>
+    <string name="error">Problemă necunoscută</string>
+    <string name="audio_file_access">Acces la conţinut audio înregistrat</string>
+    <string name="audio_file_access_desc">Poate accesa eşantioanele audio înregistrate pentru notele către sine şi pentru analiza audio brută</string>
+    <string name="shortcut_access">Comenzi rapide Căutare vocală</string>
+    <string name="shortcut_access_desc">Poate accesa comenzile rapide create pentru căutările vocale</string>
+    <string name="personalization_header">Recunoaştere personalizată</string>
+    <string name="personalization_settings_message">Îmbunătăţiţi acurateţea recunoaşterii vocale</string>
+    <string name="manage_personalization">Tablou de bord Cont Google</string>
+    <string name="manage_personalization_message">Gestionaţi datele colectate</string>
+    <string name="personalization_popup_first_time_header">Doriţi să activaţi recunoaşterea personalizată pe acest dispozitiv?</string>
+    <string name="personalization_popup_message">Pentru a îmbunătăţi calitatea recunoaşterii vocale, Google va asocia înregistrările dvs. cu Contul dvs. Google, în conformitate cu START_LINKPolitica de confidenţialitate Google MobilEND_LINK.</string>
+    <string name="personalization_more_info">Mai multe informaţii</string>
+    <string name="personalization_popup_disable_message">Dacă dezactivaţi această funcţie, nu vom mai adapta recunoaşterea pentru vocea dvs. şi nicio înregistrare viitoare de pe acest dispozitiv nu va fi asociată Contului dvs. Google.NEW_LINE NEW_LINEAccesaţi START_LINKtabloul de bord GoogleEND_LINK pentru a gestiona datele.</string>
+    <string name="button_yes">Da</string>
+    <string name="button_no">Nu</string>
+    <string name="connection_retying">Se reîncearcă...</string>
+    <string name="help">Ajutor</string>
+    <string name="help_hint"><b>Ajutor</b> pt. a învăţa ce să spuneţi</string>
+    <string name="help_header">Încercaţi să rostiţi...</string>
+    <string name="voice_actions">Acţiuni vocale</string>
+    <string name="did_you_mean">Aţi dorit să scrieţi...</string>
+    <string name="did_you_say">Aţi spus...</string>
+    <string name="or_try_search">sau încercaţi Căutare vocală Google</string>
+    <string name="dial">Apelaţi</string>
+    <string name="go">Accesaţi</string>
+    <string name="tryagain">Vorbiţi din nou</string>
+    <string name="speak_now">Rostiţi acum</string>
+    <string name="search_hint">Căutare Google</string>
+    <string name="voice_search_product_name">Căutare Google</string>
+    <string name="contact_dialing_product_name">Apelare persoană de contact</string>
+    <string name="speechservice_error">Recunoaşterea vocii nu este disponibilă</string>
+    <string name="searching">În curs de căutare...</string>
+    <string name="setting_alarm">Se setează alarma...</string>
+    <string name="messaging_label">Mesagerie</string>
+    <string name="sending_sms">Se trimite...</string>
+    <string name="error_sending_sms">Mesajul nu a putut fi trimis.</string>
+    <string name="sms_sent">Mesajul a fost trimis.</string>
+    <string name="no_suggestions">Nicio sugestie</string>
+    <string name="add_number">Adăugaţi numărul</string>
+    <string name="voiceSearchPreferences">Setări pentru recunoaşterea vocii Google</string>
+    <string name="prefTitle_language">Limbă</string>
+    <string name="prefDialogTitle_language">Limbă</string>
+    <string name="prefDefault_language">standard</string>
+    <string name="prefDefaultTitlePrefix_language">Standard - %s</string>
+    <string name="prefTitle_safeSearch">Căutare sigură</string>
+    <string name="prefSummary_safeSearchOff">Dezactivat - nu filtraţi rezultatele căutării</string>
+    <string name="prefSummary_safeSearchModerate">Moderat - filtraţi numai imaginile explicite</string>
+    <string name="prefSummary_safeSearchStrict">Strict - filtraţi textele şi imaginile explicite</string>
+    <string name="prefSummary_safeSearchSuffix">Valabil numai pentru Căutarea vocală Google</string>
+    <string name="prefDialogTitle_safeSearch">Căutare sigură</string>
+    <string name="prefTitle_profanityFilter">Blocaţi cuvintele jignitoare</string>
+    <string name="prefSummary_profanityFilter">Ascundeţi rezultatele vocale jignitoare recunoscute</string>
+    <string name="warningDialogTitle">Căutare vocală</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"În prezent, Căutarea vocală nu este acceptată pentru limba dispozitivului dvs.
+
+Limba care va fi utilizată este: %s.
+
+Pentru a trece la o altă limbă pentru căutarea vocală, accesaţi Setări."</string>
+    <string name="warningDialogMessageLocaleChanged">"Limba pentru căutarea vocală a fost schimbată în: %s.
+
+Pentru a trece la o altă limbă pentru căutarea vocală, accesaţi Setări."</string>
+    <string name="warningDialogMessageNewBackoffDefault">"Limba pentru căutarea vocală a fost schimbată în: %s.
+
+Pentru a trece la o altă limbă pentru căutarea vocală, accesaţi Setări."</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"Căutarea vocală acceptă acum o altă limbă standard pentru dispozitivul dvs.: %s.
+
+Pentru a trece la această limbă sau la o altă limbă pentru căutarea vocală, accesaţi Setări."</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"Căutarea vocală acceptă acum limba dispozitivului dvs.: %s.
+
+Pentru a trece la o altă limbă pentru căutarea vocală, accesaţi Setări."</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"Căutarea vocală acceptă acum limba dispozitivului dvs.: %s.
+
+Pentru a trece la această limbă sau la o altă limbă pentru căutarea vocală, accesaţi Setări."</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Anulaţi</string>
+    <string name="appNameVoiceLog">Jurnal vocal</string>
+    <string name="textPathToOutput">Calea spre fişierul de ieşire:</string>
+    <string name="textStopButton">Opriţi</string>
+    <string name="textRecordButton">Înregistraţi</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">Istoricul căutării vocale</string>
+    <string name="search_label">Etichetă Căutare vocală</string>
+    <string name="edit">Editaţi</string>
+    <string name="delete">Ştergeţi</string>
+    <string name="message_too_long">Mesajul este prea lung.</string>
+    <string name="send_email_submit">Trimiteţi</string>
+    <string name="send_sms_submit">Trimiteţi</string>
+    <string name="set_alarm_submit">Setaţi</string>
+    <string name="note_to_self_submit">Trimiteţi</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s: "</string>
+    <string name="from_account">de la:</string>
+    <string name="menu_item_settings_title">Setări</string>
+    <string name="help_watch_video">urmăriţi un videoclip</string>
+    <string name="help_watch_video_capitalized">Urmăriţi un videoclip</string>
+    <string name="help_title_action">Utilizaţi <annotation action="true">Acţiuni vocale</annotation> pentru căutare, control şi comunicare.</string>
+    <string name="help_hint_format">„%s”</string>
+    <string name="show_hints_on_search_title">Afişaţi indicii</string>
+    <string name="show_hints_on_search">Afişaţi indicii în caseta de căutare</string>
+    <string name="unsupported_action_dialog_title_format">„%s...”</string>
+    <string name="unsupported_action_dialog_message_default">Dispozitivul dvs. nu acceptă în prezent această acţiune comandată vocal.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"Pentru a utiliza această funcţie, descărcaţi cele mai recente Hărţi Google de pe Android Market.
+
+Sau este posibil să vă aflaţi într-o regiune neacceptată pentru această acţiune."</string>
+    <string name="unsupported_action_dialog_message_send_email">Pentru a utiliza această funcţie, descărcaţi cea mai recentă versiune de Gmail de pe Android Market.</string>
+    <string name="unsupported_action_dialog_message_set_alarm">Pentru a utiliza această funcţie, descărcaţi o aplicaţie ceas care acceptă această acţiune, de pe Android Market.</string>
+    <string name="unsupported_action_dialog_message_listen_to">Pentru a utiliza această funcţie, descărcaţi o aplicaţie muzicală care acceptă această acţiune de pe Android Market.</string>
+    <string name="market_button">Accesaţi Market</string>
+    <string name="website_button">Accesaţi site-ul web</string>
+    <string name="apps_button">Accesaţi aplicaţiile</string>
+    <string name="first_time_use_dialog_message_listen_to">"Puteţi utiliza această funcţie cu multe aplicaţii diferite.
+
+Accesaţi site-ul web de mai jos pentru o listă cu mai multe opţiuni sau apăsaţi pe OK pentru a continua."</string>
+    <string name="contacts_slot_placeholder">Ating. pt. a adăuga o persoană</string>
+    <string name="text_slot_placeholder">Atingeţi pentru a adăuga text</string>
+    <string name="time_slot_placeholder">Atingeţi pentru a seta timpul</string>
+    <string name="required_field_missing">Lipseşte un câmp obligatoriu</string>
+    <string name="no_video_available">Nu este disponibil niciun videoclip.</string>
+    <string name="permission_label_set_alarm">setare alarmă pentru ceasul cu alarmă</string>
+    <string name="permission_description_set_alarm">Permite aplicaţiei să seteze o alarmă într-o aplicaţie de ceas de alarmă instalată. Este posibil ca unele aplicaţii de ceas de alarmă să nu implementeze această funcţie.</string>
+    <string name="help_search_title">căutare pe web</string>
+</resources>

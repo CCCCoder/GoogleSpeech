@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">语音搜索</string>
+    <string name="settings">设置</string>
+    <string name="settings_button">设置</string>
+    <string name="english_voice_ime_name">Android 键盘</string>
+    <string name="initializing">开始运行</string>
+    <string name="listening">请开始说话</string>
+    <string name="working">正在处理</string>
+    <string name="wait">等待</string>
+    <string name="try_again">重试</string>
+    <string name="no_match">未找到匹配项</string>
+    <string name="network_error">连接问题</string>
+    <string name="server_error">服务器问题</string>
+    <string name="audio_error">音频问题</string>
+    <string name="recognizer_busy_error">语音识别程序正在使用中</string>
+    <string name="speech_timeout">没听到语音</string>
+    <string name="error">未知问题</string>
+    <string name="audio_file_access">已录制音频的访问权限</string>
+    <string name="audio_file_access_desc">可以访问录制的语音以便自我提醒和进行原始音频分析</string>
+    <string name="shortcut_access">语音搜索快捷方式</string>
+    <string name="shortcut_access_desc">可访问针对语音搜索而创建的快捷方式</string>
+    <string name="personalization_header">个性化识别</string>
+    <string name="personalization_settings_message">提高语音识别的准确度</string>
+    <string name="manage_personalization">Google 帐户信息中心</string>
+    <string name="manage_personalization_message">管理您收集的数据</string>
+    <string name="personalization_popup_first_time_header">要打开此设备上的个性化识别功能吗？</string>
+    <string name="personalization_popup_message">为了提高语音识别服务的品质，Google 会依照START_LINK移动隐私权政策END_LINK，将您的录音与相应的 Google 帐户相关联。</string>
+    <string name="personalization_more_info">更多信息</string>
+    <string name="personalization_popup_disable_message">如果停用此功能，我们将不再调整您语音的识别情况，并且日后此设备中的任何录音都不会与您的 Google 帐户相关联。NEW_LINE NEW_LINE请转至 START_LINKGoogle 信息中心END_LINK，以管理您的数据。</string>
+    <string name="button_yes">接受</string>
+    <string name="button_no">不接受</string>
+    <string name="connection_retying">正在重试...</string>
+    <string name="help">帮助</string>
+    <string name="help_hint">触摸<b>帮助</b>以了解您可以说些什么</string>
+    <string name="help_header">试着说...</string>
+    <string name="voice_actions">语音操作</string>
+    <string name="did_you_mean">您是不是指...</string>
+    <string name="did_you_say">您是不是说...</string>
+    <string name="or_try_search">或尝试 Google 语音搜索</string>
+    <string name="dial">拨打</string>
+    <string name="go">开始</string>
+    <string name="tryagain">请再说一次</string>
+    <string name="speak_now">请开始说话</string>
+    <string name="search_hint">Google 搜索</string>
+    <string name="voice_search_product_name">Google 搜索</string>
+    <string name="contact_dialing_product_name">联系人拨号</string>
+    <string name="speechservice_error">语音识别功能不可用</string>
+    <string name="searching">正在搜索...</string>
+    <string name="setting_alarm">正在设置闹钟...</string>
+    <string name="messaging_label">短信</string>
+    <string name="sending_sms">正在发送...</string>
+    <string name="error_sending_sms">无法发送此短信。</string>
+    <string name="sms_sent">短信已发送。</string>
+    <string name="no_suggestions">无建议</string>
+    <string name="add_number">添加号码</string>
+    <string name="voiceSearchPreferences">Google 语音识别设置</string>
+    <string name="prefTitle_language">语言</string>
+    <string name="prefDialogTitle_language">语言</string>
+    <string name="prefDefault_language">默认</string>
+    <string name="prefDefaultTitlePrefix_language">默认 - %s</string>
+    <string name="prefTitle_safeSearch">安全搜索</string>
+    <string name="prefSummary_safeSearchOff">关 - 不过滤我的搜索结果</string>
+    <string name="prefSummary_safeSearchModerate">中 - 仅过滤掉色情图片</string>
+    <string name="prefSummary_safeSearchStrict">高 - 同时过滤掉色情文字和色情图片</string>
+    <string name="prefSummary_safeSearchSuffix">仅适用于 Google 语音搜索</string>
+    <string name="prefDialogTitle_safeSearch">安全搜索</string>
+    <string name="prefTitle_profanityFilter">屏蔽不文明的字词</string>
+    <string name="prefSummary_profanityFilter">隐藏已确定为不文明的语音结果</string>
+    <string name="warningDialogTitle">语音搜索</string>
+    <string name="warningDialogMessageUnsupportedLanguage">"语音搜索目前不支持您设备的语言。
+
+将改用%s作为语音搜索语言。
+
+要切换成其他语音搜索语言，请访问“设置”。"</string>
+    <string name="warningDialogMessageLocaleChanged">"您的语音搜索语言已更改为：%s。
+
+要切换成其他语音搜索语言，请访问“设置”。"</string>
+    <string name="warningDialogMessageNewBackoffDefault">"您的语音搜索语言已更改为：%s。
+
+要切换成其他语音搜索语言，请访问“设置”。"</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">"语音搜索现在支持您设备中的其他默认语言：%s。
+
+要切换成该语言或其他语音搜索语言，请访问“设置”。"</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">"语音搜索现在支持您设备的语言：%s。
+
+要切换成其他语音搜索语言，请访问“设置”。"</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">"语音搜索现在支持您设备的语言：%s。
+
+要切换成该语言或其他语音搜索语言，请访问“设置”。"</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="appNameVoiceLog">语音收集服务</string>
+    <string name="textPathToOutput">输出文件的路径：</string>
+    <string name="textStopButton">停止</string>
+    <string name="textRecordButton">录音</string>
+    <string name="serviceLabel">Google</string>
+    <string name="shortcuts_searchable_description">语音搜索记录</string>
+    <string name="search_label">VoiceSearch 标签</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    <string name="message_too_long">讯息过长。</string>
+    <string name="send_email_submit">发送</string>
+    <string name="send_sms_submit">发送</string>
+    <string name="set_alarm_submit">设置</string>
+    <string name="note_to_self_submit">发送</string>
+    <string name="action_title_format">%s...</string>
+    <string name="slot_title_format">"%s： "</string>
+    <string name="from_account">发件人：</string>
+    <string name="menu_item_settings_title">设置</string>
+    <string name="help_watch_video">观看视频</string>
+    <string name="help_watch_video_capitalized">观看视频</string>
+    <string name="help_title_action">使用<annotation action="true">语音操作</annotation>进行搜索、控制和交流。</string>
+    <string name="help_hint_format">“%s”</string>
+    <string name="show_hints_on_search_title">显示提示</string>
+    <string name="show_hints_on_search">在搜索框上显示提示</string>
+    <string name="unsupported_action_dialog_title_format">“%s...”</string>
+    <string name="unsupported_action_dialog_message_default">您的设备目前不支持此语音操作。</string>
+    <string name="unsupported_action_dialog_message_maps_actions">"要使用此功能，请从 Android 电子市场下载最新版的 Google 地图。
+
+或者，您所在地区可能不支持执行此操作。"</string>
+    <string name="unsupported_action_dialog_message_send_email">要使用此功能，请从 Android 电子市场下载最新版的 Gmail。</string>
+    <string name="unsupported_action_dialog_message_set_alarm">要使用此功能，请从 Android 电子市场下载支持此操作的闹钟应用程序。</string>
+    <string name="unsupported_action_dialog_message_listen_to">要使用此功能，请从 Android 电子市场下载支持此操作的音乐应用程序。</string>
+    <string name="market_button">转到电子市场</string>
+    <string name="website_button">转到网站</string>
+    <string name="apps_button">转到应用程序</string>
+    <string name="first_time_use_dialog_message_listen_to">"您可以在多种不同应用程序中使用该功能。
+
+请访问下面的网站以获取包含更多选择的列表，或者按“确定”继续操作。"</string>
+    <string name="contacts_slot_placeholder">触摸以添加联系人</string>
+    <string name="text_slot_placeholder">触摸以添加文字</string>
+    <string name="time_slot_placeholder">触摸以设置时间</string>
+    <string name="required_field_missing">必填字段未填</string>
+    <string name="no_video_available">视频不存在。</string>
+    <string name="permission_label_set_alarm">在闹钟中设置提醒</string>
+    <string name="permission_description_set_alarm">允许应用程序在安装的闹钟应用程序中设置提醒。某些闹钟应用程序可能无法实现此功能。</string>
+    <string name="help_search_title">网页搜索</string>
+    
+    <string name="in_recognize">正在录音，等待返回结果</string>
+    
+    <string name="start_recognize">开始录音，请说话！</string>
+    <string name="recognize_error">录音失败，请查看是否联网，或者重启盒子</string>
+    <string name="recognize_error_no_network">没有网络请检查网络！</string>
+    <string name="install_google_voice">请安装谷歌语音输入</string>
+    <string name="install_xunfei_voice">请安装讯飞语音输入</string>
+    <string name="unknow_voice_type">未知的语音输入类型，请在设置中的语音输入中选择谷歌语音输入或者讯飞输入</string>
+    <string name="browser_not_install">浏览器未安装</string>
+</resources>
